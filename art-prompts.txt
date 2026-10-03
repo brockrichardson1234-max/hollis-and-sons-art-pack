@@ -978,6 +978,305 @@ Make one NEW opaque square 1024×1024 app icon, edge to edge, square corners. A 
 
 ---
 
+Topsoil — four block variants
+File: blocks/blocks-topsoil.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: warm brown packed earth with a few small low-contrast pebbles. Use #79553D as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+---
+
+Caves — four block variants
+File: blocks/blocks-caves.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: cool grey-brown damp rock, with a few small low-contrast pebble chips. Use #66625A as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+---
+
+Crystal Caverns — four block variants
+File: blocks/blocks-crystal.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: dark slate rock with a faint violet tint and a few tiny muted violet crystal flecks; no large crystals or bright jewel shapes. Use #4A4656 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+---
+
+Magma — four block variants
+File: blocks/blocks-magma.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: dark basalt with a few THIN muted-orange hairline cracks; dark rock dominates, not glowing lava rivers. Use #3E4144 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+---
+
+The Core — four block variants
+File: blocks/blocks-core.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates. Use #282A2C as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+---
+
+coal ore overlay
+File: blocks/ore-coal.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 74% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big black glossy coal lumps, with a few broad cool-steel grey highlight planes inside their dark outlines. The lumps must remain visible on near-black rock. Keep their mass black, not silver; no coal dust cloud.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big black glossy coal lumps, with a few broad cool-steel grey highlight planes inside their dark outlines. The lumps must remain visible on near-black rock. Keep their mass black, not silver; no coal dust cloud.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
+copper ore overlay
+File: blocks/ore-copper.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 82% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big irregular orange-copper nuggets. Flat copper #B4643A base, brighter orange-copper top-left highlights and one deeper copper shadow tone. No pale metallic silver.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big irregular orange-copper nuggets. Flat copper #B4643A base, brighter orange-copper top-left highlights and one deeper copper shadow tone. No pale metallic silver.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
+silver ore overlay
+File: blocks/ore-silver.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 79% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big angular pale-silver chunks with broad cream highlights and machine-steel grey shadow planes. Clearly light, metallic and distinct from black coal and warm copper.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big angular pale-silver chunks with broad cream highlights and machine-steel grey shadow planes. Clearly light, metallic and distinct from black coal and warm copper.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
+gold ore overlay
+File: blocks/ore-gold.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 92% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big irregular bright safety-yellow gold nuggets, with cream highlights and ochre-gold shadow planes. Clearly bright warm gold, not orange copper.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big irregular bright safety-yellow gold nuggets, with cream highlights and ochre-gold shadow planes. Clearly bright warm gold, not orange copper.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
+diamond ore overlay
+File: blocks/ore-diamond.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 78% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big pale-CYAN cut diamonds, each with a broad squat faceted jewel silhouette and a few cream facet highlights inside the outlines. Cyan/blue-green only; no emerald green, starburst or exterior shine.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Three big pale-CYAN cut diamonds, each with a broad squat faceted jewel silhouette and a few cream facet highlights inside the outlines. Cyan/blue-green only; no emerald green, starburst or exterior shine.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
+super ore overlay
+File: blocks/ore-super.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct colours and real transparency, but cluster occupies about 85% of the canvas's longest dimension instead of the requested approximately 60%.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Exactly ONE large bright EMERALD-GREEN crystal, upright and elongated with a tall six-sided prism silhouette, pointed top, broad facets and cream highlights inside the outline. Use vivid emerald #27A45C, distinctly greener than company teal and pale cyan. This emerald hue is explicitly requested despite the base industrial palette. No diamond-shaped silhouette, cyan colour, other crystals, stone base, halo, starburst, sparks or glow.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one transparent ore overlay for a 24px mining block.
+Make one NEW normal square 1024×1024 PNG. Subject: Exactly ONE large bright EMERALD-GREEN crystal, upright and elongated with a tall six-sided prism silhouette, pointed top, broad facets and cream highlights inside the outline. Use vivid emerald #27A45C, distinctly greener than company teal and pale cyan. This emerald hue is explicitly requested despite the base industrial palette. No diamond-shaped silhouette, cyan colour, other crystals, stone base, halo, starburst, sparks or glow.
+Centre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+IMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.
+
+---
+
 Rejected four-icon layout attempt 1; image not published
 Reason: Central fully transparent gaps only 1.52% vertically and 1.75% horizontally; user minimum is 15%. Native tool output 1254 square despite requested 1024 square.
 

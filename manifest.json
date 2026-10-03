@@ -2,8 +2,8 @@
   "company": "Hollis & Sons Excavation",
   "generator": "built-in imagegen",
   "repository": "https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack",
-  "imageCount": 56,
-  "newImageCount": 55,
+  "imageCount": 67,
+  "newImageCount": 66,
   "approvedMiner": {
     "path": "miner-four-poses-v1.png",
     "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-four-poses-v1.png",
@@ -2515,10 +2515,1250 @@
         "unmodifiedImagegenPng": true,
         "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
       }
+    },
+    {
+      "id": "blocks-topsoil",
+      "name": "Topsoil — four block variants",
+      "path": "blocks/blocks-topsoil.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/blocks-topsoil.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2014670,
+      "sha256": "1d17a5d81d5fdd395382493ef694fb96cc58ec252ea0ef1a3eb95f3d18521850",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "tile-sheet",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: warm brown packed earth with a few small low-contrast pebbles. Use #79553D as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: warm brown packed earth with a few small low-contrast pebbles. Use #79553D as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery."
+        }
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "order": [
+          "top-left",
+          "top-right",
+          "bottom-left",
+          "bottom-right"
+        ],
+        "gutterColourRgb": [
+          126,
+          127,
+          128
+        ],
+        "verticalGutter": {
+          "x": 589,
+          "width": 77,
+          "fractionOfCanvas": 0.06140350877192982
+        },
+        "horizontalGutter": {
+          "y": 588,
+          "height": 78,
+          "fractionOfCanvas": 0.06220095693779904
+        },
+        "tiles": [
+          {
+            "variant": 1,
+            "cell": "top-left",
+            "x": 0,
+            "y": 0,
+            "width": 589,
+            "height": 588
+          },
+          {
+            "variant": 2,
+            "cell": "top-right",
+            "x": 666,
+            "y": 0,
+            "width": 588,
+            "height": 588
+          },
+          {
+            "variant": 3,
+            "cell": "bottom-left",
+            "x": 0,
+            "y": 666,
+            "width": 589,
+            "height": 588
+          },
+          {
+            "variant": 4,
+            "cell": "bottom-right",
+            "x": 666,
+            "y": 666,
+            "width": 588,
+            "height": 588
+          }
+        ]
+      },
+      "layer": "topsoil",
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "quietTileCentreReviewed": true,
+        "softRimWithoutHeavyOutlineReviewed": true,
+        "variantColourConsistencyReviewed": true,
+        "variantMeanRgb": [
+          [
+            129.64,
+            79.35,
+            47.82
+          ],
+          [
+            129.71,
+            79.44,
+            48.02
+          ],
+          [
+            129.11,
+            78.98,
+            47.68
+          ],
+          [
+            129.59,
+            79.44,
+            48.1
+          ]
+        ],
+        "variantMeanLuma": [
+          87.77,
+          87.86,
+          87.38,
+          87.84
+        ],
+        "maximumVariantLumaSpread": 0.480000000000004,
+        "minerOverlayAt29PixelsReviewed": true,
+        "note": "Four material variants cropped without grey gutters and checked at 24px in a mixed 6x6 grid. No alternating colour/brightness pattern; quiet centres preserve the approved miner.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572516,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1253,
+          "bottom": 1253
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5012,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      }
+    },
+    {
+      "id": "blocks-caves",
+      "name": "Caves — four block variants",
+      "path": "blocks/blocks-caves.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/blocks-caves.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1756121,
+      "sha256": "70d7bed7d7092841ae9a5e51322c38419d798e18b20718634a40248bdd738db8",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "tile-sheet",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: cool grey-brown damp rock, with a few small low-contrast pebble chips. Use #66625A as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: cool grey-brown damp rock, with a few small low-contrast pebble chips. Use #66625A as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery."
+        }
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "order": [
+          "top-left",
+          "top-right",
+          "bottom-left",
+          "bottom-right"
+        ],
+        "gutterColourRgb": [
+          129,
+          129,
+          129
+        ],
+        "verticalGutter": {
+          "x": 587,
+          "width": 80,
+          "fractionOfCanvas": 0.06379585326953748
+        },
+        "horizontalGutter": {
+          "y": 586,
+          "height": 82,
+          "fractionOfCanvas": 0.06539074960127592
+        },
+        "tiles": [
+          {
+            "variant": 1,
+            "cell": "top-left",
+            "x": 0,
+            "y": 0,
+            "width": 587,
+            "height": 586
+          },
+          {
+            "variant": 2,
+            "cell": "top-right",
+            "x": 667,
+            "y": 0,
+            "width": 587,
+            "height": 586
+          },
+          {
+            "variant": 3,
+            "cell": "bottom-left",
+            "x": 0,
+            "y": 668,
+            "width": 587,
+            "height": 586
+          },
+          {
+            "variant": 4,
+            "cell": "bottom-right",
+            "x": 667,
+            "y": 668,
+            "width": 587,
+            "height": 586
+          }
+        ]
+      },
+      "layer": "caves",
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "quietTileCentreReviewed": true,
+        "softRimWithoutHeavyOutlineReviewed": true,
+        "variantColourConsistencyReviewed": true,
+        "variantMeanRgb": [
+          [
+            105.04,
+            98.13,
+            88.24
+          ],
+          [
+            104.85,
+            97.94,
+            88.1
+          ],
+          [
+            104.8,
+            97.92,
+            88.17
+          ],
+          [
+            104.7,
+            97.81,
+            88.07
+          ]
+        ],
+        "variantMeanLuma": [
+          98.89,
+          98.7,
+          98.68,
+          98.57
+        ],
+        "maximumVariantLumaSpread": 0.3200000000000074,
+        "minerOverlayAt29PixelsReviewed": true,
+        "note": "Four material variants cropped without grey gutters and checked at 24px in a mixed 6x6 grid. No alternating colour/brightness pattern; quiet centres preserve the approved miner.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572516,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1253,
+          "bottom": 1253
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5012,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      }
+    },
+    {
+      "id": "blocks-crystal",
+      "name": "Crystal Caverns — four block variants",
+      "path": "blocks/blocks-crystal.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/blocks-crystal.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1707823,
+      "sha256": "f5b8f77597b3ec84e0b7024f8a4f6039e77da9b0b975896ade1044341eb4dc87",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "tile-sheet",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: dark slate rock with a faint violet tint and a few tiny muted violet crystal flecks; no large crystals or bright jewel shapes. Use #4A4656 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: dark slate rock with a faint violet tint and a few tiny muted violet crystal flecks; no large crystals or bright jewel shapes. Use #4A4656 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery."
+        }
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "order": [
+          "top-left",
+          "top-right",
+          "bottom-left",
+          "bottom-right"
+        ],
+        "gutterColourRgb": [
+          126,
+          125,
+          125
+        ],
+        "verticalGutter": {
+          "x": 590,
+          "width": 74,
+          "fractionOfCanvas": 0.05901116427432217
+        },
+        "horizontalGutter": {
+          "y": 590,
+          "height": 75,
+          "fractionOfCanvas": 0.05980861244019139
+        },
+        "tiles": [
+          {
+            "variant": 1,
+            "cell": "top-left",
+            "x": 0,
+            "y": 0,
+            "width": 590,
+            "height": 590
+          },
+          {
+            "variant": 2,
+            "cell": "top-right",
+            "x": 664,
+            "y": 0,
+            "width": 590,
+            "height": 590
+          },
+          {
+            "variant": 3,
+            "cell": "bottom-left",
+            "x": 0,
+            "y": 665,
+            "width": 590,
+            "height": 589
+          },
+          {
+            "variant": 4,
+            "cell": "bottom-right",
+            "x": 664,
+            "y": 665,
+            "width": 590,
+            "height": 589
+          }
+        ]
+      },
+      "layer": "crystal",
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "quietTileCentreReviewed": true,
+        "softRimWithoutHeavyOutlineReviewed": true,
+        "variantColourConsistencyReviewed": true,
+        "variantMeanRgb": [
+          [
+            74.02,
+            68.42,
+            80.33
+          ],
+          [
+            74.39,
+            68.77,
+            80.77
+          ],
+          [
+            73.95,
+            68.41,
+            80.38
+          ],
+          [
+            74.59,
+            68.96,
+            81.05
+          ]
+        ],
+        "variantMeanLuma": [
+          70.47,
+          70.84,
+          70.45,
+          71.03
+        ],
+        "maximumVariantLumaSpread": 0.5799999999999983,
+        "minerOverlayAt29PixelsReviewed": true,
+        "note": "Four material variants cropped without grey gutters and checked at 24px in a mixed 6x6 grid. No alternating colour/brightness pattern; quiet centres preserve the approved miner.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572516,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1253,
+          "bottom": 1253
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5012,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      }
+    },
+    {
+      "id": "blocks-magma",
+      "name": "Magma — four block variants",
+      "path": "blocks/blocks-magma.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/blocks-magma.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1877874,
+      "sha256": "8b70207d4ab85592504471576b056adf5ec0fa7b8631f06c88768156b3bd5646",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "tile-sheet",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: dark basalt with a few THIN muted-orange hairline cracks; dark rock dominates, not glowing lava rivers. Use #3E4144 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: dark basalt with a few THIN muted-orange hairline cracks; dark rock dominates, not glowing lava rivers. Use #3E4144 as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery."
+        }
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "order": [
+          "top-left",
+          "top-right",
+          "bottom-left",
+          "bottom-right"
+        ],
+        "gutterColourRgb": [
+          128,
+          128,
+          128
+        ],
+        "verticalGutter": {
+          "x": 596,
+          "width": 63,
+          "fractionOfCanvas": 0.050239234449760764
+        },
+        "horizontalGutter": {
+          "y": 595,
+          "height": 63,
+          "fractionOfCanvas": 0.050239234449760764
+        },
+        "tiles": [
+          {
+            "variant": 1,
+            "cell": "top-left",
+            "x": 0,
+            "y": 0,
+            "width": 596,
+            "height": 595
+          },
+          {
+            "variant": 2,
+            "cell": "top-right",
+            "x": 659,
+            "y": 0,
+            "width": 595,
+            "height": 595
+          },
+          {
+            "variant": 3,
+            "cell": "bottom-left",
+            "x": 0,
+            "y": 658,
+            "width": 596,
+            "height": 596
+          },
+          {
+            "variant": 4,
+            "cell": "bottom-right",
+            "x": 659,
+            "y": 658,
+            "width": 595,
+            "height": 596
+          }
+        ]
+      },
+      "layer": "magma",
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "quietTileCentreReviewed": true,
+        "softRimWithoutHeavyOutlineReviewed": true,
+        "variantColourConsistencyReviewed": true,
+        "variantMeanRgb": [
+          [
+            61.68,
+            62.08,
+            63.58
+          ],
+          [
+            61.28,
+            61.74,
+            63.28
+          ],
+          [
+            61.69,
+            62.23,
+            63.85
+          ],
+          [
+            61.29,
+            61.82,
+            63.41
+          ]
+        ],
+        "variantMeanLuma": [
+          62.1,
+          61.75,
+          62.23,
+          61.82
+        ],
+        "maximumVariantLumaSpread": 0.4799999999999969,
+        "minerOverlayAt29PixelsReviewed": true,
+        "note": "Four material variants cropped without grey gutters and checked at 24px in a mixed 6x6 grid. No alternating colour/brightness pattern; quiet centres preserve the approved miner.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572516,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1253,
+          "bottom": 1253
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5012,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      }
+    },
+    {
+      "id": "blocks-core",
+      "name": "The Core — four block variants",
+      "path": "blocks/blocks-core.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/blocks-core.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1912570,
+      "sha256": "a956fdd3c66d22845772261e4c211966530c17e1912bf94f4a95ef085ad73136",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "tile-sheet",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates. Use #282A2C as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: opaque 2×2 block-material sheet for a side-view mining game.\nMake one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.\nAll four squares are the SAME material: near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates. Use #282A2C as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.\nTILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.\nOpaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery."
+        }
+      ],
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "order": [
+          "top-left",
+          "top-right",
+          "bottom-left",
+          "bottom-right"
+        ],
+        "gutterColourRgb": [
+          130,
+          130,
+          130
+        ],
+        "verticalGutter": {
+          "x": 588,
+          "width": 78,
+          "fractionOfCanvas": 0.06220095693779904
+        },
+        "horizontalGutter": {
+          "y": 587,
+          "height": 80,
+          "fractionOfCanvas": 0.06379585326953748
+        },
+        "tiles": [
+          {
+            "variant": 1,
+            "cell": "top-left",
+            "x": 0,
+            "y": 0,
+            "width": 588,
+            "height": 587
+          },
+          {
+            "variant": 2,
+            "cell": "top-right",
+            "x": 666,
+            "y": 0,
+            "width": 588,
+            "height": 587
+          },
+          {
+            "variant": 3,
+            "cell": "bottom-left",
+            "x": 0,
+            "y": 667,
+            "width": 588,
+            "height": 587
+          },
+          {
+            "variant": 4,
+            "cell": "bottom-right",
+            "x": 666,
+            "y": 667,
+            "width": 588,
+            "height": 587
+          }
+        ]
+      },
+      "layer": "core",
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "quietTileCentreReviewed": true,
+        "softRimWithoutHeavyOutlineReviewed": true,
+        "variantColourConsistencyReviewed": true,
+        "variantMeanRgb": [
+          [
+            39.34,
+            40.11,
+            40.3
+          ],
+          [
+            39.37,
+            40.11,
+            40.24
+          ],
+          [
+            39.02,
+            39.77,
+            39.93
+          ],
+          [
+            39.12,
+            39.8,
+            39.88
+          ]
+        ],
+        "variantMeanLuma": [
+          39.96,
+          39.97,
+          39.62,
+          39.67
+        ],
+        "maximumVariantLumaSpread": 0.3500000000000014,
+        "minerOverlayAt29PixelsReviewed": true,
+        "note": "Four material variants cropped without grey gutters and checked at 24px in a mixed 6x6 grid. No alternating colour/brightness pattern; quiet centres preserve the approved miner.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572516,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1253,
+          "bottom": 1253
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5012,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      }
+    },
+    {
+      "id": "ore-coal",
+      "name": "coal ore overlay",
+      "path": "blocks/ore-coal.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-coal.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 384732,
+      "sha256": "a280f71c2ec40a8e6c3a1b59684212e51f14f6a7a3954cf7432191e44eec3cb0",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big black glossy coal lumps, with a few broad cool-steel grey highlight planes inside their dark outlines. The lumps must remain visible on near-black rock. Keep their mass black, not silver; no coal dust cloud.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big black glossy coal lumps, with a few broad cool-steel grey highlight planes inside their dark outlines. The lumps must remain visible on near-black rock. Keep their mass black, not silver; no coal dust cloud.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 74% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big black glossy coal lumps, with a few broad cool-steel grey highlight planes inside their dark outlines. The lumps must remain visible on near-black rock. Keep their mass black, not silver; no coal dust cloud.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 50.3,
+        "clusterCentredReviewed": true,
+        "note": "Few large outlined chunks remain recognizable in all five 24px tile composites. Native cutout inspected on light and dark backgrounds; smaller centred cluster leaves terrain visible.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1343036,
+        "fullyOpaquePixels": 627,
+        "partialAlphaPixels": 228853,
+        "visibleArtworkBounds": {
+          "x": 322,
+          "y": 374,
+          "right": 952,
+          "bottom": 912
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
+    },
+    {
+      "id": "ore-copper",
+      "name": "copper ore overlay",
+      "path": "blocks/ore-copper.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-copper.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 537591,
+      "sha256": "1e89c4a54cc2b47a2fcb9ba5d4e955fbb1fb0c8cf2371b5f6db6ae698e1afba0",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular orange-copper nuggets. Flat copper #B4643A base, brighter orange-copper top-left highlights and one deeper copper shadow tone. No pale metallic silver.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular orange-copper nuggets. Flat copper #B4643A base, brighter orange-copper top-left highlights and one deeper copper shadow tone. No pale metallic silver.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 82% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular orange-copper nuggets. Flat copper #B4643A base, brighter orange-copper top-left highlights and one deeper copper shadow tone. No pale metallic silver.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 60.5,
+        "clusterCentredReviewed": true,
+        "note": "Few large outlined chunks remain recognizable in all five 24px tile composites. Native cutout inspected on light and dark backgrounds; smaller centred cluster leaves terrain visible.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1226390,
+        "fullyOpaquePixels": 1056,
+        "partialAlphaPixels": 345070,
+        "visibleArtworkBounds": {
+          "x": 246,
+          "y": 325,
+          "right": 1004,
+          "bottom": 975
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
+    },
+    {
+      "id": "ore-silver",
+      "name": "silver ore overlay",
+      "path": "blocks/ore-silver.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-silver.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 437210,
+      "sha256": "08445c15c96c115c52a9881b9c3a1930520f37893c4752483a9280c89c84feeb",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big angular pale-silver chunks with broad cream highlights and machine-steel grey shadow planes. Clearly light, metallic and distinct from black coal and warm copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big angular pale-silver chunks with broad cream highlights and machine-steel grey shadow planes. Clearly light, metallic and distinct from black coal and warm copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 79% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big angular pale-silver chunks with broad cream highlights and machine-steel grey shadow planes. Clearly light, metallic and distinct from black coal and warm copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 53,
+        "clusterCentredReviewed": true,
+        "note": "Few large outlined chunks remain recognizable in all five 24px tile composites. Native cutout inspected on light and dark backgrounds; smaller centred cluster leaves terrain visible.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1328156,
+        "fullyOpaquePixels": 805,
+        "partialAlphaPixels": 243555,
+        "visibleArtworkBounds": {
+          "x": 308,
+          "y": 382,
+          "right": 971,
+          "bottom": 927
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
+    },
+    {
+      "id": "ore-gold",
+      "name": "gold ore overlay",
+      "path": "blocks/ore-gold.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-gold.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 553052,
+      "sha256": "7057d3275313c54f564a465a6299273128c5c6b2afd8b9d76b337ea76ada3ae7",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular bright safety-yellow gold nuggets, with cream highlights and ochre-gold shadow planes. Clearly bright warm gold, not orange copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular bright safety-yellow gold nuggets, with cream highlights and ochre-gold shadow planes. Clearly bright warm gold, not orange copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 92% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big irregular bright safety-yellow gold nuggets, with cream highlights and ochre-gold shadow planes. Clearly bright warm gold, not orange copper.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 61.5,
+        "clusterCentredReviewed": true,
+        "note": "Few large outlined chunks remain recognizable in all five 24px tile composites. Native cutout inspected on light and dark backgrounds; smaller centred cluster leaves terrain visible.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1254550,
+        "fullyOpaquePixels": 785,
+        "partialAlphaPixels": 317181,
+        "visibleArtworkBounds": {
+          "x": 244,
+          "y": 349,
+          "right": 1014,
+          "bottom": 952
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
+    },
+    {
+      "id": "ore-diamond",
+      "name": "diamond ore overlay",
+      "path": "blocks/ore-diamond.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-diamond.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 487784,
+      "sha256": "88a65cda62fcdcc56386ede8f0956caa7c40625f0fda5925604f982df7a87801",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big pale-CYAN cut diamonds, each with a broad squat faceted jewel silhouette and a few cream facet highlights inside the outlines. Cyan/blue-green only; no emerald green, starburst or exterior shine.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big pale-CYAN cut diamonds, each with a broad squat faceted jewel silhouette and a few cream facet highlights inside the outlines. Cyan/blue-green only; no emerald green, starburst or exterior shine.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 78% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Three big pale-CYAN cut diamonds, each with a broad squat faceted jewel silhouette and a few cream facet highlights inside the outlines. Cyan/blue-green only; no emerald green, starburst or exterior shine.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 53.3,
+        "clusterCentredReviewed": true,
+        "note": "Few large outlined chunks remain recognizable in all five 24px tile composites. Native cutout inspected on light and dark backgrounds; smaller centred cluster leaves terrain visible.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1320841,
+        "fullyOpaquePixels": 813,
+        "partialAlphaPixels": 250862,
+        "visibleArtworkBounds": {
+          "x": 308,
+          "y": 363,
+          "right": 976,
+          "bottom": 923
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
+    },
+    {
+      "id": "ore-super",
+      "name": "super ore overlay",
+      "path": "blocks/ore-super.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/blocks/ore-super.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 414903,
+      "sha256": "9e0d085c365bbc2131a11045ec14f03c64aed7a4fc27535b1cdfde1abcd46497",
+      "transparentBackground": true,
+      "artPass": 2,
+      "deliveryStage": 2,
+      "assetType": "ore",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1024",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Exactly ONE large bright EMERALD-GREEN crystal, upright and elongated with a tall six-sided prism silhouette, pointed top, broad facets and cream highlights inside the outline. Use vivid emerald #27A45C, distinctly greener than company teal and pale cyan. This emerald hue is explicitly requested despite the base industrial palette. No diamond-shaped silhouette, cyan colour, other crystals, stone base, halo, starburst, sparks or glow.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Exactly ONE large bright EMERALD-GREEN crystal, upright and elongated with a tall six-sided prism silhouette, pointed top, broad facets and cream highlights inside the outline. Use vivid emerald #27A45C, distinctly greener than company teal and pale cyan. This emerald hue is explicitly requested despite the base industrial palette. No diamond-shaped silhouette, cyan colour, other crystals, stone base, halo, starburst, sparks or glow.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.",
+          "reason": "Correct colours and real transparency, but cluster occupies about 85% of the canvas's longest dimension instead of the requested approximately 60%."
+        },
+        {
+          "number": 2,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: one transparent ore overlay for a 24px mining block.\nMake one NEW normal square 1024×1024 PNG. Subject: Exactly ONE large bright EMERALD-GREEN crystal, upright and elongated with a tall six-sided prism silhouette, pointed top, broad facets and cream highlights inside the outline. Use vivid emerald #27A45C, distinctly greener than company teal and pale cyan. This emerald hue is explicitly requested despite the base industrial palette. No diamond-shaped silhouette, cyan colour, other crystals, stone base, halo, starburst, sparks or glow.\nCentre this compact cluster in the square. Its longest dimension fills about 60% of the canvas, with substantial equal transparent margins on all four sides. Use only these few BIG chunks; strong distinct silhouette, broad flat facets and bold dark-brown outlines matching the attached references. This exact full square will be shown at 24×24 pixels over warm soil, grey cave rock, violet slate, dark basalt and near-black rock. It must remain easy to spot on all five. No soil, rock tile, ground patch, scattered tiny flecks, machinery, hat, character, scene, caption or other object. Highlights are large flat shapes inside chunk outlines, never outside.\n\nOutput real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.\n\nIMAGE 5 IS THE EDIT TARGET: it is this same ore overlay from the rejected oversized attempt. Keep the ore's colour, chunky outline, number of chunks, facets, broad highlights and clean alpha style. Change its SCALE AND POSITION ONLY: reduce the complete ore illustration to 70% of its current width and height, centring it exactly on the same square canvas. Keep the whole square canvas; do NOT crop or trim away empty transparent margins. There must be a large clear fully transparent margin on every side. The final longest artwork extent should be approximately 60% of the square, visibly much smaller than Image 5. No added objects or ground; no shadow, haze, halo, glow, text, checkerboard or colour outside the outlined ore. Do not zoom in to fill the canvas."
+        }
+      ],
+      "validation": {
+        "readableAtPixels": 24,
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "noVisibleHaloReviewed": true,
+        "checkedOnLayers": [
+          "topsoil",
+          "caves",
+          "crystal",
+          "magma",
+          "core"
+        ],
+        "coverageOfLongestCanvasDimensionPercent": 64.4,
+        "clusterCentredReviewed": true,
+        "note": "One emerald-green vertical crystal with cream facet highlights; visibly distinct from the pale-cyan diamond cluster in all five 24px tile composites.",
+        "width": 1254,
+        "height": 1254,
+        "minimumAlpha": 0,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 1320585,
+        "fullyOpaquePixels": 668,
+        "partialAlphaPixels": 251263,
+        "visibleArtworkBounds": {
+          "x": 434,
+          "y": 259,
+          "right": 819,
+          "bottom": 1065
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 0,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Scale-only edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 2
+      }
     }
   ],
-  "revision": 4,
-  "revisionSummary": "Art pass 2, stage 1: Upgrade icons and app icon. 28 new pass-2 PNGs published in total.",
+  "revision": 5,
+  "revisionSummary": "Art pass 2, stage 2: Block tiles and ore overlays. 39 new pass-2 PNGs published in total.",
   "checkedFemaleMiner": {
     "path": "miner-female-v1.png",
     "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-v1.png",
@@ -2552,7 +3792,7 @@
   },
   "artPass2": {
     "generator": "built-in imagegen",
-    "completedThroughStage": 1,
+    "completedThroughStage": 2,
     "completedStages": [
       {
         "stage": 1,
@@ -2587,12 +3827,29 @@
           "icons/icon-e-quarry.png",
           "app-icon/app-icon-v1.png"
         ]
+      },
+      {
+        "stage": 2,
+        "name": "Block tiles and ore overlays",
+        "files": [
+          "blocks/blocks-topsoil.png",
+          "blocks/blocks-caves.png",
+          "blocks/blocks-crystal.png",
+          "blocks/blocks-magma.png",
+          "blocks/blocks-core.png",
+          "blocks/ore-coal.png",
+          "blocks/ore-copper.png",
+          "blocks/ore-silver.png",
+          "blocks/ore-gold.png",
+          "blocks/ore-diamond.png",
+          "blocks/ore-super.png"
+        ]
       }
     ],
     "iconCount": 27,
     "appIconCount": 1,
-    "tileSheetCount": 0,
-    "oreOverlayCount": 0,
+    "tileSheetCount": 5,
+    "oreOverlayCount": 6,
     "tunnelWallCount": 0,
     "styleReferences": [
       "miner-four-poses-v1.png",

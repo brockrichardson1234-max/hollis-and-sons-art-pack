@@ -1,6 +1,6 @@
 # Hollis and Sons Game Art
 
-This repository contains the approved miner reference and 55 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
+This repository contains the approved miner reference and 66 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
 
 [Download the complete repository as a ZIP](https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack/archive/refs/heads/main.zip). [manifest.json](manifest.json) lists each image, dimensions, raw download URL, generation prompt, and integration notes. The complete prompt set is also in [art-prompts.txt](art-prompts.txt).
 
@@ -225,13 +225,15 @@ Finishing method: Generated headwear/hair edits fitted with an 8px feathered mas
 <!-- ART-PASS-2 -->
 ## Art pass 2
 
-Published through stage 1: 28 new PNGs. Stage 1 contains 27 individual upgrade icons in `icons/` and the opaque app icon in `app-icon/`.
+Published through stage 2: 39 new PNGs. Stage 1 contains 27 individual upgrade icons in `icons/` and the opaque app icon in `app-icon/`. Stage 2 adds five opaque 2×2 block sheets and six transparent ore overlays in `blocks/`.
 
 Every image used these four style references: [approved miner](miner-four-poses-v1.png), [Big Bertha body](machines/machine-big-bertha-body-v1.png), [mole courier](moles/mole-four-frames-v2.png), and [yellow hard hat](hats/hat-yellow-hardhat-v2.png).
 
 The icons were checked at 48 px on white, dark and earth backgrounds; the app icon at 60 px. It is fully opaque with square corners, and its face stays inside the central 80%. No text appears in the new artwork. Repeated hands have the requested three or five ghost copies, and the epic tap glove is gold. Wide-gap icon sheets were attempted and rejected; the individual icon files require no sheet cutting.
 
 The normal 1024 px canvases were requested. Imagegen returned native dimensions recorded below, including 1254 px square assets. These original PNGs are preserved byte for byte, without resizing, hand painting, text removal, seam repair or alpha cleanup. Every prompt used, including rejected attempts, is in [art-prompts.txt](art-prompts.txt) and [manifest.json](manifest.json); the manifest also records per-image alpha checks, hashes and review notes.
+
+Each block sheet holds four equally coloured material variants. Use its manifest crop rectangles to exclude grey gutters, then scale each tile to 24 px. Ore overlays were checked at 24 px over all five materials; the single emerald-green super crystal differs from the pale-cyan diamond cluster in both hue and shape.
 
 The original approved miner and earlier assets remain intact. These checks cover standalone asset previews; the game integration and playtest happen in the game repository.
 
@@ -265,3 +267,14 @@ The original approved miner and earlier assets remain intact. These checks cover
 | [icons/icon-e-mole.png](icons/icon-e-mole.png) | 1254 × 1254 | Transparent | 48 px |
 | [icons/icon-e-quarry.png](icons/icon-e-quarry.png) | 1254 × 1254 | Transparent | 48 px |
 | [app-icon/app-icon-v1.png](app-icon/app-icon-v1.png) | 1254 × 1254 | Opaque | 60 px |
+| [blocks/blocks-topsoil.png](blocks/blocks-topsoil.png) | 1254 × 1254 | Opaque | 24 px |
+| [blocks/blocks-caves.png](blocks/blocks-caves.png) | 1254 × 1254 | Opaque | 24 px |
+| [blocks/blocks-crystal.png](blocks/blocks-crystal.png) | 1254 × 1254 | Opaque | 24 px |
+| [blocks/blocks-magma.png](blocks/blocks-magma.png) | 1254 × 1254 | Opaque | 24 px |
+| [blocks/blocks-core.png](blocks/blocks-core.png) | 1254 × 1254 | Opaque | 24 px |
+| [blocks/ore-coal.png](blocks/ore-coal.png) | 1254 × 1254 | Transparent | 24 px |
+| [blocks/ore-copper.png](blocks/ore-copper.png) | 1254 × 1254 | Transparent | 24 px |
+| [blocks/ore-silver.png](blocks/ore-silver.png) | 1254 × 1254 | Transparent | 24 px |
+| [blocks/ore-gold.png](blocks/ore-gold.png) | 1254 × 1254 | Transparent | 24 px |
+| [blocks/ore-diamond.png](blocks/ore-diamond.png) | 1254 × 1254 | Transparent | 24 px |
+| [blocks/ore-super.png](blocks/ore-super.png) | 1254 × 1254 | Transparent | 24 px |
