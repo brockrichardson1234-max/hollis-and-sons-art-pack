@@ -1,0 +1,277 @@
+Hat 2 of 3 — headlamp helmet
+File: hats/hat-headlamp-helmet-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One miner's safety-yellow helmet with a brass headlamp on its own, facing right, sitting level as if on the approved miner's bare head seen from the side. The brass headlamp sits at the front, pointing right. Match the miner's head angle and proportions. Full helmet visible, generous clear margins. Only the helmet, with no head, hair, face, person, or other equipment.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Hat 3 of 3 — raised welder's visor
+File: hats/hat-welder-visor-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One welder's visor helmet with the visor flipped UP, on its own, facing right, sitting level as if on the approved miner's head seen from the side. A machine-steel helmet and raised protective face shield with simple sturdy fittings. Leave the wearer's face area open. Match the miner's head angle and proportions. Full helmet visible, generous clear margins. Only the helmet, with no head, hair, face, person, or other equipment.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 1 of 6 — shovel
+File: tools/tool-shovel-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One digging shovel on its own, lying flat horizontally in side view, wooden handle on the LEFT and machine-steel shovel blade on the RIGHT. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 2 of 6 — pickaxe
+File: tools/tool-pickaxe-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One classic mining pickaxe on its own, lying flat horizontally in side view, wooden handle on the LEFT and machine-steel pickaxe head on the RIGHT. The head has one pointed picking end and one broad chisel end. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 3 of 6 — double-headed pick
+File: tools/tool-double-pick-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One double-headed mining pick on its own, lying flat horizontally in side view, wooden handle on the LEFT and machine-steel double-pointed head on the RIGHT. Both ends of the metal head are pointed picks. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 4 of 6 — jackhammer
+File: tools/tool-jackhammer-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One chunky vintage jackhammer on its own, lying flat horizontally in side view, gripping handles on the LEFT and the chisel bit on the RIGHT. Machine-steel body with restrained company-teal panels and copper fittings. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 5 of 6 — pneumatic rock drill
+File: tools/tool-rock-drill-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One pneumatic rock drill on its own, lying flat horizontally in side view, gripping handle on the LEFT and the long rock-drilling bit on the RIGHT. Chunky machine-steel pressure housing with copper air fittings and restrained company-teal accents. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Tool 6 of 6 — atomic drill
+File: tools/tool-atomic-drill-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One retro atomic-age digging drill on its own, lying flat horizontally in side view, gripping handle on the LEFT and drill head on the RIGHT. Chunky machine-steel and copper body with a small glowing teal core. Confine the glow close to the core so the tool stays clean and readable when small. Full tool visible, generous clear margins. No hand, character, or other tools.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Keep the dark-brown outer outline crisp; no cast shadow or colored background haze.
+
+---
+
+Camp 1 of 6 — Spoil Heap
+File: machines/machine-spoil-heap-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Spoil Heap for a mining camp: a growing pile of brown dirt with a small blank company-teal flag on a pole at the top. Cheerful chunky readable silhouette, quiet dirt texture, flat level base. Full pile and flag visible, generous clear margins. One pile only; no machinery or buildings.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Camp 2 of 6 — Wash Plant
+File: machines/machine-wash-plant-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Wash Plant for a mining camp: a chunky conveyor and water chute with small wisps of steam, rivets, dials, and a big lever. Machine-steel construction with copper pipes, company-teal panels, and restrained safety-yellow trim. Sitting level on a flat base. Full machine visible, generous clear margins.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Camp 3 of 6 — Big Bertha body
+File: machines/machine-big-bertha-body-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Big Bertha: a chunky steam-powered mining drill rig, with rivets, dials, a big lever, and a completely BLANK nameplate. Machine-steel construction with copper pipes and company-teal panels. Its drilling axis points straight DOWN. Generate the rig BODY ONLY: leave the bottom drill-bit mounting collar visible and omit the detachable moving drill bit entirely, because that bit will be a separate animated sprite. The body sits level on a sturdy support base with a clear opening beneath the mounting collar. Full rig visible, generous clear margins.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Big Bertha — separate moving drill bit
+File: machines/machine-big-bertha-bit-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+Use the attached Big Bertha BODY as the primary reference and the approved miner as the illustration-style reference. Create only the separate moving drill bit that fits Big Bertha's bottom mounting collar. It is a stout machine-steel drilling bit with the same dark-brown outlines and material shading as the rig, pointing straight DOWN, with its connecting shaft at the TOP. Match the rig's visible socket and industrial construction. Full bit visible with generous clear margins. No rig body, support base, or other objects.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Camp 4 of 6 — Foreman's Office
+File: machines/machine-foremans-office-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Foreman's Office for a mining camp: a tiny sturdy wooden shack with a clipboard visible in the window. Cheerful 1950s company look, simple chunky wooden construction, company-teal door or trim, blank signage. Sitting level on a flat base. Full shack visible, generous clear margins.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Camp 5 of 6 — Power House
+File: machines/machine-power-house-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Power House for a mining camp: a small brick building with clearly visible gauges, copper pipe fittings, a big lever, and ONE tall chimney. Chunky cheerful 1950s industrial design with company-teal trim and machine-steel machinery fittings. Sitting level on a flat base. Full building and chimney visible, generous clear margins.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.
+
+---
+
+Camp 6 of 6 — The Reactor
+File: machines/machine-reactor-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+One side-view Reactor for a mining camp: a retro atomic-age glowing teal dome on a chunky machine-steel and copper base, with rivets, dials, and a big lever. Confine the glow near the dome and keep its silhouette clean and readable at small size. Sitting level on a flat base. Full reactor visible, generous clear margins.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Keep the dark-brown outer outline crisp; no cast shadow or colored background haze.
+
+---
+
+Camp backdrop — wide panorama
+File: backdrop/camp-backdrop-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+A wide, short landscape for the top of a mine: dusty hills and a pale sky, a few small distant company buildings. NO machines and NO people. Wide panorama, about three times wider than tall. Keep the foreground simple and quiet so the camp machines can be placed in front later. Fully OPAQUE, no text, logos, or borders.
+
+Output: fully opaque PNG.
+
+---
+
+Hat 1 of 3 — yellow hard hat
+File: hats/hat-yellow-hardhat-v2.png
+
+Image 1 is the yellow hard hat edit target. Image 2 is the approved miner illustration-style reference.
+
+Keep the hat's exact shape, design, safety-yellow colors, dark-brown outline, paper-grain texture, right-facing angle, scale, and placement. Change only its transparency and outside edge.
+
+Remove the soft brown halo and haze OUTSIDE the hat's dark-brown silhouette. Everything outside that silhouette must be fully transparent, with only a narrow antialiased edge. The solid hat artwork must be opaque. Preserve all painted shading INSIDE the hat. No drop shadow, glow, background, checkerboard, text, logos, head, or character. Output a true transparent PNG.
+
+---
+
+Mole courier — four frames with distinct walking steps
+File: moles/mole-four-frames-v2.png
+
+Image 1 is the mole sprite-sheet edit target. Image 2 is the approved miner illustration-style reference.
+
+Preserve the exact cheerful mole character, face, fur colors, yellow helmet, sacks, lunch pails, left-facing direction, flat poster shading, paper grain, dark-brown outline, square 2×2 layout, and character scale. Keep the two LEFT-column frames unchanged.
+
+Change ONLY the walking leg positions in the two RIGHT-column frames, so each two-frame walk cycle has a visibly different step. In the top-right loaded frame and bottom-right lunch-pail frame, show the opposite leg leading: the right foot points forward to the LEFT, with the left leg trailing and its heel raised. Use a narrower passing-step silhouette, with the feet noticeably closer together beneath the body than in the wide-stride LEFT-column poses. Keep the body, face, hat, and carried objects consistent.
+
+Top row: two loaded sack-carrying frames. Bottom row: two returning lunch-pail frames. All four face LEFT. Feet on the same local baseline in each cell. Do not duplicate the wide-stride leg pose across each row.
+
+True transparent PNG with crisp cutout edges, no scenery, shadow, haze, text, logos, labels, grid lines, or borders.
+
+---
+
+Ground — nine opaque tiles
+File: ground/ground-nine-tiles-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+A square image split into a precise 3×3 grid of equal square ground tiles for a side-view mine. Every tile fills its square edge to edge, fully OPAQUE, no gaps, no grid lines, no borders. Soil should tile seamlessly, with the same quiet soil colors along the edges of the dirt and ore tiles; keep ore deposits away from tile edges.
+Row 1, left to right: brown dirt; a second dirt variant; dirt with coal chunks.
+Row 2, left to right: dirt with copper ore; dirt with silver ore; dirt with gold nuggets.
+Row 3, left to right: dirt with a teal diamond; dark dug-out back wall; a wooden support post with iron brackets against an opaque dark mine-wall fill. The wooden post runs the full height of its tile and remains readable if this tile is stretched twice as tall.
+Ores bright and easy to spot; the soil itself quiet. The timber post stays a solid tile in this sheet. No text, labels, scenery, or transparency.
+
+Output: fully opaque PNG.
+
+---
+
+Old Hollis — framed founder portrait
+File: portrait/old-hollis-portrait-v1.png
+
+Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.
+
+A framed portrait of Old Hollis, the company founder: an old man with a big white mustache in a three-piece suit, proud and a little mischievous, inside an ornate gold frame. Portrait shape, taller than wide. The painted portrait background inside the frame is opaque cream; the area OUTSIDE the frame is truly transparent. Full frame visible with generous clear margins. No writing or name plaque.
+
+Background: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.
+Use a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.

@@ -1,0 +1,15 @@
+Create a sprite sheet for a 2D mining game.
+
+Style: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, chunky dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. Use natural warm colors for skin, hair and boots.
+
+One cheerful mine worker in teal coveralls, plain cream work gloves and sturdy brown boots. Bare head with short hair. NO hat and NO tool.
+
+A square image split into a 2×2 grid of four equal cells, with no grid lines, labels or borders, and generous empty space around each pose.
+Top left: ready stance, both hands gripping an imaginary pick handle at waist height.
+Top right: wind-up, both hands raised behind the head.
+Bottom left: downward strike, both hands brought down in front.
+Bottom right: follow-through, recovering.
+
+Same character, proportions, outfit and size in every cell, facing right, side view. Both feet planted on the same baseline in every cell. Both closed hands grip the same imaginary handle.
+
+Background: truly transparent PNG with actual alpha outside the character artwork. No scenery, checkerboard pattern, ground shadow, text or logos.
