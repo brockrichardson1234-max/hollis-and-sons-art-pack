@@ -2,8 +2,8 @@
   "company": "Hollis & Sons Excavation",
   "generator": "built-in imagegen",
   "repository": "https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack",
-  "imageCount": 21,
-  "newImageCount": 20,
+  "imageCount": 28,
+  "newImageCount": 27,
   "approvedMiner": {
     "path": "miner-four-poses-v1.png",
     "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-four-poses-v1.png",
@@ -20,7 +20,8 @@
     "The ground sheet is fully opaque. Timber remains the bottom-right solid tile.",
     "Some transparent assets retain soft colored edge halos; trim them during the cutout pass.",
     "Check ground-tile seams under repetition in the game. Pixel-perfect periodic edges have not been verified.",
-    "Final scaling, frame alignment, gear attachment, and validation at actual game size remain part of game integration."
+    "Final scaling, frame alignment, gear attachment, and validation at actual game size remain part of game integration.",
+    "Miner helmet variants keep their corresponding male or female body pixels. Keep the original 627px frame rectangles and common origins for each character; each helmet variant already includes its headwear."
   ],
   "assets": [
     {
@@ -296,12 +297,590 @@
       "styleReference": "miner-four-poses-v1.png",
       "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nA framed portrait of Old Hollis, the company founder: an old man with a big white mustache in a three-piece suit, proud and a little mischievous, inside an ornate gold frame. Portrait shape, taller than wide. The painted portrait background inside the frame is opaque cream; the area OUTSIDE the frame is truly transparent. Full frame visible with generous clear margins. No writing or name plaque.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nUse a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.",
       "integrationNote": "Interior portrait is filled; the outside frame area has actual alpha and a soft golden fringe that may need trimming."
+    },
+    {
+      "id": "miner-hardhat",
+      "name": "Male miner — yellow hard hat, four poses",
+      "path": "miner-hardhat-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-hardhat-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1014370,
+      "sha256": "ec429f54bcd23bb52684fe78f049cf73410af6c61c7badd47d0b00359ee3e0f8",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the approved male miner sheet and the sole edit target. Image 2 is the approved yellow hard hat design, to be scaled and fitted onto his head in each of the four existing poses.\nChange ONLY the top of the head/hair and the immediate forehead shadow to make the same man wear this safety-yellow #F2B829 hard hat. Keep his facial identity and expression exactly. The head must sit INSIDE the crown; the brim rests snugly across the forehead, a little above the eyebrows. Hide the top and front hair under the hat; show only a little at the back and sides. Cast a soft, restrained brim shadow on the forehead. Rotate the fitted hat naturally with the head's existing angle, particularly the forward-bent bottom-left strike. Never perch the hat above the hair or leave an air gap. Size it as protective headwear, not an oversized costume.\nKeep the whole figure, including hat, inside each original cell. Everything below the head remains unchanged. Preserve the exact original boot coordinates and body size. Save as miner-hardhat-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "yellow hard hat",
+      "refinementPrompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the approved male miner sheet and the sole edit target. Image 2 is the approved yellow hard hat design, to be scaled and fitted onto his head in each of the four existing poses.\nChange ONLY the top of the head/hair and the immediate forehead shadow to make the same man wear this safety-yellow #F2B829 hard hat. Keep his facial identity and expression exactly. The head must sit INSIDE the crown; the brim rests snugly across the forehead, a little above the eyebrows. Hide the top and front hair under the hat; show only a little at the back and sides. Cast a soft, restrained brim shadow on the forehead. Rotate the fitted hat naturally with the head's existing angle, particularly the forward-bent bottom-left strike. Never perch the hat above the hair or leave an air gap. Size it as protective headwear, not an oversized costume.\nKeep the whole figure, including hat, inside each original cell. Everything below the head remains unchanged. Preserve the exact original boot coordinates and body size. Save as miner-hardhat-v1.png.\n\nAlignment correction: the first attempt changed body pixels and shifted some gloves/boots, which is not acceptable. Edit Image 1 locally; preserve its original pixels outside these four head rectangles (coordinates in the 1254×1254 sheet): ready x276–431 y20–214; wind-up x879–1039 y35–225; strike x387–557 y670–852; follow-through x874–1044 y613–802. These rectangles are the ONLY permitted edit areas.\nImage 2 is the previous fitted-hardhat result: use ONLY its four worn-hat/head treatments as reference. Do NOT use its body, gloves, face placement, or boots. Image 3 is the original yellow hat design.\nRestore the exact ORIGINAL torso/legs/gloves/boots from Image 1; do not change any contour or shading outside the head rectangles. Original foot baselines, hand anchors, figure scales and cell offsets must match precisely. Keep the man’s eyes, nose, mouth and jaw in Image 1's original coordinates. Place the hat around that existing head, hiding the upper hair and touching the forehead, with the strike hat rotated down with the existing head. One 1254×1254 image with real alpha, no rescaling.",
+      "bodyReference": "miner-four-poses-v1.png",
+      "hatReference": "hats/hat-yellow-hardhat-v2.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1212810,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "id": "miner-headlamp",
+      "name": "Male miner — headlamp helmet, four poses",
+      "path": "miner-headlamp-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-headlamp-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1030653,
+      "sha256": "143b8765fe7b4422d57c15599ff75ba50e91addb03caace0fb56303a7a2e7ac7",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the approved male miner sheet and sole edit target. Image 2 is the approved miner's headlamp helmet design: a yellow crown, machine-steel retaining band and front-mounted brass lamp. Fit that exact helmet onto the same man's head in each of the four existing poses.\nChange ONLY the upper head/hair and a small shadow on the forehead. Preserve the existing face, eyes, nose, mouth, jaw and their positions. Put the top of the head INSIDE the helmet, with its brim resting on the forehead above the eyebrows, hair mostly tucked away and only a little brown hair visible behind the ear. A restrained soft brim shadow falls on the forehead. The helmet follows each original head tilt; bottom-left points downward with the bent striking head. The lamp faces right with the face and has a cream lens, without a projecting beam or exterior glow.\nKeep the helmet small enough to wear naturally. It must not float or sit on top of visible hair. Never move or redraw the original torso, sleeves, gloves, fists, legs or boots. Foot baselines and hand anchors stay at the original exact coordinates. One 1254×1254 transparent PNG, no rescaling, named miner-headlamp-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "headlamp helmet",
+      "bodyReference": "miner-four-poses-v1.png",
+      "hatReference": "hats/hat-headlamp-helmet-v1.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1210720,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "id": "miner-welder",
+      "name": "Male miner — raised welder helmet, four poses",
+      "path": "miner-welder-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-welder-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1061285,
+      "sha256": "ba998926347670ec41a7344003e874607003c52a7a3cf88337ee0720cd897d10",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the approved male miner sprite sheet and sole edit target. Image 2 is the approved machine-steel welder's helmet with its rectangular visor flipped UP, dark brown outlines, cream steel edge highlights and round hinge hardware. Scale and fit that exact helmet onto the existing man's head in each of his four poses.\nChange ONLY the upper head/hair and the small immediate forehead shadow. The head is inside the steel crown, with its forehead band seated snugly above the eyebrows and a little brown hair visible only near the ear/back. The raised hinged visor stays above the face; all eyes, nose, smiling mouth and jaw remain visible, with their original identity and coordinates. Add the soft forehead shadow from the helmet's band. The crown, hinge and raised visor move together, tilting naturally with the existing head in each cell, especially the forward-down strike. No floating helmet, no visible thick hair mound under the crown, no dangling straps over hands.\nKeep the head and face in their original positions; do not enlarge or lower them. Preserve the original body's contours, teal coveralls, cream gloves and brown boots pixel for pixel. Fists remain closed with no tool. Preserve the exact original baselines and margins. One transparent 1254×1254 sprite sheet, no rescaling, named miner-welder-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "raised welder helmet",
+      "bodyReference": "miner-four-poses-v1.png",
+      "hatReference": "hats/hat-welder-visor-v1.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1198162,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "id": "miner-female",
+      "name": "Female miner — bare head, four poses",
+      "path": "miner-female-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 969206,
+      "sha256": "f39c76dee79349d360ebd2b3174a5cdb364b027d59f03380552776b096d09997",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: illustration-story / identity-preserve.\nAsset type: female miner base sprite sheet for the Hollis & Sons 2D game, a genuinely transparent PNG.\nImage 1 is the approved male miner sheet: use it as a precise canvas, pose, scale, glove-position, boot-position and style reference. Image 2 is the chosen female character: preserve her consistent short chestnut-brown swept-back hair and friendly adult female face across all four poses.\n\nRedraw a complete female miner with HER OWN female body. This is not a male body with a swapped female head. Keep a sturdy, practical build in loose teal company coveralls, cream work gloves and brown work boots. Give her naturally feminine shoulder/torso/hip anatomy under the workwear, without exaggerated curves, a tiny waist, or sexualized clothing. Her body occupies the same overall size and stance as the approved male, with the same head scale, pose angles, hand grip centers and boot contact positions. Preserve the chosen woman's warm skin color, face, smiling expression and short practical hair consistently. No hat and no tool; closed hands gripping an invisible handle.\n\nExact composition: 1254×1254 square canvas, precise 2×2 grid, each cell 627×627. Top left READY: fists together at waist height. Top right WIND-UP: fists together raised behind the head. Bottom left STRIKE: forward bend and fists together lowered in front. Bottom right FOLLOW-THROUGH: recovering with hands in front. All face right. Match Image 1's figure position, size, hand placement and foot baseline separately in each corresponding cell. Do not add new padding, crop, rescale or recenter the sheet. Full boots visible and feet planted.\n\nMatch the reference illustration exactly: cheerful 1950s American industrial safety-poster art, flat colors with two-tone shading, chunky even dark-brown outlines, company teal #2F6B66, cream #EFE4C8 gloves, brown boots, copper-brown hair, upper-left lighting and restrained paper grain confined to the shapes.\nFully transparent alpha around and between the figures; no white or checkered background, exterior halo, glow, ground shadow, scene, tools, hats, jewelry, logos, text, borders or grid lines. One complete four-pose sheet named miner-female-v1.png. This sheet will become the fixed female body reference for all her helmet variants.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": null,
+      "generationNote": "Complete female character independently drawn with her own body. The approved male was a style and pose reference; no male body pixels were copied. An earlier female character study supplied the selected face and hair.",
+      "processingNote": "Female-only pixels aligned within the original 627px cells. All four boot baselines match the approved male sheet; the largest glove centroid difference is 0.25 native pixels.",
+      "status": "checked body reference for female helmet variants",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "noHat": true,
+        "independentlyDrawnFemaleBody": true,
+        "maleBodyPixelsCopied": false,
+        "baselineDeltasFromApprovedMale": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "maximumGloveCentroidDifferenceNativePixels": 0.25,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4
+      }
+    },
+    {
+      "id": "miner-female-hardhat",
+      "name": "Female miner — yellow hard hat, four poses",
+      "path": "miner-female-hardhat-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-hardhat-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 969319,
+      "sha256": "a0ee7381d49167719aeb5798003de8588d36d58869d1d2c64a253a462e99d810",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the CHECKED FEMALE BASE and sole edit target. Image 2 is the original male sheet, provided only as the original pose/style reference. Do not reuse the man's face or body. Image 3 is the approved yellow hard hat design.\nFit that safety-yellow #F2B829 hard hat naturally onto this same woman in every one of her four existing poses. Preserve her exact female face, smiling expression, head size, neck position, eye line and short chestnut-brown hair identity. Hide her entire top/front hair under the crown and cut the hair silhouette back to the brim line, showing only a small amount behind the ear and at the back. The crown surrounds the top of her head; the brim rests directly on her forehead above her eyebrows and casts a soft, restrained shadow onto the forehead. No hair through the brim and no gap between hat and head. Rotate the helmet with her original head tilt, including the forward/down bottom-left strike.\nLeave HER existing body, sleeves, gloves, closed hands, outfit, legs, boots, figure positions and foot baselines unchanged. Do not substitute any male anatomy. We will preserve her approved body pixels and blend only the generated head/hat edit at the neck with a soft feathered mask. No tool, no background, no glow. One 1254×1254 transparent sheet named miner-female-hardhat-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "yellow hard hat",
+      "bodyReference": "miner-female-v1.png",
+      "hatReference": "hats/hat-yellow-hardhat-v2.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1211583,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "id": "miner-female-headlamp",
+      "name": "Female miner — headlamp helmet, four poses",
+      "path": "miner-female-headlamp-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-headlamp-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 980037,
+      "sha256": "51f87cf7c2932503d5510b6aada24864b9f5031eb4dde18022bcf26403a69b8b",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the CHECKED FEMALE BASE and the sole edit target. Image 2 is the approved male sheet, only for original pose/style reference. Keep the woman's own face and body. Image 3 is the approved yellow headlamp helmet with a machine-steel band and front-mounted brass lamp.\nChange only the woman's head/hair and immediate forehead shadow to wear that headlamp helmet naturally in all four poses. Her top of head sits INSIDE the crown. The brim rests on the forehead just above the eyebrows and casts a soft shadow. Tuck all top/front hair inside; cut the remaining hair back closely to the hat line and retain only a little short brown hair behind the ear. No hair passing through the brim and no visible bulky hair mound under the helmet. Keep her female face, eyes, smile, warm skin, head scale and head position unchanged.\nThe helmet tilts as one fitted piece with her existing head: right-facing in each frame, rotated forward/down in the strike. Its brass lamp faces the same direction as her face; cream lens without a beam or outer glow. Do not float the hat or enlarge it into a costume.\nKeep HER original body, all cream-gloved hand pixels, boot positions and baselines fixed. No tool and no male body substitution. Only the generated head/hat will be blended at her collar using a softly feathered mask while her checked body pixels are kept intact. One genuinely transparent 1254×1254 2×2 sheet, named miner-female-headlamp-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "headlamp helmet",
+      "bodyReference": "miner-female-v1.png",
+      "hatReference": "hats/hat-headlamp-helmet-v1.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1211520,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "id": "miner-female-welder",
+      "name": "Female miner — raised welder helmet, four poses",
+      "path": "miner-female-welder-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-welder-v1.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1013052,
+      "sha256": "2a56b1d6c18c34074e079e182016702f3bdcfa5002fc148b1bc6f48ad1e9feec",
+      "transparentBackground": true,
+      "styleReference": "miner-four-poses-v1.png",
+      "prompt": "Use case: identity-preserve / precise-object-edit.\nAsset type: one transparent four-pose miner sprite sheet for the Hollis & Sons 2D game.\nTreat the approved miner sheet as a locked edit target, not inspiration for a new drawing. Preserve its 1254×1254 square canvas and exact 2×2 cell layout: top left ready with fists together at waist height, top right wind-up with fists together behind the head, bottom left downward strike, bottom right recovering follow-through. All face right.\nKeep the original figure's exact scale, position and proportions in every cell. Keep each boot, foot baseline, leg, torso, sleeve, glove, hand, face, expression, and outline in its original location. Do not recenter, rescale, re-pose, stretch, simplify, or redraw the body. Hand positions must be identical; add no tool.\nMatch the approved image's flat two-tone 1950s American industrial safety-poster drawing, chunky even dark-brown outlines, teal #2F6B66 coveralls, cream #EFE4C8 gloves, brown boots, natural warm skin, upper-left light, restrained grain inside the artwork.\nOutput exactly one sprite sheet, with genuinely transparent alpha outside the figures and between cells. No background color, checkerboard pixels, scenery, ground shadow, exterior glow, labels, text, logos, borders or grid lines. Preserve all available empty margins.\n\nImage 1 is the CHECKED FEMALE BASE and sole edit target. Image 2 is the approved male sheet for original pose/style reference only. Preserve this woman's own female face and body. Image 3 is the approved machine-steel welder's helmet, cream metal-edge highlights, hinge hardware and rectangular visor flipped UP.\nFit the exact raised-visor helmet onto the woman in all four existing poses. Keep the face fully visible below the raised visor: same eyes, friendly smile, nose, jaw, warm skin, short chestnut-brown hair identity and head coordinates as Image 1. The head sits INSIDE the crown. The forehead band rests directly just above the eyebrows, with a soft restrained shadow on the forehead. All top/front hair is tucked inside; cut the side/back hair closely to the helmet line and show only a little behind the ear, never poking through the band or crown.\nThe steel crown, hinge and raised visor form one worn helmet, tilting naturally with each original head angle, including the downward-looking bottom-left strike. No floating helmet, air gap, enlarged head, face-obscuring visor or dangling straps crossing the hands.\nKeep HER approved body pixels, outfit, sleeves, gloves, closed hands, legs, brown boots and baselines fixed. No male body substitution, no tool, background or exterior glow. Only this head/helmet edit will be softly feathered into her collar while her own checked body pixels stay intact. One 1254×1254 genuine transparent PNG, named miner-female-welder-v1.png.",
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "cellWidth": 627,
+        "cellHeight": 627,
+        "order": [
+          "ready",
+          "wind-up",
+          "strike",
+          "follow-through"
+        ]
+      },
+      "facing": "right",
+      "containsTool": false,
+      "headwear": "raised welder helmet",
+      "bodyReference": "miner-female-v1.png",
+      "hatReference": "hats/hat-welder-visor-v1.png",
+      "processingNote": "Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.",
+      "integrationNote": "The helmet is already drawn in this sheet. Keep the shared 627px frame rectangles and existing body/tool attachment positions when switching variants.",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1198537,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
     }
   ],
-  "revision": 2,
+  "revision": 3,
   "revisionSummary": [
-    "The Dynamo replaces the dome machine with brass, copper, exposed coils and teal sparks.",
-    "The double pick has a larger symmetric head with two opposing points.",
-    "The final drill uses a solid diamond cutting tip and brass fittings."
-  ]
+    "Seven miner sprite sheets added with the exact requested filenames.",
+    "Male helmet variants preserve the approved male body pixels.",
+    "The female base has her own independently drawn body; her helmet variants preserve that female body.",
+    "All sheets use the original 1254px canvas, 2x2 layout, frame order and baselines, with true alpha and no tools."
+  ],
+  "checkedFemaleMiner": {
+    "path": "miner-female-v1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-v1.png",
+    "sha256": "f39c76dee79349d360ebd2b3174a5cdb364b027d59f03380552776b096d09997",
+    "status": "checked female body reference before generating her helmet variants",
+    "maleBodyPixelsCopied": false
+  },
+  "minerSpriteWorkflow": {
+    "sheetsAdded": 7,
+    "validationReport": "miner-sprite-checks.json",
+    "canvasWidth": 1254,
+    "canvasHeight": 1254,
+    "cellWidth": 627,
+    "cellHeight": 627,
+    "poseOrder": [
+      "ready",
+      "wind-up",
+      "strike",
+      "follow-through"
+    ],
+    "maleBodyReference": "miner-four-poses-v1.png",
+    "femaleBodyReference": "miner-female-v1.png",
+    "helmetVariantsHaveBakedHeadwear": true,
+    "preview": {
+      "method": "standalone Chrome canvas",
+      "cellRasterWidth": 33,
+      "cellRasterHeight": 33,
+      "approximateStandingFigureHeight": 29,
+      "gameEngineTestPerformed": false
+    }
+  }
 }

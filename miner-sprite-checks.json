@@ -1,0 +1,383 @@
+{
+  "version": 1,
+  "scope": "Seven final miner PNGs; standalone sprite previews and raw RGBA comparisons, before publishing",
+  "approvedMaleUnchanged": true,
+  "femaleBodyIndependentlyDrawn": true,
+  "femaleBodyWasCheckedBeforeHelmetGeneration": true,
+  "canvas": {
+    "width": 1254,
+    "height": 1254,
+    "columns": 2,
+    "rows": 2,
+    "cellWidth": 627,
+    "cellHeight": 627,
+    "poseOrder": [
+      "ready",
+      "wind-up",
+      "strike",
+      "follow-through"
+    ]
+  },
+  "smallSizePreview": {
+    "method": "Chrome canvas, each original 627px cell rendered to 33px with high-quality smoothing",
+    "approximateStandingFigureHeightPixels": 29,
+    "posesReviewed": 28,
+    "gameEngineTestPerformed": false
+  },
+  "closeUpReview": {
+    "posesReviewed": 28,
+    "hatFitHairForeheadShadowNeckSeamsAndToolsReviewed": true
+  },
+  "assets": [
+    {
+      "path": "miner-hardhat-v1.png",
+      "sha256": "ec429f54bcd23bb52684fe78f049cf73410af6c61c7badd47d0b00359ee3e0f8",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1212810,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "path": "miner-headlamp-v1.png",
+      "sha256": "143b8765fe7b4422d57c15599ff75ba50e91addb03caace0fb56303a7a2e7ac7",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1210720,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "path": "miner-welder-v1.png",
+      "sha256": "ba998926347670ec41a7344003e874607003c52a7a3cf88337ee0720cd897d10",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1198162,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-four-poses-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "path": "miner-female-v1.png",
+      "sha256": "f39c76dee79349d360ebd2b3174a5cdb364b027d59f03380552776b096d09997",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "noHat": true,
+        "independentlyDrawnFemaleBody": true,
+        "maleBodyPixelsCopied": false,
+        "baselineDeltasFromApprovedMale": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "maximumGloveCentroidDifferenceNativePixels": 0.25,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4
+      }
+    },
+    {
+      "path": "miner-female-hardhat-v1.png",
+      "sha256": "a0ee7381d49167719aeb5798003de8588d36d58869d1d2c64a253a462e99d810",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1211583,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "path": "miner-female-headlamp-v1.png",
+      "sha256": "51f87cf7c2932503d5510b6aada24864b9f5031eb4dde18022bcf26403a69b8b",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1211520,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    },
+    {
+      "path": "miner-female-welder-v1.png",
+      "sha256": "2a56b1d6c18c34074e079e182016702f3bdcfa5002fc148b1bc6f48ad1e9feec",
+      "validation": {
+        "sameCanvas": true,
+        "realTransparency": true,
+        "fullyTransparentPixels": 1198537,
+        "backgroundSampleAlphas": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodyReference": "miner-female-v1.png",
+        "changedBodyPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedGlovePixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "changedBootPixelsByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "bodySilhouetteIoUByPose": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "bootBaselineDeltasByPose": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "hatWornInAllFourPoses": true,
+        "hairTuckedAndBrimShadowReviewed": true,
+        "neckSeamsReviewed": true,
+        "closeUpPosesReviewed": 4,
+        "smallSizePosesReviewed": 4,
+        "headMaskFeatherPixels": 8
+      }
+    }
+  ]
+}
