@@ -1,6 +1,6 @@
 # Hollis and Sons Game Art
 
-This repository contains the approved miner reference and 27 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
+This repository contains the approved miner reference and 55 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
 
 [Download the complete repository as a ZIP](https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack/archive/refs/heads/main.zip). [manifest.json](manifest.json) lists each image, dimensions, raw download URL, generation prompt, and integration notes. The complete prompt set is also in [art-prompts.txt](art-prompts.txt).
 
@@ -49,7 +49,7 @@ For integration:
 | Camp backdrop — wide panorama | [PNG](backdrop/camp-backdrop-v1.png) | 2172 × 724 |
 | Old Hollis — framed founder portrait | [PNG](portrait/old-hollis-portrait-v1.png) | 1024 × 1536 |
 
-The art was generated with the built-in imagegen tool using the approved miner as the style reference. The prompts and manifest document the selected versions. Unused drafts and local working files are excluded.
+The art was generated with the built-in imagegen tool using the approved miner as the style reference. The prompts and manifest document the selected versions and pass-2 rejected attempts. Unused draft images and local working files are excluded.
 
 ## Miner sheet checks
 
@@ -221,3 +221,47 @@ Keep HER approved body pixels, outfit, sleeves, gloves, closed hands, legs, brow
 Finishing method: Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.
 
 </details>
+
+<!-- ART-PASS-2 -->
+## Art pass 2
+
+Published through stage 1: 28 new PNGs. Stage 1 contains 27 individual upgrade icons in `icons/` and the opaque app icon in `app-icon/`.
+
+Every image used these four style references: [approved miner](miner-four-poses-v1.png), [Big Bertha body](machines/machine-big-bertha-body-v1.png), [mole courier](moles/mole-four-frames-v2.png), and [yellow hard hat](hats/hat-yellow-hardhat-v2.png).
+
+The icons were checked at 48 px on white, dark and earth backgrounds; the app icon at 60 px. It is fully opaque with square corners, and its face stays inside the central 80%. No text appears in the new artwork. Repeated hands have the requested three or five ghost copies, and the epic tap glove is gold. Wide-gap icon sheets were attempted and rejected; the individual icon files require no sheet cutting.
+
+The normal 1024 px canvases were requested. Imagegen returned native dimensions recorded below, including 1254 px square assets. These original PNGs are preserved byte for byte, without resizing, hand painting, text removal, seam repair or alpha cleanup. Every prompt used, including rejected attempts, is in [art-prompts.txt](art-prompts.txt) and [manifest.json](manifest.json); the manifest also records per-image alpha checks, hashes and review notes.
+
+The original approved miner and earlier assets remain intact. These checks cover standalone asset previews; the game integration and playtest happen in the game repository.
+
+| File | Native dimensions | Background | Preview |
+| --- | --- | --- | --- |
+| [icons/icon-tap.png](icons/icon-tap.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-digger.png](icons/icon-digger.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-moles.png](icons/icon-moles.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-foreman.png](icons/icon-foreman.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-refinery.png](icons/icon-refinery.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-sharpen.png](icons/icon-sharpen.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-finetune.png](icons/icon-finetune.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-quarryeff.png](icons/icon-quarryeff.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-finer.png](icons/icon-finer.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-more.png](icons/icon-more.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-generator.png](icons/icon-generator.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-quarry.png](icons/icon-quarry.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-research.png](icons/icon-research.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-offline.png](icons/icon-r-offline.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-special.png](icons/icon-r-special.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-autogen.png](icons/icon-r-autogen.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-army.png](icons/icon-r-army.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-tap3.png](icons/icon-r-tap3.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-tap5.png](icons/icon-r-tap5.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-247.png](icons/icon-r-247.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-industrial.png](icons/icon-r-industrial.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-r-bargain.png](icons/icon-r-bargain.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-e-super.png](icons/icon-e-super.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-e-tap.png](icons/icon-e-tap.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-e-laser.png](icons/icon-e-laser.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-e-mole.png](icons/icon-e-mole.png) | 1254 × 1254 | Transparent | 48 px |
+| [icons/icon-e-quarry.png](icons/icon-e-quarry.png) | 1254 × 1254 | Transparent | 48 px |
+| [app-icon/app-icon-v1.png](app-icon/app-icon-v1.png) | 1254 × 1254 | Opaque | 60 px |

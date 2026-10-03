@@ -433,3 +433,589 @@ Keep HER approved body pixels, outfit, sleeves, gloves, closed hands, legs, brow
 
 Finishing method:
 Generated headwear/hair edits fitted with an 8px feathered mask. The reference lower face, neck, coveralls, hands, legs and boots are preserved, with a soft brim shadow on the forehead. Helmet outlines are kept intact and stay within their original cells.
+
+=== Hollis & Sons art pass 2 ===
+
+tap upgrade icon
+File: icons/icon-tap.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A large cream work-gloved hand pressing firmly down, with exactly three short impact strokes below its fingertips. Use the approved miner's glove design.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+digger upgrade icon
+File: icons/icon-digger.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A small recognizable Big Bertha steam drill rig from reference two: teal riveted body, steel boiler and vertical downward drill, copper plumbing, red lever. Simplify to a strong silhouette; all plates and gauges unlettered.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+moles upgrade icon
+File: icons/icon-moles.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: Exactly the approved cheerful brown mole courier from reference three, facing left, wearing its yellow headlamp helmet, carrying a big cream sack of chunky ore over its shoulder. One mole only.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+foreman upgrade icon
+File: icons/icon-foreman.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A foreman's blank cream clipboard with a brass magnifying glass held over one large gold nugget resting on it. Empty paper, absolutely no marks resembling writing.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+refinery upgrade icon
+File: icons/icon-refinery.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A compact wash-plant sluice: one short steel water chute on sturdy legs, a blue-teal sheet of water pouring into a small trough. Clear simple industrial silhouette, no scene or landscape.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+sharpen upgrade icon
+File: icons/icon-sharpen.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A broad steel shovel blade touching one compact grinding wheel. Show a few tiny solid yellow sparks at the contact. The blade and wheel form one clear connected emblem.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+finetune upgrade icon
+File: icons/icon-finetune.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One sturdy steel wrench crossed diagonally over one chunky brass gear. Large open wrench jaw and a small number of broad gear teeth.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+quarryeff upgrade icon
+File: icons/icon-quarryeff.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One teal mine cart heaped with big grey rock chunks, on one short piece of steel rail. Two large visible wheels, bold simple silhouette.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+finer upgrade icon
+File: icons/icon-finer.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One miner's round brass sieve, slightly tilted, with a few distinct fine-dirt clumps falling through it. Simplify the mesh to a few wide lines.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+more upgrade icon
+File: icons/icon-more.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One tall heaped warm-brown dirt pile with a sturdy shovel stuck in its top. Large heap silhouette and clearly visible cream/steel shovel blade and brown handle.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+generator upgrade icon
+File: icons/icon-generator.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A small brick power house: squat warm copper-brick building, one tall steel chimney and one round unnumbered gauge. Simple recognizable building, no signs, lettering or scenery.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+quarry upgrade icon
+File: icons/icon-quarry.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A timber-framed dark mine entrance set into a compact grey rock face. Heavy wood posts and top cross-beam; the black opening is contained inside the rock outline, not a background scene.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+research upgrade icon
+File: icons/icon-research.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One round glass flask on a simple brass stand, containing a little teal liquid and giving off two small cream steam curls. No formula, label, atomic symbol or writing.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-offline upgrade icon
+File: icons/icon-r-offline.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: A tiny simplified Big Bertha steam drill rig from reference two with one solid cream crescent moon directly above it. One compact joined emblem, no night-sky field, stars or haze.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-special upgrade icon
+File: icons/icon-r-special.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One large cyan cut gem in front of a simple safety-yellow four-point starburst. The starburst is a solid outlined graphic shape, not luminous bloom.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-autogen upgrade icon
+File: icons/icon-r-autogen.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One chunky brass gear with one large solid safety-yellow lightning bolt laid diagonally across its face. Broad simple teeth.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-army upgrade icon
+File: icons/icon-r-army.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: Exactly three of the approved cheerful brown mole couriers in a closely spaced left-facing row, all wearing yellow helmets and carrying cream ore sacks. Three clearly separate heads and sacks, no fourth mole. Simplify their bodies so the row reads at 48 pixels.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-tap3 upgrade icon
+File: icons/icon-r-tap3.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One cream work-gloved hand pressing down, with exactly three offset solid cream ghost silhouettes behind it and two short motion strokes. The three copies are crisp flat stepped silhouettes, not transparent blur; the main glove stays clearly distinct.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-tap5 upgrade icon
+File: icons/icon-r-tap5.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One golden-yellow work-gloved hand pressing down, with exactly five offset solid pale-gold ghost silhouettes behind it and two short motion strokes. Five countable stepped copies, not transparent blur; the main glove is gold and clearly distinct from the cream tap-three icon.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-247 upgrade icon
+File: icons/icon-r-247.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One round cream wall clock with a steel pickaxe laid diagonally across it. The face has just two bold hands and NO numerals, letters or writing. A simple brass rim; no digital display.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-industrial upgrade icon
+File: icons/icon-r-industrial.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One compact factory chimney stack rising above a low copper-brick base, with a pile of large grey ore chunks directly in front. Industrial symbol only, no surrounding scene or smoke cloud.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+r-bargain upgrade icon
+File: icons/icon-r-bargain.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One completely blank cream price tag being cut cleanly in half by one pair of steel scissors. Show the diagonal split and the tag's round attachment hole. No currency mark, number, letter, lettering or writing.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+e-super upgrade icon
+File: icons/icon-e-super.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One large shining pale-cyan diamond, with bold angular facets. All cream shine strokes are painted INSIDE its outline. No exterior star, aura or glow.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+e-tap upgrade icon
+File: icons/icon-e-tap.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — The striking glove is cream; the requested epic tap icon needs a golden glove.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One golden work-gloved fist striking down into a big solid red-and-yellow impact burst. A bold compact emblem; the burst consists of crisp outlined polygonal shapes, no glow, gradient or haze.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One golden work-gloved fist striking down into a big solid red-and-yellow impact burst. A bold compact emblem; the burst consists of crisp outlined polygonal shapes, no glow, gradient or haze.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+CORRECTION: The entire striking GLOVE must be GOLD, safety-yellow #F2B829 with flat ochre-gold shadow planes, matching the main gold glove in the five-copy upgrade concept. A cream or white glove is WRONG for this specific icon. Keep cream only as very small highlight shapes within the golden glove; its dominant palm, closed fingers, knuckles and cuff are unequivocally golden-yellow. This is one compact GOLDEN GLOVED FIST striking a large solid red-and-yellow impact burst. The approved miner's cream glove is a shape/style reference only, not this icon's colour.
+
+---
+
+e-laser upgrade icon
+File: icons/icon-e-laser.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One horizontal brass industrial drill firing a short thick solid signal-red beam to the right. The beam is a crisp flat outlined tapered shape. No neon glow, bloom or illuminated background.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+e-mole upgrade icon
+File: icons/icon-e-mole.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One giant cheerful approved brown mole with a very large overflowing cream ore sack, yellow helmet and friendly face. Broad powerful body, exceptionally large sack with a few big ore chunks; clearly distinguish from the normal courier icon.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+e-quarry upgrade icon
+File: icons/icon-e-quarry.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: one upgrade icon for a 2D mining game.
+Make ONE new normal square 1024×1024 PNG containing only ONE compact emblem: One brass mechanical stopwatch with a small teal mine cart pictured on its cream face. Large top plunger and simple round body. The face has the cart pictogram only: absolutely no numerals, lettering or digital readout.
+Composition: slightly front-facing view; centre the complete emblem in the square, its longest dimension about 80% of the canvas. Keep all protrusions inside the image with generous transparent margins. Bold dark-brown outlines and just two flat shading tones, matching the approved references. This will be displayed at exactly 48×48 pixels, so use large clean shapes and simplify minor mechanical details. Do not copy the references' multi-frame layout. No added objects, scenery, ground, frame, sign, label, text, letters or numerals.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+Hollis & Sons app icon
+File: app-icon/app-icon-v1.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Make one NEW opaque square 1024×1024 app icon, edge to edge, square corners. A close head-and-shoulders portrait of the SAME grinning adult male miner from reference one, wearing teal coveralls and the yellow hard hat from reference four fitted snugly onto his head, now with a small brass-and-steel headlamp attached at the front. His crown is inside the helmet, brim resting on forehead, only a little hair visible at back/sides, soft brim shadow entirely on his forehead. A steel pickaxe with brown handle rests over his shoulder, clearly visible but never obscuring his face. Preserve his friendly face, short brown hair, nose, grin and warm skin colour; do not invent a different mascot. Keep the entire face within the central 80% of the square. Use big clean shapes readable at 60×60 pixels. Background is a flat muted sky-blue field with a simple cream-and-blue sunburst made of a small number of broad flat rays. Use sky-blue only for the requested background. The safety-yellow helmet must have strong colour contrast against this blue background. Opaque alpha 255 over the ENTIRE square, including all four corners; no rounded corners, border, white margin, badge outline or transparent edge. Lamp highlights stay inside the lamp; no exterior light beam or glow. No letters, text, numbers, logos or labels on the helmet, clothing, pickaxe, background or anywhere else.
+
+---
+
+Rejected four-icon layout attempt 1; image not published
+Reason: Central fully transparent gaps only 1.52% vertically and 1.75% horizontally; user minimum is 15%. Native tool output 1254 square despite requested 1024 square.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Make one NEW square 1024×1024 transparent icon sheet, not a scene. Layout: a 2×2 grid, with each icon centred in its quadrant. Keep all artwork in x=7–39% for left icons or x=61–93% for right icons, and y=7–39% for upper icons or y=61–93% for lower icons. The central vertical AND horizontal bands from 40% to 60% must be completely empty transparent alpha across the whole sheet. This gives gaps wider than 15% of the sheet width. No frames, dividers, labels or reference characters outside their specified icons. Each quadrant holds one independent, fully visible compact emblem viewed slightly from the front, with a clear silhouette readable when cropped to an individual 48-pixel icon. Use bold strokes proportional to the references and omit tiny incidental rivets/details.
+
+TOP-LEFT: A large cream work-gloved hand pressing firmly down, with exactly three short impact strokes below its fingertips. Use the approved miner's glove design.
+
+TOP-RIGHT: A small recognizable Big Bertha steam drill rig from reference two: teal riveted body, steel boiler and vertical downward drill, copper plumbing, red lever. Simplify to a strong silhouette; all plates and gauges unlettered.
+
+BOTTOM-LEFT: Exactly the approved cheerful brown mole courier from reference three, facing left, wearing its yellow headlamp helmet, carrying a big cream sack of chunky ore over its shoulder. One mole only.
+
+BOTTOM-RIGHT: A foreman's blank cream clipboard with a brass magnifying glass held over one large gold nugget resting on it. Empty paper, absolutely no marks resembling writing.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
+
+Rejected four-icon layout attempt 2; image not published
+Reason: Horizontal visible-art gap 11.5%, below the required 15%. Strict alpha gaps are narrower because of sparse alpha-1 outliers. Switched to individual icons.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+CRITICAL COMPOSITION: FOUR SMALL independent icons on a LARGE mostly empty square transparent canvas. These must look deliberately small and widely separated, NOT fill the four quadrants. At least 75% of the canvas stays empty. Each complete icon, including every protrusion, must fit inside a box no larger than ONE QUARTER of the full canvas width and height. Icon centres: upper-left at (24%,24%), upper-right at (76%,24%), lower-left at (24%,76%), lower-right at (76%,76%). Keep the broad central cross from 38% to 62% in both x and y entirely transparent. This empty cross must extend from edge to edge. Individual icon silhouettes must never enter it. No icon larger than 25% of the full sheet, even Bertha or the tall clipboard. All four icons get the same visual scale. Simplify machine details. The reference sheets' tight layout must NOT be copied. Use a normal new 1024×1024 square output, not the references' canvas size. Each icon will be cut out and displayed at 48 pixels. No dividers, labels or other artwork.
+
+TOP-LEFT: A large cream work-gloved hand pressing firmly down, with exactly three short impact strokes below its fingertips. Use the approved miner's glove design.
+
+TOP-RIGHT: A small recognizable Big Bertha steam drill rig from reference two: teal riveted body, steel boiler and vertical downward drill, copper plumbing, red lever. Simplify to a strong silhouette; all plates and gauges unlettered.
+
+BOTTOM-LEFT: Exactly the approved cheerful brown mole courier from reference three, facing left, wearing its yellow headlamp helmet, carrying a big cream sack of chunky ore over its shoulder. One mole only.
+
+BOTTOM-RIGHT: A foreman's blank cream clipboard with a brass magnifying glass held over one large gold nugget resting on it. Empty paper, absolutely no marks resembling writing.
+
+Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
+
+---
