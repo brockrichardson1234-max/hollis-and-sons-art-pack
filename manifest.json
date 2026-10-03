@@ -74,14 +74,22 @@
     {
       "id": "tool-double-pick",
       "name": "Tool 3 of 6 — double-headed pick",
-      "path": "tools/tool-double-pick-v1.png",
-      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/tools/tool-double-pick-v1.png",
-      "width": 1774,
-      "height": 887,
-      "bytes": 493023,
+      "path": "tools/tool-double-pick-v2.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/tools/tool-double-pick-v2.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 1171949,
       "transparentBackground": true,
       "styleReference": "miner-four-poses-v1.png",
-      "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nOne double-headed mining pick on its own, lying flat horizontally in side view, wooden handle on the LEFT and machine-steel double-pointed head on the RIGHT. Both ends of the metal head are pointed picks. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nUse a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze."
+      "prompt": "The attached image is the approved miner illustration-style reference. Create a NEW digging-tool asset with an especially bold readable silhouette.\n\nMatch the attached approved miner's exact cheerful 1950s American industrial safety-poster illustration style: flat color areas, two simple shading tones, consistent chunky dark-brown outlines (#3D2A21), light from the upper left, restrained paper grain confined inside the artwork. Clean readable shapes for a tiny phone game. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. Brass is a warm muted golden metal.\n\nOne DOUBLE-POINTED MINING PICK, lying flat in side view. Wooden grip and handle extend to the LEFT; the metal head is on the RIGHT. The head has TWO equally prominent large tapered steel points on OPPOSITE sides of the handle attachment: one point reaches upward, the other reaches downward. Both are clearly pointed, with no flat chisel, blade or blunt hammer end.\n\nExaggerate the double-pointed head for readability at only about TEN PIXELS wide. Use a compact handle, noticeably shorter than a usual pickaxe, so the metal head occupies nearly HALF of the overall width. The wide, heavy head has a strongly curved symmetric horn-like silhouette with large upper and lower tips, clear empty space around each tip, broad light steel faces and simple dark undersides. Head height is about two thirds of the total tool width. Keep the center collar compact and both spikes visually separate. Readable shape takes priority over realistic thin points or detailed wood grain.\n\nOnly one tool, no hand, character or other equipment.\n\nOutput one isolated game asset as a truly transparent PNG. All artwork fits within the canvas with clear margins. Crisp outer silhouette, no scenery, no ground shadow, no background haze or halo, no checkerboard, no text, no logos.",
+      "integrationNote": "Revised silhouette retains two opposing points when rendered 10 pixels wide in a browser preview with its aspect ratio preserved. The cropped raster is 10 by 9 pixels; preserve the taller proportions when resizing.",
+      "verification": {
+        "method": "Chrome canvas standalone comparison, with artwork bounds cropped and aspect ratio preserved",
+        "rasterWidth": 10,
+        "rasterHeight": 9,
+        "referencePickaxeRasterHeight": 5,
+        "distinctUpperAndLowerTips": true
+      }
     },
     {
       "id": "tool-jackhammer",
@@ -108,16 +116,18 @@
       "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nOne pneumatic rock drill on its own, lying flat horizontally in side view, gripping handle on the LEFT and the long rock-drilling bit on the RIGHT. Chunky machine-steel pressure housing with copper air fittings and restrained company-teal accents. Full tool visible, generous clear margins. Simple readable construction, no hand, character, or other tools.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nUse a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze."
     },
     {
-      "id": "tool-atomic-drill",
-      "name": "Tool 6 of 6 — atomic drill",
-      "path": "tools/tool-atomic-drill-v1.png",
-      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/tools/tool-atomic-drill-v1.png",
+      "id": "tool-diamond-drill",
+      "name": "Tool 6 of 6 — diamond-tipped drill",
+      "path": "tools/tool-diamond-drill-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/tools/tool-diamond-drill-v1.png",
       "width": 1774,
       "height": 887,
-      "bytes": 993728,
+      "bytes": 1112593,
       "transparentBackground": true,
       "styleReference": "miner-four-poses-v1.png",
-      "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nOne retro atomic-age digging drill on its own, lying flat horizontally in side view, gripping handle on the LEFT and drill head on the RIGHT. Chunky machine-steel and copper body with a small glowing teal core. Confine the glow close to the core so the tool stays clean and readable when small. Full tool visible, generous clear margins. No hand, character, or other tools.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nKeep the dark-brown outer outline crisp; no cast shadow or colored background haze."
+      "prompt": "Image 1 is the existing drill edit target. Image 2 is the approved miner illustration-style reference. Redesign this drill as a DIAMOND-TIPPED INDUSTRIAL DRILL with brass fittings, retaining its clean horizontal side view, chunky mechanical form and handle-on-left orientation.\n\nMatch the attached approved miner's exact cheerful 1950s American industrial safety-poster illustration style: flat color areas, two simple shading tones, consistent chunky dark-brown outlines (#3D2A21), light from the upper left, restrained paper grain confined inside the artwork. Clean readable shapes for a tiny phone game. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. Brass is a warm muted golden metal.\n\nOne diamond-tipped drill on its own, lying flat: gripping handle on the LEFT, cutting tip on the RIGHT. Keep a stout machine-steel housing with copper trim, and use prominent warm BRASS collars, couplings and a brass chuck. Replace the entire glowing-core window with a solid metal housing and simple brass fittings; there must be no visible core or glowing internal capsule anywhere.\n\nReplace the cutting head with a clearly visible large faceted TEAL DIAMOND cutting tip held securely in the brass chuck at the far RIGHT. The diamond is solid and NON-EMISSIVE: flat light and dark teal facets with a small cream reflected highlight, no glow or bloom. Make the brass fittings and diamond tip large enough to remain distinguishable at small game size.\n\nNo atomic imagery, no atom emblem, no nuclear symbols, no luminous core, no sci-fi energy capsule or light effects. Only one drill, no hands or person.\n\nOutput one isolated game asset as a truly transparent PNG. All artwork fits within the canvas with clear margins. Crisp outer silhouette, no scenery, no ground shadow, no background haze or halo, no checkerboard, no text, no logos.",
+      "integrationNote": "Replaces tool-atomic-drill artwork. Use the diamond-tipped drill name. Brass fittings and a solid faceted cutting tip; no internal glowing core.",
+      "replacesId": "tool-atomic-drill"
     },
     {
       "id": "machine-spoil-heap",
@@ -193,16 +203,18 @@
       "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nOne side-view Power House for a mining camp: a small brick building with clearly visible gauges, copper pipe fittings, a big lever, and ONE tall chimney. Chunky cheerful 1950s industrial design with company-teal trim and machine-steel machinery fittings. Sitting level on a flat base. Full building and chimney visible, generous clear margins.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nUse a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze."
     },
     {
-      "id": "machine-reactor",
-      "name": "Camp 6 of 6 — The Reactor",
-      "path": "machines/machine-reactor-v1.png",
-      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/machines/machine-reactor-v1.png",
-      "width": 1254,
-      "height": 1254,
-      "bytes": 1522773,
+      "id": "machine-dynamo",
+      "name": "Camp 6 of 6 — The Dynamo",
+      "path": "machines/machine-dynamo-v1.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/machines/machine-dynamo-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2151857,
       "transparentBackground": true,
       "styleReference": "miner-four-poses-v1.png",
-      "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nOne side-view Reactor for a mining camp: a retro atomic-age glowing teal dome on a chunky machine-steel and copper base, with rivets, dials, and a big lever. Confine the glow near the dome and keep its silhouette clean and readable at small size. Sitting level on a flat base. Full reactor visible, generous clear margins.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nKeep the dark-brown outer outline crisp; no cast shadow or colored background haze."
+      "prompt": "Image 1 is the approved miner illustration-style reference. Image 2 is Big Bertha, a reference for the matching industrial machine materials and construction. Create a NEW machine asset.\n\nMatch the attached approved miner's exact cheerful 1950s American industrial safety-poster illustration style: flat color areas, two simple shading tones, consistent chunky dark-brown outlines (#3D2A21), light from the upper left, restrained paper grain confined inside the artwork. Clean readable shapes for a tiny phone game. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. Brass is a warm muted golden metal.\n\nTHE DYNAMO: one side-view electrical dynamo for the mining camp. A stout brass-and-copper industrial generator on a flat machine-steel base. Exposed copper-wire coils flank a compact rotating metal armature; sturdy brass rings, chunky rivets, one readable gauge and a big lever. A few small sharp angular TEAL SPARKS jump at the exposed coil contacts. Draw the sparks as simple flat zigzag marks, close to the coils, without a surrounding glow field. Copper coils and brass fittings dominate the machine's appearance.\n\nUse solid mechanical construction and an open view of the copper windings. No glass dome, no glowing dome, no orb, no internal luminous core, no atom emblem, no radiation marks, no nuclear or atomic imagery.\n\nOutput one isolated game asset as a truly transparent PNG. All artwork fits within the canvas with clear margins. Crisp outer silhouette, no scenery, no ground shadow, no background haze or halo, no checkerboard, no text, no logos.",
+      "integrationNote": "Replaces machine-reactor artwork. Use The Dynamo name in the UI. Brass and copper construction, exposed coils and small teal sparks; no atom or glowing dome. Existing gameplay values remain unchanged.",
+      "replacesId": "machine-reactor"
     },
     {
       "id": "camp-backdrop",
@@ -285,5 +297,11 @@
       "prompt": "Use the attached approved miner sprite sheet as the illustration-style reference. Match its exact drawing style, material treatment, dark-brown outline weight, upper-left lighting, and restrained paper grain.\n\nStyle: cheerful 1950s American industrial safety-poster illustration. Flat color areas, two simple shading tones, dark-brown outlines (#3D2A21), light from the upper left, subtle paper grain inside the artwork only. Clean shapes that stay readable when tiny on a phone. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8.\n\nA framed portrait of Old Hollis, the company founder: an old man with a big white mustache in a three-piece suit, proud and a little mischievous, inside an ornate gold frame. Portrait shape, taller than wide. The painted portrait background inside the frame is opaque cream; the area OUTSIDE the frame is truly transparent. Full frame visible with generous clear margins. No writing or name plaque.\n\nBackground: truly transparent PNG with actual alpha outside the artwork. No scenery, checkerboard pattern, ground shadow, text, labels, or logos.\nUse a crisp cutout silhouette. Keep all shading and grain inside the object; no exterior halo, aura, blur, cast shadow, glow, or colored haze.",
       "integrationNote": "Interior portrait is filled; the outside frame area has actual alpha and a soft golden fringe that may need trimming."
     }
+  ],
+  "revision": 2,
+  "revisionSummary": [
+    "The Dynamo replaces the dome machine with brass, copper, exposed coils and teal sparks.",
+    "The double pick has a larger symmetric head with two opposing points.",
+    "The final drill uses a solid diamond cutting tip and brass fittings."
   ]
 }

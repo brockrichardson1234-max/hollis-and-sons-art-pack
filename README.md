@@ -10,6 +10,7 @@ For integration:
 
 - Preserve the approved miner and align its four pose frames during import. The approval reported that the miner remained readable at about 29 pixels in the game.
 - Hats and tools are separate sprites. Fit them to the miner's head and hands using the game's existing attachment logic.
+- Use The Dynamo as the energy machine and the diamond-tipped drill as the final tool. Both use mechanical brass and copper construction. The double pick has two larger opposing points; preserve its taller proportions when scaling. Its separate browser check retained both tips at 10 pixels wide, with a 10×9 raster compared with 10×5 for the pickaxe.
 - Use the selected mole v2 sheet. It is a 2×2 grid with two loaded frames in the top row and two lunch-pail return frames in the bottom row. All face left, with distinct walking steps.
 - Big Bertha's nameplate is blank. Add the lettering in the game. Its downward-pointing drill bit is a separate image for animation.
 - The ground sheet is fully opaque: a 3×3 grid of 418×418 cells. Row 1 is dirt, dirt variant, coal; row 2 is copper, silver, gold; row 3 is diamond, back wall, solid timber support. Keep the timber as a tile.
@@ -23,8 +24,8 @@ For integration:
 | headlamp helmet | [PNG](hats/hat-headlamp-helmet-v1.png) | 1536 × 1024 |
 | raised welder's visor | [PNG](hats/hat-welder-visor-v1.png) | 1254 × 1254 |
 | yellow hard hat | [PNG](hats/hat-yellow-hardhat-v2.png) | 1536 × 1024 |
-| atomic drill | [PNG](tools/tool-atomic-drill-v1.png) | 1774 × 887 |
-| double-headed pick | [PNG](tools/tool-double-pick-v1.png) | 1774 × 887 |
+| diamond-tipped drill | [PNG](tools/tool-diamond-drill-v1.png) | 1774 × 887 |
+| double-headed pick | [PNG](tools/tool-double-pick-v2.png) | 1536 × 1024 |
 | jackhammer | [PNG](tools/tool-jackhammer-v1.png) | 1774 × 887 |
 | pickaxe | [PNG](tools/tool-pickaxe-v1.png) | 1774 × 887 |
 | pneumatic rock drill | [PNG](tools/tool-rock-drill-v1.png) | 1774 × 887 |
@@ -34,7 +35,7 @@ For integration:
 | Big Bertha body | [PNG](machines/machine-big-bertha-body-v1.png) | 1254 × 1254 |
 | Foreman's Office | [PNG](machines/machine-foremans-office-v1.png) | 1374 × 1145 |
 | Power House | [PNG](machines/machine-power-house-v1.png) | 1448 × 1086 |
-| The Reactor | [PNG](machines/machine-reactor-v1.png) | 1254 × 1254 |
+| The Dynamo | [PNG](machines/machine-dynamo-v1.png) | 1536 × 1024 |
 | Spoil Heap | [PNG](machines/machine-spoil-heap-v1.png) | 1536 × 1024 |
 | Wash Plant | [PNG](machines/machine-wash-plant-v1.png) | 1536 × 1024 |
 | Ground — nine opaque tiles | [PNG](ground/ground-nine-tiles-v1.png) | 1254 × 1254 |
