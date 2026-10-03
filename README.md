@@ -1,6 +1,6 @@
 # Hollis and Sons Game Art
 
-This repository contains the approved miner reference and 66 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
+This repository contains the approved miner reference and 71 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
 
 [Download the complete repository as a ZIP](https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack/archive/refs/heads/main.zip). [manifest.json](manifest.json) lists each image, dimensions, raw download URL, generation prompt, and integration notes. The complete prompt set is also in [art-prompts.txt](art-prompts.txt).
 
@@ -225,7 +225,7 @@ Finishing method: Generated headwear/hair edits fitted with an 8px feathered mas
 <!-- ART-PASS-2 -->
 ## Art pass 2
 
-Published through stage 2: 39 new PNGs. Stage 1 contains 27 individual upgrade icons in `icons/` and the opaque app icon in `app-icon/`. Stage 2 adds five opaque 2×2 block sheets and six transparent ore overlays in `blocks/`.
+Published through stage 3: 44 new PNGs. Stage 1 contains 27 individual upgrade icons in `icons/` and the opaque app icon in `app-icon/`. Stage 2 adds five opaque 2×2 block sheets and six transparent ore overlays in `blocks/`. Stage 3 adds five dark opaque portrait tunnel walls in `walls/`.
 
 Every image used these four style references: [approved miner](miner-four-poses-v1.png), [Big Bertha body](machines/machine-big-bertha-body-v1.png), [mole courier](moles/mole-four-frames-v2.png), and [yellow hard hat](hats/hat-yellow-hardhat-v2.png).
 
@@ -234,6 +234,8 @@ The icons were checked at 48 px on white, dark and earth backgrounds; the app ic
 The normal 1024 px canvases were requested. Imagegen returned native dimensions recorded below, including 1254 px square assets. These original PNGs are preserved byte for byte, without resizing, hand painting, text removal, seam repair or alpha cleanup. Every prompt used, including rejected attempts, is in [art-prompts.txt](art-prompts.txt) and [manifest.json](manifest.json); the manifest also records per-image alpha checks, hashes and review notes.
 
 Each block sheet holds four equally coloured material variants. Use its manifest crop rectangles to exclude grey gutters, then scale each tile to 24 px. Ore overlays were checked at 24 px over all five materials; the single emerald-green super crystal differs from the pale-cyan diamond cluster in both hue and shape.
+
+Walls were checked at a 160 px shaft width and with 5% cropped from each side, preserving their portrait aspect ratio. This is a standalone phone-size preview assumption because the game source is separate. Rock and timber remain darker than the matching tiles; small lanterns provide the only bright accents.
 
 The original approved miner and earlier assets remain intact. These checks cover standalone asset previews; the game integration and playtest happen in the game repository.
 
@@ -278,3 +280,8 @@ The original approved miner and earlier assets remain intact. These checks cover
 | [blocks/ore-gold.png](blocks/ore-gold.png) | 1254 × 1254 | Transparent | 24 px |
 | [blocks/ore-diamond.png](blocks/ore-diamond.png) | 1254 × 1254 | Transparent | 24 px |
 | [blocks/ore-super.png](blocks/ore-super.png) | 1254 × 1254 | Transparent | 24 px |
+| [walls/wall-topsoil.png](walls/wall-topsoil.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
+| [walls/wall-caves.png](walls/wall-caves.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
+| [walls/wall-crystal.png](walls/wall-crystal.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
+| [walls/wall-magma.png](walls/wall-magma.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
+| [walls/wall-core.png](walls/wall-core.png) | 1024 × 1536 | Opaque | 160 px shaft preview |

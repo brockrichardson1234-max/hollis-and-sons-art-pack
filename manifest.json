@@ -2,8 +2,8 @@
   "company": "Hollis & Sons Excavation",
   "generator": "built-in imagegen",
   "repository": "https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack",
-  "imageCount": 67,
-  "newImageCount": 66,
+  "imageCount": 72,
+  "newImageCount": 71,
   "approvedMiner": {
     "path": "miner-four-poses-v1.png",
     "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-four-poses-v1.png",
@@ -3755,10 +3755,468 @@
         "published": false,
         "usedInAttempt": 2
       }
+    },
+    {
+      "id": "wall-topsoil",
+      "name": "Topsoil tunnel back wall",
+      "path": "walls/wall-topsoil.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/walls/wall-topsoil.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2017381,
+      "sha256": "dbba4cb3cb0ea36e2635e8ee22831345308401874c93e00ddbdeb42038c1bb02",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 3,
+      "assetType": "wall",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1536",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is warm brown packed earth with a few small low-contrast pebbles, corresponding to the Topsoil block layer. Use #33271F as the dark quiet wall base, substantially darker than the matching #79553D tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved topsoil block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is warm brown packed earth with a few small low-contrast pebbles, corresponding to the Topsoil block layer. Use #33271F as the dark quiet wall base, substantially darker than the matching #79553D tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved topsoil block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight."
+        }
+      ],
+      "layer": "topsoil",
+      "validation": {
+        "previewWidthPixels": 160,
+        "previewAssumption": "Standalone portrait shaft preview at 160px width; user supplied no exact wall display size.",
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "straightOnWallReviewed": true,
+        "edgeToEdgeWithoutBorderReviewed": true,
+        "sideCropPercent": 5,
+        "importantFeaturesSurviveSideCropReviewed": true,
+        "lanternCount": 2,
+        "lanternEffectsInsideOutlineReviewed": true,
+        "foregroundDominanceReviewed": true,
+        "minerStandingHeightPixels": 29,
+        "foregroundTilePixels": 24,
+        "meanWallLuma": 38.35,
+        "meanWallLumaExcludingPixelsAbove150": 37.73,
+        "brightPixelFractionPercent": 0.408,
+        "matchingTileMeanLuma": [
+          87.77,
+          87.86,
+          87.38,
+          87.84
+        ],
+        "note": "Reviewed native portrait and 160px previews with 5% cropped from each side, 24px matching blocks and the approved miner at 29px standing height. Wall remains dim, with only two small lantern interiors as bright accents; no haze, fade, frame or white margin.",
+        "width": 1024,
+        "height": 1536,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572864,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1023,
+          "bottom": 1535
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5116,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "path": "blocks/blocks-topsoil.png",
+        "role": "Matching terrain material; wall drawn substantially darker"
+      }
+    },
+    {
+      "id": "wall-caves",
+      "name": "Caves tunnel back wall",
+      "path": "walls/wall-caves.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/walls/wall-caves.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2019427,
+      "sha256": "f43538804ed1f5d4e42c2879588310c21d6da7899ca2d1ce06ca1cf9ad66931f",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 3,
+      "assetType": "wall",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1536",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is cool grey-brown damp rock, with a few small low-contrast pebble chips, corresponding to the Caves block layer. Use #292A28 as the dark quiet wall base, substantially darker than the matching #66625A tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved caves block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is cool grey-brown damp rock, with a few small low-contrast pebble chips, corresponding to the Caves block layer. Use #292A28 as the dark quiet wall base, substantially darker than the matching #66625A tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved caves block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight."
+        }
+      ],
+      "layer": "caves",
+      "validation": {
+        "previewWidthPixels": 160,
+        "previewAssumption": "Standalone portrait shaft preview at 160px width; user supplied no exact wall display size.",
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "straightOnWallReviewed": true,
+        "edgeToEdgeWithoutBorderReviewed": true,
+        "sideCropPercent": 5,
+        "importantFeaturesSurviveSideCropReviewed": true,
+        "lanternCount": 2,
+        "lanternEffectsInsideOutlineReviewed": true,
+        "foregroundDominanceReviewed": true,
+        "minerStandingHeightPixels": 29,
+        "foregroundTilePixels": 24,
+        "meanWallLuma": 42.72,
+        "meanWallLumaExcludingPixelsAbove150": 42.34,
+        "brightPixelFractionPercent": 0.244,
+        "matchingTileMeanLuma": [
+          98.89,
+          98.7,
+          98.68,
+          98.57
+        ],
+        "note": "Reviewed native portrait and 160px previews with 5% cropped from each side, 24px matching blocks and the approved miner at 29px standing height. Wall remains dim, with only two small lantern interiors as bright accents; no haze, fade, frame or white margin.",
+        "width": 1024,
+        "height": 1536,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572864,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1023,
+          "bottom": 1535
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5116,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "path": "blocks/blocks-caves.png",
+        "role": "Matching terrain material; wall drawn substantially darker"
+      }
+    },
+    {
+      "id": "wall-crystal",
+      "name": "Crystal Caverns tunnel back wall",
+      "path": "walls/wall-crystal.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/walls/wall-crystal.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1914100,
+      "sha256": "7cf9e04cc0e9ab17cd33074742d6dbc946cf07b563741a5cf2e5bea9fb6909e5",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 3,
+      "assetType": "wall",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1536",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is dark slate rock with a faint violet tint and a few tiny muted violet crystal flecks; no large crystals or bright jewel shapes, corresponding to the Crystal Caverns block layer. Use #24212B as the dark quiet wall base, substantially darker than the matching #4A4656 tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved crystal block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is dark slate rock with a faint violet tint and a few tiny muted violet crystal flecks; no large crystals or bright jewel shapes, corresponding to the Crystal Caverns block layer. Use #24212B as the dark quiet wall base, substantially darker than the matching #4A4656 tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved crystal block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight."
+        }
+      ],
+      "layer": "crystal",
+      "validation": {
+        "previewWidthPixels": 160,
+        "previewAssumption": "Standalone portrait shaft preview at 160px width; user supplied no exact wall display size.",
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "straightOnWallReviewed": true,
+        "edgeToEdgeWithoutBorderReviewed": true,
+        "sideCropPercent": 5,
+        "importantFeaturesSurviveSideCropReviewed": true,
+        "lanternCount": 2,
+        "lanternEffectsInsideOutlineReviewed": true,
+        "foregroundDominanceReviewed": true,
+        "minerStandingHeightPixels": 29,
+        "foregroundTilePixels": 24,
+        "meanWallLuma": 38.14,
+        "meanWallLumaExcludingPixelsAbove150": 37.65,
+        "brightPixelFractionPercent": 0.316,
+        "matchingTileMeanLuma": [
+          70.47,
+          70.84,
+          70.45,
+          71.03
+        ],
+        "note": "Reviewed native portrait and 160px previews with 5% cropped from each side, 24px matching blocks and the approved miner at 29px standing height. Wall remains dim, with only two small lantern interiors as bright accents; no haze, fade, frame or white margin.",
+        "width": 1024,
+        "height": 1536,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572864,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1023,
+          "bottom": 1535
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5116,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "path": "blocks/blocks-crystal.png",
+        "role": "Matching terrain material; wall drawn substantially darker"
+      }
+    },
+    {
+      "id": "wall-magma",
+      "name": "Magma tunnel back wall",
+      "path": "walls/wall-magma.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/walls/wall-magma.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1916699,
+      "sha256": "57e0d374520b85283df29dfc7dcbd57d97a789c9f81cac794a4fd6d3813cc614",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 3,
+      "assetType": "wall",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1536",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is dark basalt with a few THIN muted-orange hairline cracks; dark rock dominates, not glowing lava rivers, corresponding to the Magma block layer. Use #202124 as the dark quiet wall base, substantially darker than the matching #3E4144 tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved magma block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is dark basalt with a few THIN muted-orange hairline cracks; dark rock dominates, not glowing lava rivers, corresponding to the Magma block layer. Use #202124 as the dark quiet wall base, substantially darker than the matching #3E4144 tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved magma block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight."
+        }
+      ],
+      "layer": "magma",
+      "validation": {
+        "previewWidthPixels": 160,
+        "previewAssumption": "Standalone portrait shaft preview at 160px width; user supplied no exact wall display size.",
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "straightOnWallReviewed": true,
+        "edgeToEdgeWithoutBorderReviewed": true,
+        "sideCropPercent": 5,
+        "importantFeaturesSurviveSideCropReviewed": true,
+        "lanternCount": 2,
+        "lanternEffectsInsideOutlineReviewed": true,
+        "foregroundDominanceReviewed": true,
+        "minerStandingHeightPixels": 29,
+        "foregroundTilePixels": 24,
+        "meanWallLuma": 36.5,
+        "meanWallLumaExcludingPixelsAbove150": 36.01,
+        "brightPixelFractionPercent": 0.322,
+        "matchingTileMeanLuma": [
+          62.1,
+          61.75,
+          62.23,
+          61.82
+        ],
+        "note": "Reviewed native portrait and 160px previews with 5% cropped from each side, 24px matching blocks and the approved miner at 29px standing height. Wall remains dim, with only two small lantern interiors as bright accents; no haze, fade, frame or white margin.",
+        "width": 1024,
+        "height": 1536,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572864,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1023,
+          "bottom": 1535
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5116,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "path": "blocks/blocks-magma.png",
+        "role": "Matching terrain material; wall drawn substantially darker"
+      }
+    },
+    {
+      "id": "wall-core",
+      "name": "The Core tunnel back wall",
+      "path": "walls/wall-core.png",
+      "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/walls/wall-core.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1850555,
+      "sha256": "d3c26940e7f027ba069231a380f0d96fe5183bc3474786f9d1364c36d03c43d5",
+      "transparentBackground": false,
+      "artPass": 2,
+      "deliveryStage": 3,
+      "assetType": "wall",
+      "styleReferences": [
+        "miner-four-poses-v1.png",
+        "machines/machine-big-bertha-body-v1.png",
+        "moles/mole-four-frames-v2.png",
+        "hats/hat-yellow-hardhat-v2.png"
+      ],
+      "requestedCanvas": "1024x1536",
+      "nativeOutputPreserved": true,
+      "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates, corresponding to the The Core block layer. Use #141619 as the dark quiet wall base, substantially darker than the matching #282A2C tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nEDIT TARGET AND REQUIRED CORRECTION: the FIFTH attachment is the first Core wall attempt. The first FOUR attachments remain the mandatory approved world-style references. Preserve the fifth attachment's 1024×1536 portrait composition, straight-on view, timber positions, dark rock, faint gold veins, and exactly two lanterns. Its wooden posts are TOO LIGHT against the Core's near-black foreground tiles. Redraw every timber post, cross-beam and diagonal brace substantially DARKER: near-black warm-brown base #201A17, restrained darkest highlight #29211C. Reduce all bolt plates and fixtures to similarly dim shades, approximately #252629. Every wood and metal surface, including upper-left highlights, must be darker than the matching #282A2C foreground tile. Keep enough simple flat tonal variation to identify the beams, but no bright warm-brown slivers. Keep the two small yellow lantern glass interiors bright and entirely inside the lamp outlines. Rock remains quiet and almost black. Keep the same poster outline weight and subtle grain; do not add any fade, border, bloom or gradient. Output the single corrected opaque portrait wall.",
+      "generationAttempts": [
+        {
+          "number": 1,
+          "outcome": "rejected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates, corresponding to the The Core block layer. Use #141619 as the dark quiet wall base, substantially darker than the matching #282A2C tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved core block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.",
+          "reason": "The core rock and lanterns passed, but left timber averaged luma 42 with highlights around 55.8, exceeding the matching near-black tiles' mean luma of approximately 39.8. Regenerate with darker timber and metal to preserve foreground contrast."
+        },
+        {
+          "number": 2,
+          "outcome": "not-generated",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates, corresponding to the The Core block layer. Use #141619 as the dark quiet wall base, substantially darker than the matching #282A2C tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nThe FIFTH attachment is the approved core block sheet. Use its material hue and simple poster rock treatment, but draw this new wall substantially darker, around half the material brightness. Do NOT reproduce its four-tile grid, soft square rims or grey gutters. This new image is one continuous tall straight-on tunnel back wall, portrait 2:3, with small dim structural details. The first FOUR attachments still control character-world drawing style and outline weight.\n\nEDIT TARGET AND REQUIRED CORRECTION: the SIXTH attachment is the first Core wall attempt. Preserve its 1024×1536 portrait composition, straight-on view, timber positions, dark rock, faint gold veins, and exactly two lanterns. Its wooden posts are TOO LIGHT against the Core's near-black foreground tiles. Redraw every timber post, cross-beam and diagonal brace substantially DARKER: near-black warm-brown base #201A17, restrained darkest highlight #29211C. Reduce all bolt plates and fixtures to similarly dim shades, approximately #252629. Every wood and metal surface, including upper-left highlights, must be darker than the matching #282A2C foreground tile. Keep enough simple flat tonal variation to identify the beams, but no bright warm-brown slivers. Keep the two small yellow lantern glass interiors bright and entirely inside the lamp outlines. Rock remains quiet and almost black. Keep the same poster outline weight and subtle grain; do not add any fade, border, bloom or gradient. The first four attachments control the world style; fifth attachment is the Core foreground material; sixth attachment is the composition to revise. Output the single corrected opaque portrait wall.",
+          "reason": "Imagegen rejected this request before generation because referenced_image_paths accepts at most five paths. No image was produced."
+        },
+        {
+          "number": 3,
+          "outcome": "selected",
+          "prompt": "Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.\n\nThe four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.\n\nUse case: stylized-concept.\nAsset type: dark opaque portrait tunnel BACK WALL for a side-view mine shaft.\nMake one NEW normal 1024×1536 PORTRAIT PNG, aspect ratio 2:3, fully opaque edge to edge. This is a flat cut-away mine tunnel back wall seen straight on, never a perspective corridor receding to a vanishing point. The material is near-black dense rock with a few FAINT muted gold hairline veins; the dark rock dominates, corresponding to the The Core block layer. Use #141619 as the dark quiet wall base, substantially darker than the matching #282A2C tile faces. Match their same material hue and restrained grain, with only a few shallow irregular low-contrast rock divisions.\nAdd a few sturdy dark timber support posts and short cross-beams, with chunky dark-brown outlines and the same flat two-tone illustration style as the approved miner and Bertha. Keep timber, metal fixtures and any small rail piece very dim, low contrast and clearly darker than the matching foreground blocks; no bright copper or cream timber highlights. Include exactly TWO small hanging industrial lanterns in the central region, placed at different heights. Their warm pale-yellow lamp glass provides the ONLY small bright accents. Any light is a flat highlight INSIDE each lantern outline: no light pools, shafts, haze, bloom or faded glow on the wall. If present, orange cracks, gold veins and violet flecks must be very faint and dark, never luminous.\nThe image covers a tall narrow shaft behind blocks and a tiny teal miner. Avoid busy texture, large focal rocks, bright ore deposits or decorative high-contrast motifs; foreground sprites must dominate. Keep the important lanterns and structural joints within the central 80% of the width because a little will be cropped off both side edges. Timber posts may continue beyond canvas edges naturally. Complete rock/timber artwork fills the whole canvas including corners. No fade, vignette, border, frame, paper margin, white edge, transparency, characters, moles, machines, signs, text, labels, letters, numerals, logos or atomic symbols. Opaque alpha 255 everywhere. Match the references' poster drawing style, not photorealistic cave rendering.\n\nEDIT TARGET AND REQUIRED CORRECTION: the FIFTH attachment is the first Core wall attempt. The first FOUR attachments remain the mandatory approved world-style references. Preserve the fifth attachment's 1024×1536 portrait composition, straight-on view, timber positions, dark rock, faint gold veins, and exactly two lanterns. Its wooden posts are TOO LIGHT against the Core's near-black foreground tiles. Redraw every timber post, cross-beam and diagonal brace substantially DARKER: near-black warm-brown base #201A17, restrained darkest highlight #29211C. Reduce all bolt plates and fixtures to similarly dim shades, approximately #252629. Every wood and metal surface, including upper-left highlights, must be darker than the matching #282A2C foreground tile. Keep enough simple flat tonal variation to identify the beams, but no bright warm-brown slivers. Keep the two small yellow lantern glass interiors bright and entirely inside the lamp outlines. Rock remains quiet and almost black. Keep the same poster outline weight and subtle grain; do not add any fade, border, bloom or gradient. Output the single corrected opaque portrait wall."
+        }
+      ],
+      "layer": "core",
+      "validation": {
+        "previewWidthPixels": 160,
+        "previewAssumption": "Standalone portrait shaft preview at 160px width; user supplied no exact wall display size.",
+        "closeUpReviewed": true,
+        "smallPreviewReviewed": true,
+        "noTextReviewed": true,
+        "styleMatchedReviewed": true,
+        "fullyOpaqueEveryPixel": true,
+        "straightOnWallReviewed": true,
+        "edgeToEdgeWithoutBorderReviewed": true,
+        "sideCropPercent": 5,
+        "importantFeaturesSurviveSideCropReviewed": true,
+        "lanternCount": 2,
+        "lanternEffectsInsideOutlineReviewed": true,
+        "foregroundDominanceReviewed": true,
+        "minerStandingHeightPixels": 29,
+        "foregroundTilePixels": 24,
+        "meanWallLuma": 20.3,
+        "meanWallLumaExcludingPixelsAbove150": 19.49,
+        "brightPixelFractionPercent": 0.443,
+        "matchingTileMeanLuma": [
+          39.96,
+          39.97,
+          39.62,
+          39.67
+        ],
+        "note": "The first core wall was rejected for overly bright timber. Regenerated with near-black beams and dim fixture highlights, then checked at native portrait size and 160px shaft width with a 5% side crop, 24px core blocks and the approved miner at 29px standing height. Sampled timber means 22.15–24.77 and 90th-percentile highlights 24.84–31.76 remain below the approximately 39.8 tile mean. Only two small lantern interiors are bright; no light spills outside their outlines.",
+        "coreTimberRegions": [
+          {
+            "name": "left timber",
+            "x": 40,
+            "y": 440,
+            "w": 50,
+            "h": 95,
+            "mean": 24.77,
+            "p90": 31.76
+          },
+          {
+            "name": "upper cross beam",
+            "x": 180,
+            "y": 55,
+            "w": 180,
+            "h": 35,
+            "mean": 22.98,
+            "p90": 25.06
+          },
+          {
+            "name": "middle cross beam",
+            "x": 170,
+            "y": 565,
+            "w": 320,
+            "h": 20,
+            "mean": 22.15,
+            "p90": 24.84
+          }
+        ],
+        "width": 1024,
+        "height": 1536,
+        "minimumAlpha": 255,
+        "maximumAlpha": 255,
+        "fullyTransparentPixels": 0,
+        "fullyOpaquePixels": 1572864,
+        "partialAlphaPixels": 0,
+        "visibleArtworkBounds": {
+          "x": 0,
+          "y": 0,
+          "right": 1023,
+          "bottom": 1535
+        },
+        "edgeAlphaAudit": {
+          "pixelsAboveAlpha8OnCanvasEdge": 5116,
+          "candidatePixelsAboveAlpha8MoreThanFourPixelsFromAlpha200": 0,
+          "note": "Candidate pixels include thin outlined details and antialiasing; visual cutout checks are reported separately."
+        },
+        "unmodifiedImagegenPng": true,
+        "previewScope": "Standalone browser previews and close-up inspection; game integration is handled separately."
+      },
+      "supplementalReference": {
+        "role": "Core wall composition edit target",
+        "generationAttempt": 1,
+        "published": false,
+        "usedInAttempt": 3
+      }
     }
   ],
-  "revision": 5,
-  "revisionSummary": "Art pass 2, stage 2: Block tiles and ore overlays. 39 new pass-2 PNGs published in total.",
+  "revision": 6,
+  "revisionSummary": "Art pass 2, stage 3: Tunnel walls. 44 new pass-2 PNGs published in total.",
   "checkedFemaleMiner": {
     "path": "miner-female-v1.png",
     "downloadUrl": "https://raw.githubusercontent.com/brockrichardson1234-max/hollis-and-sons-art-pack/main/miner-female-v1.png",
@@ -3792,7 +4250,7 @@
   },
   "artPass2": {
     "generator": "built-in imagegen",
-    "completedThroughStage": 2,
+    "completedThroughStage": 3,
     "completedStages": [
       {
         "stage": 1,
@@ -3844,13 +4302,24 @@
           "blocks/ore-diamond.png",
           "blocks/ore-super.png"
         ]
+      },
+      {
+        "stage": 3,
+        "name": "Tunnel walls",
+        "files": [
+          "walls/wall-topsoil.png",
+          "walls/wall-caves.png",
+          "walls/wall-crystal.png",
+          "walls/wall-magma.png",
+          "walls/wall-core.png"
+        ]
       }
     ],
     "iconCount": 27,
     "appIconCount": 1,
     "tileSheetCount": 5,
     "oreOverlayCount": 6,
-    "tunnelWallCount": 0,
+    "tunnelWallCount": 5,
     "styleReferences": [
       "miner-four-poses-v1.png",
       "machines/machine-big-bertha-body-v1.png",
@@ -3865,7 +4334,9 @@
       "Four-icon sheet attempts were rejected for insufficient empty spacing; 27 individual icon PNGs are delivered.",
       "The epic tap fist was regenerated after a cream-glove attempt to meet the requested gold colour.",
       "Requested normal imagegen canvases; actual native dimensions are recorded and generated PNGs are preserved without resizing or hand painting.",
-      "Terrain sheets use soft low-contrast rims; emerald super ore is distinguished from pale-cyan diamonds by colour and silhouette."
+      "Terrain sheets use soft low-contrast rims; emerald super ore is distinguished from pale-cyan diamonds by colour and silhouette.",
+      "All six ore overlays were regenerated at smaller centred scales after oversized first attempts. Their 24px composites were checked on every terrain layer.",
+      "The Core wall was regenerated with darker timber and fixtures after sampled timber exceeded foreground tile brightness. The corrected wall passed 160px cropped-shaft and foreground-sprite checks."
     ],
     "rejectedLayoutAttempts": [
       {
