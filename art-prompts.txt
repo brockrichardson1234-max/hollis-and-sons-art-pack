@@ -1781,3 +1781,225 @@ EDGE RULE: tile boundaries have no thick outlines, black square border, paving j
 Opaque alpha 255 everywhere, including gutters and all corners. No background fade, vignette, paper border or white margin. No ore deposits, timber, rails, tools, people, moles, machines, text, numbers, labels or logos.
 
 ---
+
+=== Hollis & Sons newspaper and Old Hollis story assets ===
+
+Cave discovery newspaper photo
+File: story/news-caves.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: TWO cheerful mine workers matching the approved miner's stout proportions, wearing classic hard hats and work coveralls, carry one old-fashioned hanging lantern each and step from the foreground into a HUGE natural cave opening. The huge dark arch dwarfs them; their clearly separated silhouettes and small bright lanterns lead the eye into the cavern. Friendly curiosity, bold rock planes, a few rough pebbles. Two miners total, no other characters. Show stepping legs and the scale of the opening clearly.
+
+---
+
+Crystal cavern newspaper photo
+File: story/news-crystal.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: TWO cheerful miners in classic hard hats and work coveralls, matching the approved miner's proportions, stand low in the foreground and stare UP at several GIANT faceted crystal formations inside a cavern. Their upturned heads and small figures emphasize the crystal scale. Crystals glow as bright cream geometric faces and black/halftone facets, surrounded by dark rough rock. Keep crystals broad and legible; show astonished wonder without menace. No coloured crystals and no full-colour lighting; glowing means strong cream-to-black contrast.
+
+---
+
+Magma discovery newspaper photo
+File: story/news-magma.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: ONE mine worker with the approved miner's cheerful facial proportions, wearing a chunky 1950s industrial heat-protective suit and protective helmet, stands safely on a rocky ledge beside a winding GLOWING LAVA RIVER. The river is bright unprinted cream between bold dark basalt banks, with a few black-edged ripples and curling steam rising. Worker and helmet must read clearly, the friendly face visible through the helmet opening. Industrial protective clothing, no futuristic space suit. Convey tremendous heat with print contrast and simple steam shapes, never orange or red colour. No additional characters.
+
+---
+
+Earth core newspaper photo
+File: story/news-core.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (rejected) — Miner occupies about a third of the image height rather than a tiny silhouette; chamber relies too heavily on crystal formations like the crystal-discovery scene.
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: a VAST radiant chamber at the centre of the earth, formed from enormous rounded gold-bearing rock walls, broad mineral veins and bright crystalline deposits, with ONE tiny hard-hatted miner silhouette standing on a ledge at the foreground edge for scale. The chamber overwhelms the tiny miner. It is a glowing GOLDEN chamber in the game world, but this newspaper image must reproduce it entirely in BLACK INK ON CREAM: communicate golden brilliance using luminous cream mineral planes, black outlines and halftone shadows, not yellow/gold-coloured ink. Strong cavern depth, enormous central space, cheerful wonder, no atomic symbol or sci-fi machinery.
+
+Attempt 2 (rejected) — Correct tiny-miner scale, but pale gold-tinted vein outlines differ from the other black-ink-on-cream newspaper panels.
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: a VAST radiant chamber at the centre of the earth, formed from enormous rounded gold-bearing rock walls, broad mineral veins and bright crystalline deposits, with ONE tiny hard-hatted miner silhouette standing on a ledge at the foreground edge for scale. The chamber overwhelms the tiny miner. It is a glowing GOLDEN chamber in the game world, but this newspaper image must reproduce it entirely in BLACK INK ON CREAM: communicate golden brilliance using luminous cream mineral planes, black outlines and halftone shadows, not yellow/gold-coloured ink. Strong cavern depth, enormous central space, cheerful wonder, no atomic symbol or sci-fi machinery.
+
+Targeted refinement after rejected first attempt: the MINER must be an extremely TINY solid black silhouette, just 6–8 percent of the total canvas HEIGHT, with no facial details, at the lower-left or lower-right rim. Do not make a large foreground character. The vast chamber fills over 90 percent of the image. Use sweeping rounded metallic mineral walls, broad luminous cream gold-vein bands and gigantic curved natural rock terraces, rather than a forest of upright quartz crystals. Keep only a few compact mineral facets. Strong golden-chamber identity represented in monochrome black ink and cream paper; no yellow ink. The enormous open central void and distant arched rock surfaces should dwarf the tiny miner.
+
+Attempt 3 (selected)
+
+Use case: illustration-story.
+Asset type: one newspaper photo illustration panel for a mining-game story, requested 1536x1024 landscape, opaque.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Shared world style: Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Newspaper treatment overrides the full-colour palette for this asset: ONLY black printing ink, grey made from visible black HALFTONE DOTS, and warm cream #EFE4C8 newsprint. Draw the same cheerful chunky illustrated world underneath, then reproduce it as a high-contrast 1950s newspaper photograph. This is an illustrated halftone print, not a photorealistic photograph. Use coarse visible dot screens in midtones, crisp black contours and bold light areas. Restrained slightly grainy paper. No coloured ink: no yellow, orange, gold, teal, violet or cyan colour. Light-emitting things appear as bright unprinted cream shapes and contrasting dark edges.
+
+Composition: one complete wide 3:2 scene, filling the whole canvas edge to edge, no border or blank margin. It is the photo panel only, not an actual newspaper front page: absolutely no masthead, headline, captions, type, letters, numbers, signage, watermark or logos. Keep the major action clear at a 320-pixel-wide phone preview. Use big readable forms rather than many tiny details.
+
+Scene: a VAST radiant chamber at the centre of the earth, formed from enormous rounded gold-bearing rock walls, broad mineral veins and bright crystalline deposits, with ONE tiny hard-hatted miner silhouette standing on a ledge at the foreground edge for scale. The chamber overwhelms the tiny miner. It is a glowing GOLDEN chamber in the game world, but this newspaper image must reproduce it entirely in BLACK INK ON CREAM: communicate golden brilliance using luminous cream mineral planes, black outlines and halftone shadows, not yellow/gold-coloured ink. Strong cavern depth, enormous central space, cheerful wonder, no atomic symbol or sci-fi machinery.
+
+Targeted refinement after rejected first attempt: the MINER must be an extremely TINY solid black silhouette, just 6–8 percent of the total canvas HEIGHT, with no facial details, at the lower-left or lower-right rim. Do not make a large foreground character. The vast chamber fills over 90 percent of the image. Use sweeping rounded metallic mineral walls, broad luminous cream gold-vein bands and gigantic curved natural rock terraces, rather than a forest of upright quartz crystals. Keep only a few compact mineral facets. Strong golden-chamber identity represented in monochrome black ink and cream paper; no yellow ink. The enormous open central void and distant arched rock surfaces should dwarf the tiny miner.
+
+FINAL PRINT-PALETTE CORRECTION: use exactly ONE NEUTRAL BLACK INK (#1A1A1A) and ONE CREAM PAPER (#EFE4C8). Midtones are black halftone dots on that same cream paper. ALL rock, highlights, veins and crystal edges use this same ink and stock. In particular, NO pale yellow, ochre, gold, orange or tan outline strokes along the mineral veins, and no coloured highlights. Each luminous vein is plain unprinted cream enclosed by BLACK strokes; give its brilliance through high print contrast. The world's golden material is implied by huge mineral bands and shine, never a second ink colour. Keep the successful vast chamber and tiny miner scale.
+
+---
+
+Old Hollis talking guide pose
+File: story/hollis-talk.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: identity-preserve.
+Asset type: one Old Hollis guide character cutout for a mining game, requested 1024x1024 square.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Identity and outfit LOCK: use the FIFTH reference portrait as the exact man and outfit. Old Hollis has swept-back white/silver hair, a large white curled handlebar moustache, thick dark-brown eyebrows, warm peach skin, a broad rounded face and large rounded nose. No beard, glasses or hat. He wears the same company-teal tailored suit jacket and waistcoat, cream collared shirt and cuffs, copper/red-orange tie and matching pocket square, brass buttons, with a gold pocket-watch chain where the chest crop includes it. Do not turn his formal suit into miner coveralls. His age, hairline, moustache, facial proportions and clothing must match the portrait; alter only the specified expression or hand gesture.
+
+Framing: head and shoulders with upper chest only, facing slightly to the RIGHT in the same gentle three-quarter angle as the portrait. Head sits near the upper centre, at a consistent scale for a guide-pose set. Include the entire hair silhouette. For an arm gesture include the forearm and whole hand within the square without shrinking the face. Keep clear transparent margins on all four sides and end the torso in a clean bust cutout around mid-chest. No full body or legs.
+
+Background: real transparent PNG alpha. No portrait frame, paper rectangle, backing, pedestal, scenery or checkerboard. Crisp cutout with antialiased edges only; no halo, bloom, glow, haze or cast shadow outside the silhouette. Keep grain and all shading inside the character. No text, letters, numbers, labels, logos or marks anywhere. Keep the face and gesture easy to understand in a 128-pixel-square guide preview.
+
+Pose and expression: Old Hollis speaks warmly to the player, mouth OPEN mid-sentence beneath his curled white moustache, friendly attentive eyes and a slight smile. Shoulders relaxed. No hand gesture is necessary; keep hands outside this bust crop. Clearly speaking rather than a closed-mouth grin. Same portrait man and formal outfit, no hat.
+
+---
+
+Old Hollis pointing guide pose
+File: story/hollis-point.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: identity-preserve.
+Asset type: one Old Hollis guide character cutout for a mining game, requested 1024x1024 square.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Identity and outfit LOCK: use the FIFTH reference portrait as the exact man and outfit. Old Hollis has swept-back white/silver hair, a large white curled handlebar moustache, thick dark-brown eyebrows, warm peach skin, a broad rounded face and large rounded nose. No beard, glasses or hat. He wears the same company-teal tailored suit jacket and waistcoat, cream collared shirt and cuffs, copper/red-orange tie and matching pocket square, brass buttons, with a gold pocket-watch chain where the chest crop includes it. Do not turn his formal suit into miner coveralls. His age, hairline, moustache, facial proportions and clothing must match the portrait; alter only the specified expression or hand gesture.
+
+Framing: head and shoulders with upper chest only, facing slightly to the RIGHT in the same gentle three-quarter angle as the portrait. Head sits near the upper centre, at a consistent scale for a guide-pose set. Include the entire hair silhouette. For an arm gesture include the forearm and whole hand within the square without shrinking the face. Keep clear transparent margins on all four sides and end the torso in a clean bust cutout around mid-chest. No full body or legs.
+
+Background: real transparent PNG alpha. No portrait frame, paper rectangle, backing, pedestal, scenery or checkerboard. Crisp cutout with antialiased edges only; no halo, bloom, glow, haze or cast shadow outside the silhouette. Keep grain and all shading inside the character. No text, letters, numbers, labels, logos or marks anywhere. Keep the face and gesture easy to understand in a 128-pixel-square guide preview.
+
+Pose and expression: Old Hollis smiles helpfully and POINTS to the RIGHT with ONE extended index finger. His raised right forearm and bare hand emerge naturally from a teal suit sleeve with cream cuff, remaining fully within the square; other fingers curl naturally into the palm. Finger points horizontally to the right, away from his face. Friendly explaining expression, same portrait man and formal outfit, no hat.
+
+---
+
+Old Hollis thumbs-up guide pose
+File: story/hollis-thumbs.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (selected)
+
+Use case: identity-preserve.
+Asset type: one Old Hollis guide character cutout for a mining game, requested 1024x1024 square.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Identity and outfit LOCK: use the FIFTH reference portrait as the exact man and outfit. Old Hollis has swept-back white/silver hair, a large white curled handlebar moustache, thick dark-brown eyebrows, warm peach skin, a broad rounded face and large rounded nose. No beard, glasses or hat. He wears the same company-teal tailored suit jacket and waistcoat, cream collared shirt and cuffs, copper/red-orange tie and matching pocket square, brass buttons, with a gold pocket-watch chain where the chest crop includes it. Do not turn his formal suit into miner coveralls. His age, hairline, moustache, facial proportions and clothing must match the portrait; alter only the specified expression or hand gesture.
+
+Framing: head and shoulders with upper chest only, facing slightly to the RIGHT in the same gentle three-quarter angle as the portrait. Head sits near the upper centre, at a consistent scale for a guide-pose set. Include the entire hair silhouette. For an arm gesture include the forearm and whole hand within the square without shrinking the face. Keep clear transparent margins on all four sides and end the torso in a clean bust cutout around mid-chest. No full body or legs.
+
+Background: real transparent PNG alpha. No portrait frame, paper rectangle, backing, pedestal, scenery or checkerboard. Crisp cutout with antialiased edges only; no halo, bloom, glow, haze or cast shadow outside the silhouette. Keep grain and all shading inside the character. No text, letters, numbers, labels, logos or marks anywhere. Keep the face and gesture easy to understand in a 128-pixel-square guide preview.
+
+Pose and expression: Old Hollis has a BIG warm grin and gives ONE obvious THUMBS UP beside his shoulder on the viewer's right. Show the entire bare hand, thumb extended UP, four fingers curled into the palm, attached naturally to his suit sleeve and cream cuff. His head still faces slightly right. Enthusiastic approval, same portrait man and formal outfit, no hat.
+
+---
+
+Old Hollis impressed guide pose
+File: story/hollis-surprised.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png, portrait/old-hollis-portrait-v1.png
+
+Attempt 1 (rejected) — Raised hands added an unrequested gesture despite the hands-outside-crop instruction; redo as an expression-focused head-and-shoulders bust.
+
+Use case: identity-preserve.
+Asset type: one Old Hollis guide character cutout for a mining game, requested 1024x1024 square.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Identity and outfit LOCK: use the FIFTH reference portrait as the exact man and outfit. Old Hollis has swept-back white/silver hair, a large white curled handlebar moustache, thick dark-brown eyebrows, warm peach skin, a broad rounded face and large rounded nose. No beard, glasses or hat. He wears the same company-teal tailored suit jacket and waistcoat, cream collared shirt and cuffs, copper/red-orange tie and matching pocket square, brass buttons, with a gold pocket-watch chain where the chest crop includes it. Do not turn his formal suit into miner coveralls. His age, hairline, moustache, facial proportions and clothing must match the portrait; alter only the specified expression or hand gesture.
+
+Framing: head and shoulders with upper chest only, facing slightly to the RIGHT in the same gentle three-quarter angle as the portrait. Head sits near the upper centre, at a consistent scale for a guide-pose set. Include the entire hair silhouette. For an arm gesture include the forearm and whole hand within the square without shrinking the face. Keep clear transparent margins on all four sides and end the torso in a clean bust cutout around mid-chest. No full body or legs.
+
+Background: real transparent PNG alpha. No portrait frame, paper rectangle, backing, pedestal, scenery or checkerboard. Crisp cutout with antialiased edges only; no halo, bloom, glow, haze or cast shadow outside the silhouette. Keep grain and all shading inside the character. No text, letters, numbers, labels, logos or marks anywhere. Keep the face and gesture easy to understand in a 128-pixel-square guide preview.
+
+Pose and expression: Old Hollis reacts to a big find with BOTH EYEBROWS RAISED, wider bright eyes and a delighted, slightly OPEN mouth beneath the moustache. Impressed and happily surprised, not afraid or screaming. Shoulders gently lifted, hands outside this bust crop. Keep his face recognizable as exactly the reference portrait man, with the same formal outfit and no hat.
+
+Attempt 2 (selected)
+
+Use case: identity-preserve.
+Asset type: one Old Hollis guide character cutout for a mining game, requested 1024x1024 square.
+Input images, all are references rather than edit targets: image 1, approved miner sheet, controls the character proportions and drawing style; image 2, Big Bertha body, controls outline weight and two-tone industrial shapes; image 3, mole sheet, controls the cheerful comic simplification; image 4, yellow hard hat, controls helmet construction; image 5, Old Hollis portrait, controls the world style and, for guide portraits, Hollis's exact identity and clothing. Do not reproduce the sprite grids or framed portrait layout.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Identity and outfit LOCK: use the FIFTH reference portrait as the exact man and outfit. Old Hollis has swept-back white/silver hair, a large white curled handlebar moustache, thick dark-brown eyebrows, warm peach skin, a broad rounded face and large rounded nose. No beard, glasses or hat. He wears the same company-teal tailored suit jacket and waistcoat, cream collared shirt and cuffs, copper/red-orange tie and matching pocket square, brass buttons, with a gold pocket-watch chain where the chest crop includes it. Do not turn his formal suit into miner coveralls. His age, hairline, moustache, facial proportions and clothing must match the portrait; alter only the specified expression or hand gesture.
+
+Framing: head and shoulders with upper chest only, facing slightly to the RIGHT in the same gentle three-quarter angle as the portrait. Head sits near the upper centre, at a consistent scale for a guide-pose set. Include the entire hair silhouette. For an arm gesture include the forearm and whole hand within the square without shrinking the face. Keep clear transparent margins on all four sides and end the torso in a clean bust cutout around mid-chest. No full body or legs.
+
+Background: real transparent PNG alpha. No portrait frame, paper rectangle, backing, pedestal, scenery or checkerboard. Crisp cutout with antialiased edges only; no halo, bloom, glow, haze or cast shadow outside the silhouette. Keep grain and all shading inside the character. No text, letters, numbers, labels, logos or marks anywhere. Keep the face and gesture easy to understand in a 128-pixel-square guide preview.
+
+Pose and expression: Old Hollis reacts to a big find with BOTH EYEBROWS RAISED, wider bright eyes and a delighted, slightly OPEN mouth beneath the moustache. Impressed and happily surprised, not afraid or screaming. Shoulders gently lifted, hands outside this bust crop. Keep his face recognizable as exactly the reference portrait man, with the same formal outfit and no hat.
+
+FRAMING AND EXPRESSION CORRECTION: show NO hands or forearms anywhere. Both arms rest down and out of this head-and-shoulders crop, just as in the talking bust. Do not raise fists, point or give a thumbs up. The surprised reaction is carried by distinctly raised dark eyebrows, widened attentive eyes and a small, delighted rounded open mouth below the moustache. Friendly impressed wonder, not speaking, not panic. Upper-chest bust only, clean curved lower edge, same fifth-reference man and teal formal suit.
+
+---

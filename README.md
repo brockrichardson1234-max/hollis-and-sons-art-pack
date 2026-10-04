@@ -1,6 +1,6 @@
 # Hollis and Sons Game Art
 
-This repository contains the approved miner reference and 79 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
+This repository contains the approved miner reference and 87 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
 
 [Download the complete repository as a ZIP](https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack/archive/refs/heads/main.zip). [manifest.json](manifest.json) lists each image, dimensions, raw download URL, generation prompt, and integration notes. The complete prompt set is also in [art-prompts.txt](art-prompts.txt).
 
@@ -308,3 +308,25 @@ Normal 1024×1024 output was requested; imagegen returned 1254×1254 native PNGs
 | [gear/crate-closed.png](gear/crate-closed.png) | 1254 × 1254 | Transparent | 48 px |
 | [gear/crate-open.png](gear/crate-open.png) | 1254 × 1254 | Transparent | 48 px |
 | [blocks/blocks-caves.png](blocks/blocks-caves.png) | 1254 × 1254 | Opaque | 24 px |
+
+<!-- STORY-ASSETS -->
+## Newspaper panels and Old Hollis guide poses
+
+Added eight story images in [story/](story/): four landscape newspaper illustrations for caves, crystal, magma and core, plus talking, pointing, thumbs-up and surprised Old Hollis cutouts. Every generation used the four established art references and [the approved Hollis portrait](portrait/old-hollis-portrait-v1.png).
+
+The newspaper panels use black ink, visible halftone dots and cream newsprint, with no masthead, captions, lettering or margins. Their illustrated miners remain cheerful; the core uses a tiny silhouette against a vast mineral chamber. The guide poses keep Hollis’s white hair and moustache, teal formal suit, copper tie, pocket square and watch chain, facing slightly right. They contain no portrait frame or background.
+
+Opaque newspaper PNGs are 1536×1024 as requested. Square 1024×1024 guide output was requested; imagegen returned native 1254×1254 cutouts. Those originals are preserved byte for byte with real alpha and no visible exterior halo in the reviewed previews. All images were checked close up and at the review sizes below. These are standalone previews; game scaling and integration remain separate.
+
+[manifest.json](manifest.json) and [art-prompts.txt](art-prompts.txt) include every prompt and rejected attempt, actual dimensions, hashes and validation notes. The core composition and ink treatment were refined, and the surprised pose was regenerated without raised hands. Existing images remain unchanged.
+
+| File | Native dimensions | Background | Review size |
+| --- | --- | --- | --- |
+| [story/news-caves.png](story/news-caves.png) | 1536 × 1024 | Opaque | 320 px wide |
+| [story/news-crystal.png](story/news-crystal.png) | 1536 × 1024 | Opaque | 320 px wide |
+| [story/news-magma.png](story/news-magma.png) | 1536 × 1024 | Opaque | 320 px wide |
+| [story/news-core.png](story/news-core.png) | 1536 × 1024 | Opaque | 320 px wide |
+| [story/hollis-talk.png](story/hollis-talk.png) | 1254 × 1254 | Transparent | 128 px square |
+| [story/hollis-point.png](story/hollis-point.png) | 1254 × 1254 | Transparent | 128 px square |
+| [story/hollis-thumbs.png](story/hollis-thumbs.png) | 1254 × 1254 | Transparent | 128 px square |
+| [story/hollis-surprised.png](story/hollis-surprised.png) | 1254 × 1254 | Transparent | 128 px square |
