@@ -1,6 +1,6 @@
 # Hollis and Sons Game Art
 
-This repository contains the approved miner reference and 71 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
+This repository contains the approved miner reference and 79 matching PNG art assets for a cheerful 1950s mining-company game. The miner is unchanged. The pack includes seven miner sprite sheets with fitted headwear and a female character, ready for review and integration into the existing game.
 
 [Download the complete repository as a ZIP](https://github.com/brockrichardson1234-max/hollis-and-sons-art-pack/archive/refs/heads/main.zip). [manifest.json](manifest.json) lists each image, dimensions, raw download URL, generation prompt, and integration notes. The complete prompt set is also in [art-prompts.txt](art-prompts.txt).
 
@@ -285,3 +285,26 @@ The original approved miner and earlier assets remain intact. These checks cover
 | [walls/wall-crystal.png](walls/wall-crystal.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
 | [walls/wall-magma.png](walls/wall-magma.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
 | [walls/wall-core.png](walls/wall-core.png) | 1024 × 1536 | Opaque | 160 px shaft preview |
+
+<!-- GEAR-NATURAL-CAVES -->
+## Gear icons and natural cave rock
+
+Added eight equipment/crate icons in [gear/](gear/) and replaced [blocks/blocks-caves.png](blocks/blocks-caves.png) with rough organic cave stone. All nine images used the same four approved references as art pass 2.
+
+The jacket has one teal colour family for code recolouring. Gloves and boots are pairs; helmets contain no person. Both wooden crates share their broad planks, metal corners and perspective; the open version has its lid removed and warm flat light inside the crate only. Icons were checked at 48 px on white, dark and earth backgrounds.
+
+The cave sheet is an opaque 2×2 grid with flat mid-grey gutters, irregular rock faces, cracks, small pebbles and damp patches. Its cropped variants were checked at 24 px, with all six ores on every variant and the approved miner at a 29 px standing height. **Use the updated cave crop rectangles in [manifest.json](manifest.json)**; the cave entry supersedes the earlier art-pass-2 sheet.
+
+Normal 1024×1024 output was requested; imagegen returned 1254×1254 native PNGs. The selected originals are preserved byte for byte. [manifest.json](manifest.json) and [art-prompts.txt](art-prompts.txt) include all prompts, rejected sizing attempts, hashes, actual dimensions, alpha metrics and review notes. Game scaling and integration remain separate.
+
+| File | Native dimensions | Background | Preview |
+| --- | --- | --- | --- |
+| [gear/gear-jacket.png](gear/gear-jacket.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/gear-gloves.png](gear/gear-gloves.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/gear-boots.png](gear/gear-boots.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/gear-hardhat.png](gear/gear-hardhat.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/gear-headlamp.png](gear/gear-headlamp.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/gear-welder.png](gear/gear-welder.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/crate-closed.png](gear/crate-closed.png) | 1254 × 1254 | Transparent | 48 px |
+| [gear/crate-open.png](gear/crate-open.png) | 1254 × 1254 | Transparent | 48 px |
+| [blocks/blocks-caves.png](blocks/blocks-caves.png) | 1254 × 1254 | Opaque | 24 px |

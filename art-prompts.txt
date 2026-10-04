@@ -1448,3 +1448,336 @@ BOTTOM-RIGHT: A foreman's blank cream clipboard with a brass magnifying glass he
 Output real transparent PNG alpha outside every object and in all gaps, including holes. Crisp fully drawn dark-brown silhouette edges with only normal narrow antialiasing. Absolutely no backdrop, checkerboard pixels, opaque white ground, cast ground shadow, blur, halo, bloom, haze or exterior glow. Paint any shine, steam, impact, starburst, spark or beam as a few solid flat outlined shapes, never diffuse light. Grain stays inside the artwork.
 
 ---
+
+=== Hollis & Sons gear icons and cave-rock update ===
+
+The cave-sheet attempt marked superseded below belongs to the previous revision; the current file at that path is the selected natural-rock version.
+
+Teal work coverall jacket
+File: gear/gear-jacket.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 91.6% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: A 1950s work coverall JACKET alone, matching the approved miner's coverall upper garment: long sleeves, sturdy pointed collar, simple chest pockets and plain front closure, no trousers. The complete garment is ONE clean company-teal colour family, base #2F6B66 with only two restrained teal light/shadow tones for folds. Collar, cuffs, pockets and closure all remain teal. Only the dark-brown drawn outlines differ. No cream lining, brown belt, yellow trim, red patch, multicoloured buttons or separate contrasting panels. The game recolours this garment in code, so keep large continuous simple teal areas.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: A 1950s work coverall JACKET alone, matching the approved miner's coverall upper garment: long sleeves, sturdy pointed collar, simple chest pockets and plain front closure, no trousers. The complete garment is ONE clean company-teal colour family, base #2F6B66 with only two restrained teal light/shadow tones for folds. Collar, cuffs, pockets and closure all remain teal. Only the dark-brown drawn outlines differ. No cream lining, brown belt, yellow trim, red patch, multicoloured buttons or separate contrasting panels. The game recolours this garment in code, so keep large continuous simple teal areas.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 87.3% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Cream leather work gloves
+File: gear/gear-gloves.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 94.3% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE PAIR of cream leather industrial work gloves, matching the miner's thick cream gloves. Two empty gloves form one centred equipment set, palms slightly forward, adjacent with a small clear gap, chunky cuff openings and short clearly grouped fingers. Use cream #EFE4C8 with two muted cream shading tones; sturdy dark-brown outlines. No skin, hands or arms.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE PAIR of cream leather industrial work gloves, matching the miner's thick cream gloves. Two empty gloves form one centred equipment set, palms slightly forward, adjacent with a small clear gap, chunky cuff openings and short clearly grouped fingers. Use cream #EFE4C8 with two muted cream shading tones; sturdy dark-brown outlines. No skin, hands or arms.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 84.8% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Brown steel-toe work boots
+File: gear/gear-boots.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 93.9% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE PAIR of sturdy brown leather steel-toe work boots matching the approved miner's boots. Two boots form one centred equipment set, big rounded reinforced toes, simple brown laces, thick dark-brown soles and short ankle shafts, viewed slightly from the front so the paired silhouette is unmistakable. Use warm brown leather in the approved palette, with the steel toe enclosed in the brown leather. No legs, trousers or floor.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE PAIR of sturdy brown leather steel-toe work boots matching the approved miner's boots. Two boots form one centred equipment set, big rounded reinforced toes, simple brown laces, thick dark-brown soles and short ankle shafts, viewed slightly from the front so the paired silhouette is unmistakable. Use warm brown leather in the approved palette, with the steel toe enclosed in the brown leather. No legs, trousers or floor.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 85.2% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Yellow hard hat equipment icon
+File: gear/gear-hardhat.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 96.3% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE yellow hard hat alone, matching the fourth reference exactly in design: rounded safety-yellow dome, a few broad raised ribs and a thick sturdy brim, small upper-left cream highlight. Show a slight front three-quarter view. This is the plain hard hat: no lamp. The shell is empty with no person, head, hair or face.
+
+Attempt 2 (rejected) — The first sizing edit still occupied 89.1% of the canvas width. Reduce again to approximately 80% so margins match the other equipment icons.
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE yellow hard hat alone, matching the fourth reference exactly in design: rounded safety-yellow dome, a few broad raised ribs and a thick sturdy brim, small upper-left cream highlight. Show a slight front three-quarter view. This is the plain hard hat: no lamp. The shell is empty with no person, head, hair or face.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 83% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+Attempt 3 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":2,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE yellow hard hat alone, matching the fourth reference exactly in design: rounded safety-yellow dome, a few broad raised ribs and a thick sturdy brim, small upper-left cream highlight. Show a slight front three-quarter view. This is the plain hard hat: no lamp. The shell is empty with no person, head, hair or face.
+
+SCALE-ONLY EDIT TARGET: the FIFTH attachment is the current plain yellow hard-hat icon. Keep the exact hat shell, brim, ribs, orientation, yellow colours, shading and outline-to-hat ratio. Its illustrated silhouette currently spans 89.1% of the canvas width. Reduce the COMPLETE hat to 90% of that illustrated width and height within the same square canvas, centred, so the final silhouette spans about 80% with about 10% fully clear transparent space at both left and right. Do not zoom, enlarge, crop or add anything. First FOUR images are world-style references; fifth is the icon to reduce. The background remains true transparent alpha with no exterior haze, halo, shadow or glow.
+
+---
+
+Brass headlamp helmet equipment icon
+File: gear/gear-headlamp.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 93.5% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE safety-yellow miner helmet with a large obvious round BRASS headlamp on its front. Use the approved hard hat shell design and industrial brass construction from Bertha. Round cream lens, copper/brass housing, simple large forms, slight front three-quarter view. All lamp highlights remain INSIDE the lens. Empty helmet with no person, head, hair or face. No emitted light beam.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE safety-yellow miner helmet with a large obvious round BRASS headlamp on its front. Use the approved hard hat shell design and industrial brass construction from Bertha. Round cream lens, copper/brass housing, simple large forms, slight front three-quarter view. All lamp highlights remain INSIDE the lens. Empty helmet with no person, head, hair or face. No emitted light beam.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 85.6% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Raised welder visor equipment icon
+File: gear/gear-welder.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 88.9% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE empty machine-steel welder helmet with its rectangular dark-glass VISOR FLIPPED UP above the front opening. Show the flipped-up hinged visor clearly in a slight front three-quarter view; large broad steel shell, simple round side pivots and a plain lifted visor plate. Flat steel #44535C shades, dark-brown outlines, small restrained cream upper-left highlights. The opening is empty: no human, face, neck, hair or skin. No welding tool, sparks, lettering or separate accessories.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE empty machine-steel welder helmet with its rectangular dark-glass VISOR FLIPPED UP above the front opening. Show the flipped-up hinged visor clearly in a slight front three-quarter view; large broad steel shell, simple round side pivots and a plain lifted visor plate. Flat steel #44535C shades, dark-brown outlines, small restrained cream upper-left highlights. The opening is empty: no human, face, neck, hair or skin. No welding tool, sparks, lettering or separate accessories.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 90% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Closed wooden supply crate
+File: gear/crate-closed.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct design, style and real alpha, but artwork occupied 88.0% of the longest canvas dimension, leaving less margin than the requested approximately 80% coverage.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE sturdy closed wooden company supply crate, warm copper-brown wood with wide simple planks, chunky machine-steel corner protectors and a few large plain rivets. Plain removable flat wooden lid seated on the top, not hinged. Slight front three-quarter view, compact cube-like silhouette and a clearly readable top plane. No stencils, stamps, letters, emblems, labels, ropes, paper or contents. Remember the exact board arrangement, steel corners, perspective and crate-body placement: the next image will be the same crate with only its lid removed.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE sturdy closed wooden company supply crate, warm copper-brown wood with wide simple planks, chunky machine-steel corner protectors and a few large plain rivets. Plain removable flat wooden lid seated on the top, not hinged. Slight front three-quarter view, compact cube-like silhouette and a clearly readable top plane. No stencils, stamps, letters, emblems, labels, ropes, paper or contents. Remember the exact board arrangement, steel corners, perspective and crate-body placement: the next image will be the same crate with only its lid removed.
+
+SCALE-ONLY EDIT: the FIFTH attachment is the previous complete icon. Keep its exact equipment design, shape, orientation, colour, paired arrangement if applicable, outline-to-object proportion and two-tone shading. Scale the ENTIRE illustrated silhouette to about 90.9% of its current width and height inside the SAME square canvas, then centre it. The resulting longest artwork dimension should be about 80% of the canvas, with approximately 10% clear transparent space on both ends of that longest axis. Preserve all design details; do not zoom or crop. Re-render through imagegen as one clean transparent PNG; no visible seam, border, exterior glow or ground shadow. The first FOUR attachments remain the mandatory world-style references.
+
+---
+
+Open supply crate with contained warm light
+File: gear/crate-open.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (rejected) — Correct crate design and contained warm light, but 85.8% canvas coverage is larger than the matching closed crate at 78.9%. Reduce only the complete icon scale to align framing.
+Additional image reference: {"path":"gear/crate-closed.png","role":"Closed crate edit target; preserve exterior design and framing"}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject: ONE open wooden company supply crate, EXACTLY the same design, scale, angle, wood colours, broad planks, steel corner protectors, rivets and body pixel placement as the fifth attached reference (closed crate edit target). Remove ONLY the flat top lid completely; do not put a lid beside it, floating above it or hinged behind it. Reveal the empty interior as a few flat warm cream and safety-yellow light shapes, contained BELOW the top rim and entirely INSIDE the crate outline. The front and side exterior faces keep their original copper-brown wood shading. No beam, haze, external glow, floating sparkles or cast light on transparent space. One object only, no contents, stencil, text or logos.
+
+The FIFTH attachment is the SELECTED closed crate in its full square canvas. Keep the exact same 80% canvas framing, scale, centred crate-body position, perspective, copper-brown wood, three broad face planks and steel corner/rivet arrangement. Change only the lid/top-opening region: remove the lid and show warm flat cream/yellow illumination on the interior bottom and interior walls, entirely contained by the rim and crate outline. Do not alter or brighten the exterior front and side faces. No external rays, halo or glow; no additional lid or other object.
+
+Attempt 2 (selected)
+Additional image reference: {"role":"Scale-only open crate edit target","generationAttempt":1,"published":false}
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: one standalone 48px equipment UI icon.
+Output one square 1024×1024 PNG. Centre the complete object or paired equipment set in the canvas, filling about 80% of its longest dimension, with equal clear margins, no cropping. View slightly from the front, with a simple three-quarter tilt only if useful for identifying the object. Bold chunky dark-brown outlines matching the references. Few large flat shapes that read at 48×48 pixels on a phone. No scene, extra props, human, mannequin, head, hands, display stand or hanger. No text, markings, lettering, numbers, labels, stencils, logos or atomic symbols.
+Background: genuinely transparent alpha, crisp cutout. Empty space outside the object outline is clear transparent. No visible haze, halo, glow, checkerboard, white field or cast/ground shadow outside the outline. All shading and faint grain stay inside the artwork. Any warm light is painted as flat cream/yellow shapes INSIDE the object outline; no bloom, rays, floating sparkles or light spill.
+
+Subject and SCALE-ONLY EDIT TARGET: the FIFTH attachment is the complete OPEN wooden supply crate. Its design already matches the selected closed crate, including copper-brown wood, three broad face planks, riveted machine-steel corner protectors, simple three-quarter view and flat cream/yellow interior light. Keep ALL of that exactly. The open icon currently spans about 85.8% of the canvas; reduce the ENTIRE illustrated crate to about 90% of its current width and height inside the same square canvas, preserving its centre, so its final longest extent is about 78–80%, matching the closed crate framing. Preserve the existing perspective, plank arrangement, exterior wood colours, rivets and warm illuminated empty interior. No lid, contents, new props or text. Light stays as flat shapes INSIDE the crate outline; no external haze, halo, rays or cast shadow. Do not zoom or crop. First FOUR attached images are mandatory world-style references; fifth is the open crate to scale down.
+
+---
+
+Caves — four natural rock variants
+File: blocks/blocks-caves.png
+Style references: miner-four-poses-v1.png, machines/machine-big-bertha-body-v1.png, moles/mole-four-frames-v2.png, hats/hat-yellow-hardhat-v2.png
+
+Attempt 1 (superseded) — Superseded by the requested natural cave-rock revision.
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+The four attached images are style/design references only, in order: the approved miner (costume, gloves and human identity), Big Bertha (machine construction), the approved mole courier (character identity), and the approved yellow hard hat (helmet design). Create the NEW asset specified below; do not reproduce the reference sprite sheets. Ignore any exterior fringe or haze in the old reference; new transparent artwork must have crisp alpha cutouts.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 block-material sheet for a side-view mining game.
+Make one NEW normal 1024×1024 square PNG, fully opaque. It contains FOUR equal square tiles, one in each quadrant, seen straight on. Separate them with an exactly flat mid-grey #808080 horizontal gutter and vertical gutter meeting at the centre; each gutter is about 8% of the whole image width. The gutters contain no grain, marks, shadows or artwork. The four tile squares extend to the outer canvas edges; no extra outer frame or margin.
+All four squares are the SAME material: cool grey-brown damp rock, with a few small low-contrast pebble chips. Use #66625A as their shared quiet base colour, with exactly the same colour, brightness, grain strength and number/size of small texture accents in all four. Vary ONLY the placement of these small accents. No quadrant is lighter, darker, warmer or cooler than another. Do not light the sheet as four separate objects. Keep each tile's centre mostly plain; no large central rock, chunk, crack network, jewel, decorative shape or high-contrast feature. Each individual tile displays at only 24×24 pixels, beneath bright ore and the miner.
+TILE-EDGE RULE: The user specifically requires soft low-contrast material rims, NOT chunky dark outlines around the square tiles. Make a very subtle rim about 1/20 of each tile's width: slightly lighter along top/left, slightly darker along bottom/right, barely different from the tile face. No brown square border, heavy stroke, black seam, raised frame, floor-tile bevel, isometric slab, thick corner or cast shadow. This material-background rule takes precedence over object-outline styling at tile boundaries. Texture marks also stay low contrast. Flat poster colour areas and simple two-tone shading as in the references, with faint grain only inside the tile material. These are individual cropped blocks; do not attempt seamless periodic textures. The layer-specific rock/soil colours and subtle violet/orange/gold accents are intentional palette extensions requested for these materials.
+Opaque alpha 255 over the entire canvas including gutters and corners. Fill edge to edge. No text, letters, numbers, labels, logos, ore deposits, miners, moles, machines, props or scenery.
+
+Attempt 2 (selected)
+
+Cheerful 1950s American industrial safety-poster illustration, matching the attached references exactly: flat colour areas, two simple shading tones, dark-brown outlines (#3D2A21) of the same weight as the references, light from the upper left, faint paper grain inside the artwork only. Palette: safety yellow #F2B829, signal red #C8442F, company teal #2F6B66, machine steel #44535C, copper #B4643A, cream #EFE4C8. No text, letters, numbers, labels or logos anywhere in any image.
+
+Input images 1–4 are STYLE REFERENCES in this order: approved miner (workwear design), Big Bertha body (industrial construction), mole courier (world illustration style), yellow hard hat (helmet design). Match their dark-brown outline weight, clean shapes and flat two-tone shading. Make only the new subject below; do not reproduce any reference sprite sheet. Ignore the old hat reference's exterior fringe: the new cutout must be crisp.
+
+Use case: stylized-concept.
+Asset type: opaque 2×2 natural cave-rock block-material sheet for a side-view mining game.
+Output one square 1024×1024 PNG, fully opaque edge to edge. FOUR equal square tile crops, top left, top right, bottom left, bottom right, separated only by a wide perfectly flat mid-grey #808080 vertical and horizontal gutter, each about 8% of total canvas width. The gutters have no grain, artwork, marks, shading or gradients. Four tile crops extend to the outer canvas edges, with no outside margin or frame.
+Material: rough NATURAL cool grey-brown cave rock, shared base #66625A. Uneven organic rock faces, sparse short irregular darker fissures, a few small scattered pebbles, and soft-edged damp darker patches. Each tile is a square crop THROUGH a continuous natural rock face; do not draw a discrete square slab. All four use the SAME colour, brightness, pebble sizes, crack weight and damp-patch coverage, varying only placement. No checkerboard light/dark variants. Keep all texture quiet and low contrast because bright ore and a 29px miner sit on top, and each cropped tile is only 24px in the game. Suggest roughness with a few large simple flat shapes and faint grain, not photographic stone, noisy fine texture, big central rocks or dense crack networks.
+EDGE RULE: tile boundaries have no thick outlines, black square border, paving joints, continuous raised rim, bevel, manufactured panel edge or regular masonry pattern. If the outermost 1/20 of a crop has any edge shading, it must be exceptionally soft, broken and barely different from the face, never a uniform rectangular frame. Darker cracks wander organically within each crop. Keep the same two simple poster shading tones as the references while avoiding bold outlines around material tiles. Do not make seamless patterns.
+Opaque alpha 255 everywhere, including gutters and all corners. No background fade, vignette, paper border or white margin. No ore deposits, timber, rails, tools, people, moles, machines, text, numbers, labels or logos.
+
+---
