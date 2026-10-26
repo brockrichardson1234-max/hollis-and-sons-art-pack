@@ -1,0 +1,300 @@
+{
+  "generator": "OpenAI imagegen",
+  "date_utc": "2026-10-26",
+  "style": "Painted 1950s industrial poster; brown outlines; upper-left warm light; cream, teal, signal red, steel, copper, brass; internal grain",
+  "references": [
+    {
+      "file": "art/hollis-kit/assets/generator.png",
+      "size": [
+        440,
+        322
+      ],
+      "sha256": "01c00825e323c5db414609ba26445d92cbed141ce006a2ab315d605ca0ed33b8"
+    },
+    {
+      "file": "art/hollis-kit/assets/digger.png",
+      "size": [
+        406,
+        440
+      ],
+      "sha256": "7f4295e2dc739d8c2764023949de1ca2ff58faff1ed57029e53bd002d28159a0"
+    },
+    {
+      "file": "art/hollis-kit/assets/foreman.png",
+      "size": [
+        440,
+        335
+      ],
+      "sha256": "3465a1fb979853f99ef464701276cbdd5b0dfdf9dc07db76d05a60d2c4d224f3"
+    },
+    {
+      "file": "art/hollis-kit/assets/pile.png",
+      "size": [
+        440,
+        262
+      ],
+      "sha256": "bb1083b846938f106711a11cafcafae8553c607be083e33cdddd00669c23446b"
+    },
+    {
+      "file": "art/hollis-kit/assets/gear/crate-closed.png",
+      "size": [
+        128,
+        128
+      ],
+      "sha256": "8d50a39b3b656824a3263f845521ebe447557de6903e45bfd8c4d55b6f547e3f"
+    },
+    {
+      "file": "art/hollis-kit/assets/icons/icon-r-industrial.png",
+      "size": [
+        128,
+        128
+      ],
+      "sha256": "07404e103eb68fde4cd913cfe2d9e4c4d4e26623450ec0059257fcf49699f553"
+    },
+    {
+      "file": "art/hollis-kit/assets/icons/icon-research.png",
+      "size": [
+        128,
+        128
+      ],
+      "sha256": "c87a2165d4963c973bff16665b4d311964599fa51a0b71c0d616d3b6b0bfbd90"
+    },
+    {
+      "file": "art/hollis-kit/assets/icons/icon-generator.png",
+      "size": [
+        128,
+        128
+      ],
+      "sha256": "4c530e08918492c83eb27710e4c023599b13dd8a2caa438dac8320871f7840dc"
+    },
+    {
+      "file": "art/hollis-kit/assets/story/news-caves.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "sha256": "5c9e53205410fe670b9646fb361f5f69d382e4ec5538e4553c1a3d0ea6524df2"
+    },
+    {
+      "file": "art/hollis-kit/assets/story/hollis-talk.png",
+      "size": [
+        320,
+        318
+      ],
+      "sha256": "206f7c56483d2701ffb02c4afd1754054136d318299da44794bce2c087e888fe"
+    }
+  ],
+  "additional_crate_reference": "Existing art-pack gear/crate-closed.png and gear/crate-open.png (native originals of the imported crate design)",
+  "postprocess": "Sheet extraction, excluding neighboring sprite components where bounds overlap; uniform Lanczos scaling; transparent canvas placement; PNG/JPG encoding; pixel-matched lossless WebP; labeled review/contact sheet composition. No manual painting or generated-art redraw.",
+  "generations": [
+    {
+      "id": "stamps",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1983,
+        793
+      ],
+      "native_sha256": "04baf25a37cce4c4d49d8f9edbe4799f4cb43413d1f026b658651b63abf487d6",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nCreate a production sprite sheet of EXACTLY TEN round client emblem stamps, five equal columns by two equal rows, landscape canvas ratio 5:2 (ideally 2560x1024). Every cell square, single centered circle occupying 82% of its cell. Regular grid, generous fully transparent gutters, all circles equal diameter. Two INK COLORS ONLY: cream #EFE4C8 solid disc and dark chocolate brown #3D2A21; alternatively signal red ink for alternate emblems, but do not use teal or gold. Flat front-facing round rubber-stamp / worn enamel-sign design, subtle sparse paint chips, bold circular rim, cream negative-space pictogram. Very simple broad silhouettes that instantly read at just 36px, no lettering or decorative filler. No 3D side thickness.\nRead left-to-right: TOP ROW: 1 rail = side profile steam locomotive with three bold wheels; 2 steel = bold I-beam in front of one flame; 3 dam = a single water drop above a simple low dam with three buttresses; 4 diner = large coffee cup with handle and one steam curl; 5 icecream = soft scoop on a triangular waffle cone. BOTTOM ROW: 6 phone = 1950s candlestick telephone, separate hanging receiver; 7 lumber = two crossed broad hand saws (clear sawtooth edges, not crossed axes); 8 brick = simple stack of three bricks; 9 farm = side view tractor with one large rear wheel and small front wheel; 10 radio = tapered radio mast with two radio signal arcs either side. Each emblem has ONLY its specified single pictogram. The attached icon is a palette/paint reference, not a motif to copy."
+    },
+    {
+      "id": "camp-rail-steel",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "20bb19d2383ab65c8a8790c86987e3529e45ee7cc671bbe790c04a6666f3b65e",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nProduction sprite sheet, FOUR separate camp-building cutouts in an exact 2 columns x 2 rows layout, square canvas ideally 2048x2048. Equal square cells with at least 6% clear transparent gutters. NO text, no letters, no labels. LEFT column = construction stage A, RIGHT column = completed stage B of the same structure; top row client one, bottom row client two. Treat each row as a matched before/after pair: same footprint, perspective, scale, world anchor, base and horizontal ground line. The two stages must occupy the same location in their cells; finished rises from the exact construction foundation. Buildings in the same near-front / very slightly three-quarter view as generator.png and foreman.png, visible front and narrow right side, no isometric overhead diorama. A narrow slab/plinth may support the structure but NO separate grass island or scenery. No people. Each sprite will be fitted to a 440x440 transparent canvas, horizontal baseline at y=424. Fill up to 90% cell width, tops not clipped. Heavy enough painted brown outlines to match the references at this scale. Stage A is unmistakably half-built, timber scaffolding, a few construction crates; B has all construction clutter removed. The full finished structure's foundation and main shapes must correspond to stage A.\nTOP LEFT: rail spur under construction: sleepers and partial rails, partly assembled small teal steam locomotive on its final track position, cab framing, timber scaffold and crates. TOP RIGHT: same short rail spur with completed friendly teal steam locomotive, boiler and cab with brass fittings and red buffer beam; side/front view as reference, not racing train, no steam clouds. BOTTOM LEFT: half-built Pemberton Steel red-brick furnace base and lower smokestack, timber scaffolding, steel sections and crate. BOTTOM RIGHT: finished steel smokestack of red brick with steel reinforcing bands and teal cap, small attached furnace shed and large iron front hatch, copper pipe, no smoke; this is a compact camp structure, not whole city factory."
+    },
+    {
+      "id": "camp-dam-diner",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "ad5a971f5d87d0ea5c92440a8cdfb40e26263aa1f028b80587f988b453568904",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nProduction sprite sheet, FOUR separate camp-building cutouts in an exact 2 columns x 2 rows layout, square canvas ideally 2048x2048. Equal square cells with at least 6% clear transparent gutters. NO text, no letters, no labels. LEFT column = construction stage A, RIGHT column = completed stage B of the same structure; top row client one, bottom row client two. Treat each row as a matched before/after pair: same footprint, perspective, scale, world anchor, base and horizontal ground line. The two stages must occupy the same location in their cells; finished rises from the exact construction foundation. Buildings in the same near-front / very slightly three-quarter view as generator.png and foreman.png, visible front and narrow right side, no isometric overhead diorama. A narrow slab/plinth may support the structure but NO separate grass island or scenery. No people. Each sprite will be fitted to a 440x440 transparent canvas, horizontal baseline at y=424. Fill up to 90% cell width, tops not clipped. Heavy enough painted brown outlines to match the references at this scale. Stage A is unmistakably half-built, timber scaffolding, a few construction crates; B has all construction clutter removed. The full finished structure's foundation and main shapes must correspond to stage A.\nTOP LEFT: County Dam client's water tower under construction: four timber supports with cross braces, partly assembled wooden cylindrical tank (only lower half, exposed staves), scaffolding and crates. TOP RIGHT: same finished wooden water tower, teal shallow conical roof, cream/ochre staves, brown legs, one stout teal water pipe, ladder. BOTTOM LEFT: Mabel's roadside diner trailer under construction: rounded 1950s cream/steel trailer shell with teal lower panels and red roof trim, windows partly unglazed, one unfinished panel, small scaffold and crates, front steps unfinished. BOTTOM RIGHT: same completed classic rounded roadside diner trailer with cream body, teal lower panels and signal red roof trim, three welcoming windows, central door, small steps; NO diner text or neon lettering."
+    },
+    {
+      "id": "badges",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1774,
+        887
+      ],
+      "native_sha256": "05829864fbbd5428f00617670cce033fcd766436243967817017679eccaa872a",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nSEVEN reputation enamel lapel pin / shield sprites on one transparent sheet. Exactly FOUR COLUMNS by TWO ROWS equal square cells, 2048x1024 wide canvas, eighth (bottom right) cell completely empty. Generous empty gutters and equal visual pin scale, each inside 80% of square cell. All straight-on view. No words, letters or numbers: reputation title is written separately in game. Big bold central motifs, enough contrast to read at 32px. Shared family of shield shapes and short enamel face; tier upgrades unmistakably become fancier in SILHOUETTE and MATERIAL, not just tiny details. The first must be humble, last prestigious. Color palette and upper-left lit painted metal to match attached references, NOT photorealistic jewelry. Simple highlights, avoid gradients or tiny filigree.\nRead left-to-right: TOP ROW 1 GREENHORN: plain dull grey TIN small rounded triangular shield with ONE bold embossed brown pickaxe, no trim. 2 HAND: plain burnished COPPER shield with ONE cream work glove/fist in center and one raised rim. 3 REGULAR: dark warm BRONZE shield with bold cream crossed pickaxes, slightly heavier simple double rim. 4 TRUSTED: warm BRASS shield, broad cream enamel inset and one large five-point dark-brown STAR, small integral shoulders. BOTTOM ROW 5 FOREMAN'S PICK: polished pale SILVER shield with bold teal enamel pickaxe in center, simple short laurel pair integrated into sides. 6 MASTER: rich yellow GOLD shield with one large cream five-point star, broad golden laurel sides, three short crown points across top. 7 LEGEND: grand GOLD shield with large central faceted RED GEM set in cream enamel, broad gold laurels and a distinctive five-point crown at top; gem large enough to read at 32px. 8 empty. Maintain clearly distinguishable tin / copper / bronze / brass / silver / gold / gold+red gem sequence."
+    },
+    {
+      "id": "icons",
+      "selected": true,
+      "selection_notes": "Rush, Idle and menu board selected; hook/crate cell rejected because its chain was clipped at top of sheet.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "07ba3087e4c7b931221beaab8d8f9f5e93b7977e39b208c0711fd8ca8710ec1f",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nFOUR separate game menu icons on one transparent sprite sheet, EXACT 2x2 grid of square cells, square canvas ideally 1536x1536. Generous transparent gutters, each icon centered inside 82% of its own cell. These will be 128x128 sprites reviewed at 32px so use very bold simple silhouettes, few broad details. ALL outlines chocolate brown and same painted industrial mid-century style as attached icons. No words, numbers, letters, labels, currency or backdrop.\nTOP LEFT RUSH: large round BRASS STOPWATCH with cream dial, dark bold hands, sturdy winding button and little side button, no numerals, just four broad tick marks, one red wedge to signal urgency. TOP RIGHT BIG JOB: one huge sturdy brass-and-steel CRANE HOOK descending on a short visible chain and lifting ONE big ochre wooden crate with teal corner fittings, a single integrated silhouette. BOTTOM LEFT IDLE: square old fashioned teal WALL CLOCK with rounded corners, cream circular face, dark brown bold hands and four big tick marks, no numerals, no bell, not a stopwatch. BOTTOM RIGHT JOB BOARD MENU ICON: compact chunky rectangular cork bulletin board with thick warm brown wooden frame, exactly three large overlapping cream paper notes pinned with a red tack and teal tack; notes have two bold brown suggestion strokes each but absolutely no actual words or readable writing. Front-facing, thick clear outline. Keep full outline and small margins; no panel border around sheet."
+    },
+    {
+      "id": "crates",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1774,
+        887
+      ],
+      "native_sha256": "4cf8974ed865bc83607630f420747919c705643182d0814d5845f409ba9d4317",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nCreate a matching pair of GOLD REWARD CRATES, CLOSED on left and OPEN on right on a transparent TWO-COLUMN ONE-ROW sprite sheet, landscape 2:1. Each inside 84% of its square cell, generous transparent gutters, both same cube dimensions, same perspective and lower corners/baseline. Image 1 is the EXACT SHAPE AND ANGLE reference: a square planked shipping crate in elevated three-quarter view showing broad front face and narrower right side, low top plane, steel riveted corner fittings. Preserve that crate's proportions, planks and perspective. Change its metal fittings to broad warm BRASS BANDS and corners, wood remains honey ochre, and put one LARGE stamped five-point GOLD STAR centered on the front. Give star a chocolate-brown recessed rim for visibility. CLOSED left: complete flat lid; contained slight warm reflected glow at star and plank edges, no aura outside the silhouette. OPEN right: same crate body and exact matching star, band positions and dimensions, lid removed (not hinged), visible dark inner rim, warm golden light from inside, no items visible. Soft warm light contained inside and along top rim only, no rays or sparkles outside silhouette, nothing floating overhead. Not a treasure chest, no rounded lid. Must closely match the referenced existing gear crate but unmistakably premium gold at 32px. This sheet will be exported to both 128px and 256px versions, prioritize large star and band shapes."
+    },
+    {
+      "id": "camp-icecream-phone",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "26c7fdd391eb5117d267a1dda3cac6e27d793845fac95c97e63a27deda97b064",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nProduction sprite sheet of FOUR camp-building cutouts, exact TWO columns by TWO rows, square canvas ideally 2048x2048. Every cell a square with 7% transparent gutters and no grid lines or labels. LEFT column = half-built stage A with timber scaffold and crates, RIGHT column = finished stage B with construction clutter removed. TOP row one client, BOTTOM row next client. Each A/B pair has EXACT same perspective, world origin, scale, ground line and foundation footprint. The finished building rises from the same lower part as the construction one. Full near-front / slightly three-quarter camera matching foreman.png and generator.png, horizontal ground, visible front and a narrow right side. NO overhead isometric diorama. Each will be placed onto 440x440 at ground line y=424. Tall items fit within cell; smaller structures appropriately shorter but similar footprint. Narrow slab or sills at base allowed, NO grassy islands, landscape, people, words or separate cast shadows. Keep all subjects inside cells, no overlap. TOP LEFT: Frosty's ice cream truck being built/restored: rounded 1950s cream-and-teal delivery truck on wheels, unfinished serving hatch, absent hood panel, short scaffold and wooden crates. TOP RIGHT: same finished truck facing left, mostly side view with slight front view, cream body, teal lower body, red fender trim, tiny striped awning and large cone pictogram on side, absolutely NO words. BOTTOM LEFT: telephone pole line and phone booth under construction: three wooden poles in a short receding line with some crossarms and just one partly hung cable; half-built red-and-cream booth frame at right, timber scaffold and crates. BOTTOM RIGHT: same three wooden poles with crossarms, simple dark insulators and two hanging wires, complete red-and-cream phone booth at front-right, black telephone visible inside, no text. At least 8% transparent space between ALL structures and cell borders."
+    },
+    {
+      "id": "camp-lumber-brick",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "3e2a3ac0d26ed209bece795b5eae9ce92674cdfaec13b288ec78052de792b579",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nProduction sprite sheet of FOUR camp-building cutouts, exact TWO columns by TWO rows, square canvas ideally 2048x2048. Every cell a square with 7% transparent gutters and no grid lines or labels. LEFT column = half-built stage A with timber scaffold and crates, RIGHT column = finished stage B with construction clutter removed. TOP row one client, BOTTOM row next client. Each A/B pair has EXACT same perspective, world origin, scale, ground line and foundation footprint. The finished building rises from the same lower part as the construction one. Full near-front / slightly three-quarter camera matching foreman.png and generator.png, horizontal ground, visible front and a narrow right side. NO overhead isometric diorama. Each will be placed onto 440x440 at ground line y=424. Tall items fit within cell; smaller structures appropriately shorter but similar footprint. Narrow slab or sills at base allowed, NO grassy islands, landscape, people, words or separate cast shadows. Keep all subjects inside cells, no overlap. TOP LEFT: lumber stack and saw shed under construction: open front timber shed framing with half its teal roof installed, short golden lumber pile beside it, safely parked circular saw table inside, a small scaffold and crate. TOP RIGHT: same finished compact saw shed with teal pitched roof, cream/ochre wood siding, open front showing saw table and neat stack of golden lumber on supports beside it. BOTTOM LEFT: half-built brick kiln: low circular red-brick kiln foundation with half-completed dome and half-height short chimney, brick pile, timber scaffold and crates. BOTTOM RIGHT: same finished squat red-brick beehive kiln with domed roof, short chimney and dark arched fire opening containing orange embers, small neat stack of bricks beside it, broad brick courses and cream mortar. Both pairs match base footprints and camera angle."
+    },
+    {
+      "id": "camp-farm-radio",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "d5fdd579e505685a69cc42acc4ec2ba5174eeb7f2b3908bb48dc781b1893bb94",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nProduction sprite sheet of FOUR camp-building cutouts, exact TWO columns by TWO rows, square canvas ideally 2048x2048. Every cell a square with 7% transparent gutters and no grid lines or labels. LEFT column = half-built stage A with timber scaffold and crates, RIGHT column = finished stage B with construction clutter removed. TOP row one client, BOTTOM row next client. Each A/B pair has EXACT same perspective, world origin, scale, ground line and foundation footprint. The finished building rises from the same lower part as the construction one. Full near-front / slightly three-quarter camera matching foreman.png and generator.png, horizontal ground, visible front and a narrow right side. NO overhead isometric diorama. Each will be placed onto 440x440 at ground line y=424. Tall items fit within cell; smaller structures appropriately shorter but similar footprint. Narrow slab or sills at base allowed, NO grassy islands, landscape, people, words or separate cast shadows. Keep all subjects inside cells, no overlap. TOP LEFT: farm silo with tractor under construction: half-height ribbed cream cylindrical silo, metal support rings exposed above, roof section against a scaffold, small partly assembled red 1950s tractor alongside, wooden crates. TOP RIGHT: same finished cream ribbed cylindrical silo with teal conical roof, simple ladder, small friendly red vintage tractor beside it with large black rear wheel and small front wheel, no barn. BOTTOM LEFT: half-built radio mast: lower half of tapered red/cream steel lattice mast on concrete base, a small teal transmitter hut at its foot, timber scaffolding, crates and mast sections ready to install. BOTTOM RIGHT: same completed tall tapered red/cream lattice radio mast, strong simple cross braces, small RED beacon lamp at top (bright spot inside lamp only, NO exterior aura), same small teal transmitter hut on base, no radio waves. Complete mast visible with generous margins."
+    },
+    {
+      "id": "paid",
+      "selected": false,
+      "selection_notes": "Replaced after alpha review found pale opaque distress flecks inside the ink.",
+      "native_size": [
+        1774,
+        887
+      ],
+      "native_sha256": "2e8d66eae2fa01e1b28cdbe6ef9a749080af8349656cf75c765d8ac903beb23a",
+      "prompt": "Make one transparent red ink rubber stamp impression that says exactly PAID in large bold condensed uppercase slab-serif letters, centered inside a rectangular double-line border. Wide 2:1 canvas, ideally 1200x600, intended final 400x200. Match a cheerful 1950s American industrial stationery stamp. Signal red #C8442F ink only, tiny irregularly worn edges and sparse small missing-ink flecks, not splattered, letters and border remain very strong at 100px width. Stamp tilted about 5 degrees counterclockwise INSIDE canvas with at least 7% clear transparent margins on all sides. No paper, no background, no handle or stamp tool, no drop shadow, no brown or cream fill, no other marks or words. True transparent alpha everywhere outside the red ink including inside letter counters. Keep all four letters perfectly readable."
+    },
+    {
+      "id": "sign",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1983,
+        793
+      ],
+      "native_sha256": "876c46649a96bcc96fc6e8a030a16d7f86f143fbea58bb791e8d201473923ab8",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nOne EMPTY wooden camp company signboard on TWO POSTS, straight-on near-front view matching the wooden parts of foreman.png. Wide shallow canvas ratio 5:2, ideally 1600x640, intended 400x160. Sturdy rectangular golden-cream painted wood sign face comprising two broad horizontal planks, warm brown chunky wooden frame and two short dark wooden posts projecting downward and sitting on the same ground line. Tiny visible upper-left highlights on frame, slight wood grain but the LARGE central sign face must be smooth, pale, EMPTY and unobstructed, suitable for game-written company title plus reputation subtitle. No bolts in center; small bolts only at corners. Face covers about 84% width and 65% height of sprite; two posts visible below to ground. No text, letters, logo, decoration, scratches across center, grass, ground plane, shadow outside sprite, banner or hanging chains. Transparent background. Keep entire sign and feet inside canvas with 5% margin."
+    },
+    {
+      "id": "weekly-dam",
+      "selected": false,
+      "selection_notes": "Replaced: foundation read too much like a low wall; distant color treatment refined.",
+      "native_size": [
+        1131,
+        1391
+      ],
+      "native_sha256": "0d2ef6f1e1ae05b8af17aa4050b63325f74af39a833166b896c6f32ec9a38e65",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nDistant BACKGROUND landmark construction-stage sheet: EXACTLY FOUR horizontal rows stacked vertically, one transparent sprite per row. Each row is VERY WIDE and LOW, aspect 3.25:1, so sheet overall aspect is about 0.81:1 portrait; ideally canvas 1560x1920, each row 1560x480. No labels or dividers; fully transparent gutters. Intended final each landmark 780x240. Fixed camera near-front and slightly elevated just enough to see deck, same horizontal geometry, same anchor positions and same width/scale/baseline in all FOUR stages, don't move piers or endpoints. Keep complete endpoints, no cropping. Each landmark fits within 92% row width and 82% row height. Distant view, NOT foreground camp building: lighter dusty sage/teal and stone-cream, muted brick brown, LOW CONTRAST brown outlines lighter and finer than foreground, slightly hazy PAINT treatment, with broad readable shapes. All haze confined INSIDE solid shapes, real transparent alpha outside, no sky, mountains, water rectangle, horizon, terrain, fog cloud, external glow or background. Sparse narrow footings/abutments integrated in sprite okay. Large engineered silhouette must look the SAME project progressively completed.\nThe COUNTY DAM is a wide gently curved concrete gravity dam with three broad spillway gates in center and squat symmetrical square control towers at left and right; small timber scaffold only in unfinished stages. All FOUR rows show exact same full span and base footprint. TOP row stage1 FOUNDATION: broad low stepped concrete foundation, gate-base recesses and squat incomplete abutment blocks, modest crates; NO wall or water. SECOND row stage2 HALF WALL: SAME foundation now with half-height dam wall and half-built square towers, exposed timber formwork, NO water. THIRD row stage3 FULL WALL: completed full-height broad curved cream-grey concrete wall, three closed dark teal spillway gates, full two control towers and top walkway, NO water anywhere. FOURTH row stage4 FINISHED WITH WATER: exact same finished full wall and towers, blue-green water visible only as thin reservoir surface immediately behind wall and three broad falling streams through spillways to a shallow contained strip at dam foot. Water part of engineered sprite silhouette, not a background water scene. NO text, flags, people or foreground scenery."
+    },
+    {
+      "id": "weekly-bridge",
+      "selected": false,
+      "selection_notes": "Replaced with lower-contrast dusty distant palette.",
+      "native_size": [
+        1131,
+        1391
+      ],
+      "native_sha256": "caf57d32769de0038d4d067398eb206bf17bbfb1912452ea29a319e6cf85c602",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nDistant BACKGROUND landmark construction-stage sheet: EXACTLY FOUR horizontal rows stacked vertically, one transparent sprite per row. Each row is VERY WIDE and LOW, aspect 3.25:1, so sheet overall aspect is about 0.81:1 portrait; ideally canvas 1560x1920, each row 1560x480. No labels or dividers; fully transparent gutters. Intended final each landmark 780x240. Fixed camera near-front and slightly elevated just enough to see deck, same horizontal geometry, same anchor positions and same width/scale/baseline in all FOUR stages, don't move piers or endpoints. Keep complete endpoints, no cropping. Each landmark fits within 92% row width and 82% row height. Distant view, NOT foreground camp building: lighter dusty sage/teal and stone-cream, muted brick brown, LOW CONTRAST brown outlines lighter and finer than foreground, slightly hazy PAINT treatment, with broad readable shapes. All haze confined INSIDE solid shapes, real transparent alpha outside, no sky, mountains, water rectangle, horizon, terrain, fog cloud, external glow or background. Sparse narrow footings/abutments integrated in sprite okay. Large engineered silhouette must look the SAME project progressively completed.\nThe MILLBROOK RAIL BRIDGE is a long low 1950s teal steel through-truss railway bridge across FOUR stone pilings and stone abutments. Build the same three-span bridge in all four rows, fixed positions. TOP row stage1 PILINGS: four stout cream-grey stone pilings and two end abutments on SAME baseline, no connecting structure, just a few scaffold timbers, transparent open spaces. SECOND row stage2 FRAME: same supports with unfinished teal steel trusses spanning them, some diagonal members still missing, visibly NO continuous deck yet, minimal scaffold. THIRD row stage3 DECK: same completed three-span teal steel truss rail bridge and continuous narrow track deck, NO train; all endpoints complete. FOURTH row stage4 FINISHED WITH A TRAIN CROSSING: exact same completed bridge with small side-view black/teal steam locomotive with brass boiler detail pulling TWO short red/cream carriages crossing the central span, engine and carriages visibly distinct above deck. NO smoke cloud, river, landscape or people. Air is transparent below and between supports; no ground strip connecting separate pilings."
+    },
+    {
+      "id": "photos",
+      "selected": true,
+      "selection_notes": "Selected after full-size and small-size review.",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "native_sha256": "b112678ee24a9be46e8e184d59f4ec930f802178de4ba3599881815c5e688d04",
+      "prompt": "Create FOUR separate illustrated Hollis Herald newspaper archival photographs on one 2x2 sheet, total landscape aspect 3:2, ideally 1536x1024 pixels so each panel is 768x512. EXACT 2 equal columns and 2 equal rows, no gutters, no borders, no text anywhere. Every panel full-bleed 3:2 landscape with safe framing so no faces or subjects cross panel boundary. Match Image 1 (news-caves.jpg) EXACTLY: painted 1950s newspaper illustration reproduced with dark warm brown/black ink, very visible coarse halftone dots and engraving hatching on aged warm cream newsprint. Sepia monochrome only; NOT modern realistic photography, not color cartoon. Same friendly broad face shapes, decisive outlines, old industrial character, restrained print wear. Lighting comes upper left. The panels must look from one edition of the same newspaper.\nImage 2 (hollis-talk.png) is OLD HOLLIS'S LOCKED IDENTITY: elderly kindly broad-faced man, swept-back white hair, big curled white moustache, bushy eyebrows, broad nose, suit with tie, pocket square and watch chain. Translate his teal suit into sepia tones but preserve his face/hairstyle/moustache exactly. Image 3 supplies crew's industrial palette/style before sepia translation.\nTOP LEFT DAM OPENING CEREMONY: completed broad three-spillway County Dam behind a small ceremony party; Old Hollis and a woman county official smiling on platform, small restrained bunting, big readable spillways with flowing water. No lettering or flags with symbols. TOP RIGHT RAIL BRIDGE RIBBON CUTTING: Old Hollis holding oversized ceremonial scissors beside an official, large ribbon stretched across lower foreground being cut, clearly visible three-span steel truss railway bridge and a little steam locomotive in background. BOTTOM LEFT HOLLIS & SONS CREW GROUP PHOTO: six distinct cheerful adult workers (men and women) in 1950s coveralls, hard hats held or worn, posed in two loose rows outside a tidy mine workshop, Old Hollis standing proudly in center; exact count SEVEN people including Hollis, differentiated faces, clear hands, normal limbs, no one holding text. BOTTOM RIGHT OLD HOLLIS SHAKING HANDS WITH BUSINESSMAN: medium waist-up two-person portrait, Old Hollis on LEFT facing right, a clean-shaven middle-aged businessman in a 1950s suit and fedora on RIGHT facing left, both smiling with a clear anatomically correct single handshake centered between them, empty hand of each relaxed at side, simple mine office windows behind. No captions, mastheads, typography, signatures, numbers or decorative panel frames. Opaque warm cream paper throughout."
+    },
+    {
+      "id": "bigjob-fix",
+      "selected": false,
+      "selection_notes": "Rejected: complete hook/chain/crate, but too tall and spindly when reduced to 32px.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "40683e78734d7ce108817e240567e58d9a4fe5c268beb768e4c147b7f15e8ca4",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nONE stand-alone Big Job game icon, SQUARE transparent canvas. A massive brass and steel crane hook carrying a single big ochre wooden shipping crate with teal corner bands. Short two-link chain that TERMINATES in one visibly complete rounded CLOSED ring at its top, entirely INSIDE canvas with at least TEN PERCENT transparent margin above topmost point. Every part fully visible: don't crop chain, hook, ropes, or crate at any edge. Short chain occupies only top 20% icon, large hook middle, bold large crate bottom 45%. Upper-left light, chocolate outlines, painted texture matching references. Simple broad geometry, sturdy clear silhouette readable at 32px. No cable or chain extending off canvas, no text, no crane machine, no lettering, no stars, no extra icons, no scenery. Final intended 128x128."
+    },
+    {
+      "id": "weekly-dam-refined",
+      "selected": true,
+      "selection_notes": "Selected: low foundation, half wall, full wall, water. Fixed world span and common export baseline.",
+      "native_size": [
+        1131,
+        1391
+      ],
+      "native_sha256": "518b46500cc51e51585fb1c64a67cde974746ea2dd6a6793f7beea796903b7da",
+      "prompt": "Refine the ATTACHED existing four-stage sprite sheet for Hollis & Sons. Keep the exact SAME 1131x1391 portrait canvas, four stacked horizontal row layout, each row's ground baseline and complete width, structure identity and camera angle. True transparent alpha outside every object and through openings. No background, text, labels, ground scenery or exterior haze. Do not crop any edges. These are FAR-AWAY background structures intended for a 780x240 canvas, not foreground. Match their existing painted 1950s industrial illustration style and upper-left lighting, but gently REDUCE CONTRAST: dusty faded desaturated sage-teal metal, pale warm grey/cream stone, lighter warm-brown outlines, soft muted painted highlights. Slight atmospheric distance expressed only by paler lower-contrast colors INSIDE the structures; no blur, fog layer, glow or alpha wash outside silhouettes. Simplify tiny details slightly to remain legible at 390px wide. Maintain crisp shapes and actual transparency.\nCOUNTY DAM: rows 2, 3, 4 keep their existing engineering design, three gates, two square end control towers, final row flowing water. Change ONLY the top row's construction stage: it must be a LOW FOUNDATION, much lower than row 2, a broad shallow stepped concrete footing/slab with four SHORT gate buttress stubs and two LOW unfinished end tower bases, small crates and rebar, no tall wall and no complete gates. Preserve same overall x span and top row baseline as original, leaving more clear alpha above the low foundation. Row 2 is half-height wall with timber formwork; row3 full wall with closed gates and NO water; row4 same full wall with water. The four stages should visibly rise in height, 1 clearly below2,2below3,3sameas4. Do not put water in rows1-3."
+    },
+    {
+      "id": "weekly-bridge-refined",
+      "selected": true,
+      "selection_notes": "Selected: pilings, open frame, deck, train; paler steel and lighter outlines for distance.",
+      "native_size": [
+        1131,
+        1391
+      ],
+      "native_sha256": "d792582125a8d6259aebb933a1244a7422e55571715ba9b8d081c0798e04afdb",
+      "prompt": "Refine the ATTACHED existing four-stage sprite sheet for Hollis & Sons. Keep the exact SAME 1131x1391 portrait canvas, four stacked horizontal row layout, each row's ground baseline and complete width, structure identity and camera angle. True transparent alpha outside every object and through openings. No background, text, labels, ground scenery or exterior haze. Do not crop any edges. These are FAR-AWAY background structures intended for a 780x240 canvas, not foreground. Match their existing painted 1950s industrial illustration style and upper-left lighting, but gently REDUCE CONTRAST: dusty faded desaturated sage-teal metal, pale warm grey/cream stone, lighter warm-brown outlines, soft muted painted highlights. Slight atmospheric distance expressed only by paler lower-contrast colors INSIDE the structures; no blur, fog layer, glow or alpha wash outside silhouettes. Simplify tiny details slightly to remain legible at 390px wide. Maintain crisp shapes and actual transparency.\nMILLBROOK BRIDGE: preserve all four rows' geometry. Top row four separate stone pilings/abutments with air gaps; row2 partially built teal truss FRAME with missing diagonal members and no finished continuous track deck; row3 finished complete teal three-span truss and railway deck with NO train; row4 identical bridge with the small steam locomotive and two red/cream carriages crossing. Keep all supports/endpoints fixed and the train visible but distant. Don't add river, terrain or smoke. The only overall change is muted, dustier low-contrast distant palette/outline treatment. Strong silhouettes still readable."
+    },
+    {
+      "id": "bigjob-final",
+      "selected": true,
+      "selection_notes": "Selected: single large hook has a clear open gap at 32px.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "67ee29a041adb26c5be556965f185086480717f92eeca3209fad655c491e5f20",
+      "prompt": "Match the attached existing Hollis & Sons art EXACTLY in drawing style: painted 1950s American industrial advertising/safety-poster illustration, friendly sturdy simplified forms, consistent dark chocolate brown #3D2A21 outlines, subtly rounded corners, restrained grain ONLY inside painted objects, flat broad color masses with two or three decisive painted shade planes. Upper-left warm light; shadows down/right. Palette cream #EFE4C8, teal #2F6B66, signal red #C8442F, safety yellow #F2B829, steel #44535C, copper #B4643A, old wood ochre. Not photorealistic, not 3D rendered, no black gradients, no watercolor wash. Match outline weight relative to object to reference buildings. True transparent alpha outside each sprite, crisp silhouette, no checkerboard, exterior aura, separate cast shadow, background scenery, lettering, labels, logos, panel borders, grid lines or cell numbers. All details large enough to survive phone-size downsampling.\nONE Big Job icon: a single oversized sturdy BRASS CRANE HOOK, bold square composition, no crate and no dangling long chain. Thick brass industrial J-shaped hook occupies almost entire icon, with a big obvious OPEN inner gap, curved hook tip, simple chunky steel suspension block and one closed steel attachment eye integrated at the very top. Short square proportions, hook fills 84% of square canvas width and 84% height with generous transparent padding on all sides. Match the simple painted brass, upper-left highlights and thick even chocolate-brown outlines of attached Hollis icons. Restrained texture, broad two-tone golden metal planes, no ornate fittings or tiny detail. The finished icon MUST read as a crane hook at 32x32 pixels, so open central gap is broad and hook tip clear. No rope, no chain trailing beyond canvas, no crate, no text, no circular badge, no ground shadow, no background."
+    },
+    {
+      "id": "paid-final",
+      "selected": true,
+      "selection_notes": "Selected: red ink with transparent counters and edge chips, no pale opaque distress flecks.",
+      "native_size": [
+        1774,
+        887
+      ],
+      "native_sha256": "cf738e99100054884d900f5628b505f26ffa36f5890ed37109ad5d970291dc0e",
+      "prompt": "Edit this existing PAID stamp impression for clean game compositing. Preserve the exact lettering PAID, bold slab-serif shapes, double rectangular border, tilted angle, proportions, layout and rough outer edges. Transparent PNG, wide 2:1 canvas with clear margins. The visible ink must be ONE flat pigment, signal red #C8442F, with only tiny red tonal variation if needed. Make the interior ink of letters and border strong and predominantly SOLID RED. Remove every WHITE or CREAM speck/highlight inside the red ink: missing ink must be transparent alpha, never painted white. Prefer sparse small edge chips rather than speckled interiors. Keep letter counters, gaps, missing-ink chips and all space outside the actual red marks genuinely transparent. No white/cream pixels, no white paper, no shadow, no solid rectangle behind it. No new marks, words or different typography. Only make this ink/transparency cleanup."
+    }
+  ]
+}

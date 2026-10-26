@@ -1,0 +1,3272 @@
+{
+  "pack": "Hollis & Sons — Job Board",
+  "source_repository": "brockrichardson1234-max/dirt-inc-rebuild",
+  "source_branch": "claude/save-and-tap-feel",
+  "source_commit": "ca0a7e37313c1af904294f478fa61f12c885de94",
+  "design": "docs/JOB_BOARD_DESIGN.md",
+  "generator": "OpenAI imagegen",
+  "asset_count": 59,
+  "image_file_count": 128,
+  "formats": "Transparent RGBA PNG + lossless WebP; Herald panels opaque JPG + lossless WebP",
+  "camp_canvas": {
+    "width": 440,
+    "height": 440,
+    "ground_line_y": 424,
+    "anchor": [
+      220,
+      424
+    ]
+  },
+  "weekly_canvas": {
+    "width": 780,
+    "height": 240,
+    "ground_line_y": 226,
+    "anchor": [
+      390,
+      226
+    ]
+  },
+  "assets": [
+    {
+      "id": "stamp-rail",
+      "file": "clients/stamp-rail.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Millbrook Railroad: round two-ink cream/brown client stamp with locomotive",
+      "transparent": true,
+      "webp": "clients/stamp-rail.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        31,
+        20,
+        399,
+        385
+      ],
+      "placement": {
+        "x": 6,
+        "y": 7,
+        "width": 244,
+        "height": 242
+      },
+      "client": "rail"
+    },
+    {
+      "id": "stamp-steel",
+      "file": "clients/stamp-steel.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Pemberton Steel: round two-ink cream/brown client stamp with I-beam with flame",
+      "transparent": true,
+      "webp": "clients/stamp-steel.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        417,
+        20,
+        783,
+        385
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 243
+      },
+      "client": "steel"
+    },
+    {
+      "id": "stamp-dam",
+      "file": "clients/stamp-dam.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "County Dam: round two-ink cream/brown client stamp with water drop over dam",
+      "transparent": true,
+      "webp": "clients/stamp-dam.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        804,
+        18,
+        1177,
+        389
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 243
+      },
+      "client": "dam"
+    },
+    {
+      "id": "stamp-diner",
+      "file": "clients/stamp-diner.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Mabel’s Diner: round two-ink cream/brown client stamp with coffee cup",
+      "transparent": true,
+      "webp": "clients/stamp-diner.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        1195,
+        20,
+        1565,
+        386
+      ],
+      "placement": {
+        "x": 6,
+        "y": 7,
+        "width": 244,
+        "height": 241
+      },
+      "client": "diner"
+    },
+    {
+      "id": "stamp-icecream",
+      "file": "clients/stamp-icecream.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Frosty’s Ice Cream: round two-ink cream/brown client stamp with ice cream cone",
+      "transparent": true,
+      "webp": "clients/stamp-icecream.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        1587,
+        19,
+        1953,
+        383
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 243
+      },
+      "client": "icecream"
+    },
+    {
+      "id": "stamp-phone",
+      "file": "clients/stamp-phone.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Valley Telephone Co.: round two-ink cream/brown client stamp with candlestick telephone",
+      "transparent": true,
+      "webp": "clients/stamp-phone.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        31,
+        395,
+        396,
+        758
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 243
+      },
+      "client": "phone"
+    },
+    {
+      "id": "stamp-lumber",
+      "file": "clients/stamp-lumber.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Hartley Lumber: round two-ink cream/brown client stamp with crossed hand saws",
+      "transparent": true,
+      "webp": "clients/stamp-lumber.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        416,
+        395,
+        783,
+        761
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 243
+      },
+      "client": "lumber"
+    },
+    {
+      "id": "stamp-brick",
+      "file": "clients/stamp-brick.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Riverside Brick Works: round two-ink cream/brown client stamp with brick stack",
+      "transparent": true,
+      "webp": "clients/stamp-brick.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        806,
+        395,
+        1175,
+        760
+      ],
+      "placement": {
+        "x": 6,
+        "y": 7,
+        "width": 244,
+        "height": 241
+      },
+      "client": "brick"
+    },
+    {
+      "id": "stamp-farm",
+      "file": "clients/stamp-farm.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Granger Farm Co-op: round two-ink cream/brown client stamp with tractor",
+      "transparent": true,
+      "webp": "clients/stamp-farm.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        1194,
+        395,
+        1564,
+        761
+      ],
+      "placement": {
+        "x": 6,
+        "y": 7,
+        "width": 244,
+        "height": 241
+      },
+      "client": "farm"
+    },
+    {
+      "id": "stamp-radio",
+      "file": "clients/stamp-radio.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "WHSN Radio: round two-ink cream/brown client stamp with radio mast",
+      "transparent": true,
+      "webp": "clients/stamp-radio.webp",
+      "review_width_px": 36,
+      "generation": "stamps",
+      "source_crop": [
+        1587,
+        395,
+        1953,
+        761
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 244
+      },
+      "client": "radio"
+    },
+    {
+      "id": "camp-rail-a",
+      "file": "camp/rail-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Millbrook Railroad: rail spur and locomotive, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/rail-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-rail-steel",
+      "source_crop": [
+        7,
+        89,
+        655,
+        600
+      ],
+      "placement": {
+        "x": 14,
+        "y": 99,
+        "width": 412,
+        "height": 325
+      },
+      "client": "rail",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-rail-b",
+      "file": "camp/rail-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Millbrook Railroad: rail spur and locomotive, finished",
+      "transparent": true,
+      "webp": "camp/rail-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-rail-steel",
+      "source_crop": [
+        657,
+        86,
+        1247,
+        617
+      ],
+      "placement": {
+        "x": 32,
+        "y": 86,
+        "width": 375,
+        "height": 338
+      },
+      "client": "rail",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-steel-a",
+      "file": "camp/steel-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Pemberton Steel: steel smokestack and furnace shed, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/steel-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-rail-steel",
+      "source_crop": [
+        15,
+        637,
+        636,
+        1213
+      ],
+      "placement": {
+        "x": 14,
+        "y": 42,
+        "width": 412,
+        "height": 382
+      },
+      "client": "steel",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-steel-b",
+      "file": "camp/steel-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Pemberton Steel: steel smokestack and furnace shed, finished",
+      "transparent": true,
+      "webp": "camp/steel-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-rail-steel",
+      "source_crop": [
+        663,
+        626,
+        1235,
+        1215
+      ],
+      "placement": {
+        "x": 30,
+        "y": 33,
+        "width": 379,
+        "height": 391
+      },
+      "client": "steel",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-dam-a",
+      "file": "camp/dam-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "County Dam: water tower, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/dam-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-dam-diner",
+      "source_crop": [
+        35,
+        146,
+        628,
+        757
+      ],
+      "placement": {
+        "x": 50,
+        "y": 73,
+        "width": 340,
+        "height": 351
+      },
+      "client": "dam",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-dam-b",
+      "file": "camp/dam-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "County Dam: water tower, finished",
+      "transparent": true,
+      "webp": "camp/dam-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-dam-diner",
+      "source_crop": [
+        667,
+        60,
+        1220,
+        757
+      ],
+      "placement": {
+        "x": 61,
+        "y": 24,
+        "width": 317,
+        "height": 400
+      },
+      "client": "dam",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-diner-a",
+      "file": "camp/diner-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Mabel’s Diner: roadside diner trailer, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/diner-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-dam-diner",
+      "source_crop": [
+        17,
+        812,
+        624,
+        1210
+      ],
+      "placement": {
+        "x": 14,
+        "y": 154,
+        "width": 412,
+        "height": 270
+      },
+      "client": "diner",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-diner-b",
+      "file": "camp/diner-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Mabel’s Diner: roadside diner trailer, finished",
+      "transparent": true,
+      "webp": "camp/diner-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-dam-diner",
+      "source_crop": [
+        652,
+        817,
+        1240,
+        1210
+      ],
+      "placement": {
+        "x": 20,
+        "y": 157,
+        "width": 399,
+        "height": 267
+      },
+      "client": "diner",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-icecream-a",
+      "file": "camp/icecream-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Frosty’s Ice Cream: ice cream truck, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/icecream-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-icecream-phone",
+      "source_crop": [
+        11,
+        159,
+        616,
+        566
+      ],
+      "placement": {
+        "x": 20,
+        "y": 155,
+        "width": 400,
+        "height": 269
+      },
+      "client": "icecream",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-icecream-b",
+      "file": "camp/icecream-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Frosty’s Ice Cream: ice cream truck, finished",
+      "transparent": true,
+      "webp": "camp/icecream-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-icecream-phone",
+      "source_crop": [
+        621,
+        158,
+        1244,
+        563
+      ],
+      "placement": {
+        "x": 14,
+        "y": 156,
+        "width": 412,
+        "height": 268
+      },
+      "client": "icecream",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-phone-a",
+      "file": "camp/phone-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/phone-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-icecream-phone",
+      "source_crop": [
+        69,
+        640,
+        607,
+        1223
+      ],
+      "placement": {
+        "x": 35,
+        "y": 24,
+        "width": 369,
+        "height": 400
+      },
+      "client": "phone",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-phone-b",
+      "file": "camp/phone-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, finished",
+      "transparent": true,
+      "webp": "camp/phone-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-icecream-phone",
+      "source_crop": [
+        690,
+        640,
+        1223,
+        1214
+      ],
+      "placement": {
+        "x": 37,
+        "y": 30,
+        "width": 366,
+        "height": 394
+      },
+      "client": "phone",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-lumber-a",
+      "file": "camp/lumber-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Hartley Lumber: lumber stack and saw shed, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/lumber-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-lumber-brick",
+      "source_crop": [
+        9,
+        69,
+        647,
+        594
+      ],
+      "placement": {
+        "x": 14,
+        "y": 85,
+        "width": 412,
+        "height": 339
+      },
+      "client": "lumber",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-lumber-b",
+      "file": "camp/lumber-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Hartley Lumber: lumber stack and saw shed, finished",
+      "transparent": true,
+      "webp": "camp/lumber-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-lumber-brick",
+      "source_crop": [
+        642,
+        68,
+        1246,
+        594
+      ],
+      "placement": {
+        "x": 25,
+        "y": 84,
+        "width": 390,
+        "height": 340
+      },
+      "client": "lumber",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-brick-a",
+      "file": "camp/brick-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Riverside Brick Works: brick kiln, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/brick-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-lumber-brick",
+      "source_crop": [
+        9,
+        664,
+        663,
+        1184
+      ],
+      "placement": {
+        "x": 14,
+        "y": 96,
+        "width": 412,
+        "height": 328
+      },
+      "client": "brick",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-brick-b",
+      "file": "camp/brick-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Riverside Brick Works: brick kiln, finished",
+      "transparent": true,
+      "webp": "camp/brick-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-lumber-brick",
+      "source_crop": [
+        657,
+        658,
+        1244,
+        1185
+      ],
+      "placement": {
+        "x": 35,
+        "y": 92,
+        "width": 370,
+        "height": 332
+      },
+      "client": "brick",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-farm-a",
+      "file": "camp/farm-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Granger Farm Co-op: silo and vintage tractor, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/farm-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-farm-radio",
+      "source_crop": [
+        31,
+        135,
+        685,
+        655
+      ],
+      "placement": {
+        "x": 17,
+        "y": 102,
+        "width": 406,
+        "height": 322
+      },
+      "client": "farm",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-farm-b",
+      "file": "camp/farm-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "Granger Farm Co-op: silo and vintage tractor, finished",
+      "transparent": true,
+      "webp": "camp/farm-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-farm-radio",
+      "source_crop": [
+        725,
+        11,
+        1221,
+        656
+      ],
+      "placement": {
+        "x": 66,
+        "y": 24,
+        "width": 308,
+        "height": 400
+      },
+      "client": "farm",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-radio-a",
+      "file": "camp/radio-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "WHSN Radio: radio mast with red beacon, under construction with scaffolding and crates",
+      "transparent": true,
+      "webp": "camp/radio-a.webp",
+      "review_width_px": 110,
+      "generation": "camp-farm-radio",
+      "source_crop": [
+        30,
+        735,
+        659,
+        1242
+      ],
+      "placement": {
+        "x": 14,
+        "y": 92,
+        "width": 412,
+        "height": 332
+      },
+      "client": "radio",
+      "stage": "A",
+      "ground_line_y": 424
+    },
+    {
+      "id": "camp-radio-b",
+      "file": "camp/radio-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "what": "WHSN Radio: radio mast with red beacon, finished",
+      "transparent": true,
+      "webp": "camp/radio-b.webp",
+      "review_width_px": 110,
+      "generation": "camp-farm-radio",
+      "source_crop": [
+        719,
+        657,
+        1198,
+        1242
+      ],
+      "placement": {
+        "x": 63,
+        "y": 41,
+        "width": 314,
+        "height": 383
+      },
+      "client": "radio",
+      "stage": "B",
+      "ground_line_y": 424
+    },
+    {
+      "id": "gold-crate-closed-128",
+      "file": "crates/gold-crate-closed-128.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "transparent": true,
+      "webp": "crates/gold-crate-closed-128.webp",
+      "review_width_px": 32,
+      "generation": "crates",
+      "source_crop": [
+        102,
+        72,
+        843,
+        839
+      ],
+      "placement": {
+        "x": 8,
+        "y": 7,
+        "width": 111,
+        "height": 115
+      },
+      "ground_line_y": 122
+    },
+    {
+      "id": "gold-crate-closed-256",
+      "file": "crates/gold-crate-closed-256.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "transparent": true,
+      "webp": "crates/gold-crate-closed-256.webp",
+      "review_width_px": 32,
+      "generation": "crates",
+      "source_crop": [
+        102,
+        72,
+        843,
+        839
+      ],
+      "placement": {
+        "x": 11,
+        "y": 8,
+        "width": 234,
+        "height": 242
+      },
+      "ground_line_y": 250
+    },
+    {
+      "id": "gold-crate-open-128",
+      "file": "crates/gold-crate-open-128.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "transparent": true,
+      "webp": "crates/gold-crate-open-128.webp",
+      "review_width_px": 32,
+      "generation": "crates",
+      "source_crop": [
+        921,
+        75,
+        1671,
+        849
+      ],
+      "placement": {
+        "x": 8,
+        "y": 6,
+        "width": 112,
+        "height": 116
+      },
+      "ground_line_y": 122
+    },
+    {
+      "id": "gold-crate-open-256",
+      "file": "crates/gold-crate-open-256.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "transparent": true,
+      "webp": "crates/gold-crate-open-256.webp",
+      "review_width_px": 32,
+      "generation": "crates",
+      "source_crop": [
+        921,
+        75,
+        1671,
+        849
+      ],
+      "placement": {
+        "x": 10,
+        "y": 6,
+        "width": 236,
+        "height": 244
+      },
+      "ground_line_y": 250
+    },
+    {
+      "id": "rep-greenhorn",
+      "file": "reputation/greenhorn.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Greenhorn — tin, pickaxe",
+      "transparent": true,
+      "webp": "reputation/greenhorn.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        58,
+        54,
+        387,
+        407
+      ],
+      "placement": {
+        "x": 14,
+        "y": 6,
+        "width": 227,
+        "height": 244
+      }
+    },
+    {
+      "id": "rep-hand",
+      "file": "reputation/hand.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Hand — copper, work glove",
+      "transparent": true,
+      "webp": "reputation/hand.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        495,
+        38,
+        835,
+        413
+      ],
+      "placement": {
+        "x": 17,
+        "y": 6,
+        "width": 221,
+        "height": 244
+      }
+    },
+    {
+      "id": "rep-regular",
+      "file": "reputation/regular.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Regular — bronze, crossed picks",
+      "transparent": true,
+      "webp": "reputation/regular.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        925,
+        26,
+        1292,
+        418
+      ],
+      "placement": {
+        "x": 14,
+        "y": 6,
+        "width": 228,
+        "height": 244
+      }
+    },
+    {
+      "id": "rep-trusted",
+      "file": "reputation/trusted.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Trusted — brass, star",
+      "transparent": true,
+      "webp": "reputation/trusted.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        1366,
+        27,
+        1738,
+        418
+      ],
+      "placement": {
+        "x": 12,
+        "y": 6,
+        "width": 232,
+        "height": 244
+      }
+    },
+    {
+      "id": "rep-foremans-pick",
+      "file": "reputation/foremans-pick.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Foreman’s Pick — silver, teal pick and laurels",
+      "transparent": true,
+      "webp": "reputation/foremans-pick.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        21,
+        461,
+        422,
+        837
+      ],
+      "placement": {
+        "x": 6,
+        "y": 13,
+        "width": 244,
+        "height": 229
+      }
+    },
+    {
+      "id": "rep-master",
+      "file": "reputation/master.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Master — gold, star and crown",
+      "transparent": true,
+      "webp": "reputation/master.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        467,
+        447,
+        862,
+        859
+      ],
+      "placement": {
+        "x": 11,
+        "y": 6,
+        "width": 234,
+        "height": 244
+      }
+    },
+    {
+      "id": "rep-legend",
+      "file": "reputation/legend.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "what": "Reputation enamel shield: Legend — gold, red gem and laurels",
+      "transparent": true,
+      "webp": "reputation/legend.webp",
+      "review_width_px": 32,
+      "generation": "badges",
+      "source_crop": [
+        892,
+        425,
+        1327,
+        860
+      ],
+      "placement": {
+        "x": 6,
+        "y": 6,
+        "width": 244,
+        "height": 244
+      }
+    },
+    {
+      "id": "job-rush",
+      "file": "icons/job-rush.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Rush job: brass stopwatch with red urgency wedge",
+      "transparent": true,
+      "webp": "icons/job-rush.webp",
+      "review_width_px": 32,
+      "generation": "icons",
+      "source_crop": [
+        87,
+        50,
+        558,
+        630
+      ],
+      "placement": {
+        "x": 17,
+        "y": 6,
+        "width": 94,
+        "height": 116
+      }
+    },
+    {
+      "id": "job-big",
+      "file": "icons/job-big.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Big Job: oversized brass crane hook with compact steel suspension block",
+      "transparent": true,
+      "webp": "icons/job-big.webp",
+      "review_width_px": 32,
+      "generation": "bigjob-final",
+      "source_crop": [
+        224,
+        13,
+        1055,
+        1246
+      ],
+      "placement": {
+        "x": 25,
+        "y": 6,
+        "width": 78,
+        "height": 116
+      }
+    },
+    {
+      "id": "job-idle",
+      "file": "icons/job-idle.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Idle job: teal wall clock",
+      "transparent": true,
+      "webp": "icons/job-idle.webp",
+      "review_width_px": 32,
+      "generation": "icons",
+      "source_crop": [
+        70,
+        688,
+        578,
+        1183
+      ],
+      "placement": {
+        "x": 6,
+        "y": 7,
+        "width": 116,
+        "height": 113
+      }
+    },
+    {
+      "id": "job-board",
+      "file": "icons/job-board.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "what": "Job Board menu tile: wooden corkboard with three pinned paper notes",
+      "transparent": true,
+      "webp": "icons/job-board.webp",
+      "review_width_px": 32,
+      "generation": "icons",
+      "source_crop": [
+        657,
+        695,
+        1215,
+        1189
+      ],
+      "placement": {
+        "x": 6,
+        "y": 12,
+        "width": 116,
+        "height": 103
+      }
+    },
+    {
+      "id": "paid",
+      "file": "ui/paid.png",
+      "size": {
+        "width": 400,
+        "height": 200
+      },
+      "what": "Red PAID rubber-stamp impression with worn ink and tilted double border",
+      "transparent": true,
+      "webp": "ui/paid.webp",
+      "review_width_px": 100,
+      "generation": "paid-final",
+      "source_crop": [
+        63,
+        76,
+        1724,
+        827
+      ],
+      "placement": {
+        "x": 6,
+        "y": 12,
+        "width": 388,
+        "height": 175
+      }
+    },
+    {
+      "id": "camp-sign",
+      "file": "camp/sign-empty.png",
+      "size": {
+        "width": 400,
+        "height": 160
+      },
+      "what": "Empty pale wooden company sign on two posts; title and rank are written by game",
+      "transparent": true,
+      "webp": "camp/sign-empty.webp",
+      "review_width_px": 160,
+      "generation": "sign",
+      "source_crop": [
+        31,
+        44,
+        1953,
+        759
+      ],
+      "placement": {
+        "x": 6,
+        "y": 8,
+        "width": 388,
+        "height": 144
+      }
+    },
+    {
+      "id": "county-dam-1",
+      "file": "weekly/county-dam-1.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant County Dam, stage 1: foundation",
+      "transparent": true,
+      "webp": "weekly/county-dam-1.webp",
+      "review_width_px": 390,
+      "generation": "weekly-dam-refined",
+      "source_crop": [
+        14,
+        200,
+        1118,
+        340
+      ],
+      "placement": {
+        "x": 18,
+        "y": 132,
+        "width": 743,
+        "height": 94
+      },
+      "stage": "1",
+      "ground_line_y": 226
+    },
+    {
+      "id": "county-dam-2",
+      "file": "weekly/county-dam-2.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant County Dam, stage 2: half wall",
+      "transparent": true,
+      "webp": "weekly/county-dam-2.webp",
+      "review_width_px": 390,
+      "generation": "weekly-dam-refined",
+      "source_crop": [
+        13,
+        396,
+        1119,
+        668
+      ],
+      "placement": {
+        "x": 18,
+        "y": 43,
+        "width": 744,
+        "height": 183
+      },
+      "stage": "2",
+      "ground_line_y": 226
+    },
+    {
+      "id": "county-dam-3",
+      "file": "weekly/county-dam-3.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant County Dam, stage 3: full wall",
+      "transparent": true,
+      "webp": "weekly/county-dam-3.webp",
+      "review_width_px": 390,
+      "generation": "weekly-dam-refined",
+      "source_crop": [
+        13,
+        686,
+        1119,
+        998
+      ],
+      "placement": {
+        "x": 18,
+        "y": 16,
+        "width": 744,
+        "height": 210
+      },
+      "stage": "3",
+      "ground_line_y": 226
+    },
+    {
+      "id": "county-dam-4",
+      "file": "weekly/county-dam-4.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant County Dam, stage 4: finished with water",
+      "transparent": true,
+      "webp": "weekly/county-dam-4.webp",
+      "review_width_px": 390,
+      "generation": "weekly-dam-refined",
+      "source_crop": [
+        12,
+        1013,
+        1119,
+        1331
+      ],
+      "placement": {
+        "x": 17,
+        "y": 12,
+        "width": 745,
+        "height": 214
+      },
+      "stage": "4",
+      "ground_line_y": 226
+    },
+    {
+      "id": "millbrook-rail-bridge-1",
+      "file": "weekly/millbrook-rail-bridge-1.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant Millbrook Rail Bridge, stage 1: pilings",
+      "transparent": true,
+      "webp": "weekly/millbrook-rail-bridge-1.webp",
+      "review_width_px": 390,
+      "generation": "weekly-bridge-refined",
+      "source_crop": [
+        2,
+        183,
+        1129,
+        352
+      ],
+      "placement": {
+        "x": 14,
+        "y": 113,
+        "width": 751,
+        "height": 113
+      },
+      "stage": "1",
+      "ground_line_y": 226
+    },
+    {
+      "id": "millbrook-rail-bridge-2",
+      "file": "weekly/millbrook-rail-bridge-2.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant Millbrook Rail Bridge, stage 2: frame",
+      "transparent": true,
+      "webp": "weekly/millbrook-rail-bridge-2.webp",
+      "review_width_px": 390,
+      "generation": "weekly-bridge-refined",
+      "source_crop": [
+        2,
+        465,
+        1130,
+        700
+      ],
+      "placement": {
+        "x": 14,
+        "y": 69,
+        "width": 752,
+        "height": 157
+      },
+      "stage": "2",
+      "ground_line_y": 226
+    },
+    {
+      "id": "millbrook-rail-bridge-3",
+      "file": "weekly/millbrook-rail-bridge-3.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant Millbrook Rail Bridge, stage 3: deck",
+      "transparent": true,
+      "webp": "weekly/millbrook-rail-bridge-3.webp",
+      "review_width_px": 390,
+      "generation": "weekly-bridge-refined",
+      "source_crop": [
+        2,
+        803,
+        1130,
+        1039
+      ],
+      "placement": {
+        "x": 14,
+        "y": 69,
+        "width": 752,
+        "height": 157
+      },
+      "stage": "3",
+      "ground_line_y": 226
+    },
+    {
+      "id": "millbrook-rail-bridge-4",
+      "file": "weekly/millbrook-rail-bridge-4.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "what": "Distant Millbrook Rail Bridge, stage 4: finished with train crossing",
+      "transparent": true,
+      "webp": "weekly/millbrook-rail-bridge-4.webp",
+      "review_width_px": 390,
+      "generation": "weekly-bridge-refined",
+      "source_crop": [
+        2,
+        1125,
+        1130,
+        1362
+      ],
+      "placement": {
+        "x": 14,
+        "y": 68,
+        "width": 752,
+        "height": 158
+      },
+      "stage": "4",
+      "ground_line_y": 226
+    },
+    {
+      "id": "herald-dam-opening",
+      "file": "herald/dam-opening.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "what": "County Dam opening ceremony with Old Hollis and county official; sepia halftone newspaper panel",
+      "transparent": false,
+      "webp": "herald/dam-opening.webp",
+      "review_width_px": 240,
+      "generation": "photos",
+      "source_crop": [
+        0,
+        0,
+        768,
+        512
+      ]
+    },
+    {
+      "id": "herald-bridge-ribbon-cutting",
+      "file": "herald/bridge-ribbon-cutting.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "what": "Millbrook rail bridge ribbon cutting with Old Hollis; sepia halftone newspaper panel",
+      "transparent": false,
+      "webp": "herald/bridge-ribbon-cutting.webp",
+      "review_width_px": 240,
+      "generation": "photos",
+      "source_crop": [
+        768,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "id": "herald-crew-group",
+      "file": "herald/crew-group.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "what": "Hollis & Sons crew group photograph with Old Hollis; sepia halftone newspaper panel",
+      "transparent": false,
+      "webp": "herald/crew-group.webp",
+      "review_width_px": 240,
+      "generation": "photos",
+      "source_crop": [
+        0,
+        512,
+        768,
+        1024
+      ]
+    },
+    {
+      "id": "herald-hollis-handshake",
+      "file": "herald/hollis-handshake.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "what": "Old Hollis shaking hands with a businessman; sepia halftone newspaper panel",
+      "transparent": false,
+      "webp": "herald/hollis-handshake.webp",
+      "review_width_px": 240,
+      "generation": "photos",
+      "source_crop": [
+        768,
+        512,
+        1536,
+        1024
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "clients/stamp-rail.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 88043,
+      "what": "Millbrook Railroad: round two-ink cream/brown client stamp with locomotive",
+      "asset_id": "stamp-rail",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "5f64001979828e43d55a4ab9f21108865aae4d9fe94ee989c47c1069adde84a3"
+    },
+    {
+      "file": "clients/stamp-rail.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 57186,
+      "what": "Millbrook Railroad: round two-ink cream/brown client stamp with locomotive",
+      "asset_id": "stamp-rail",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "40faac7eb2f086069255db880d82dc21ff28eac30a6fb3ff5d0e0a7478ef58ba"
+    },
+    {
+      "file": "clients/stamp-steel.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 86711,
+      "what": "Pemberton Steel: round two-ink cream/brown client stamp with I-beam with flame",
+      "asset_id": "stamp-steel",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "4a309c633b6e8fbba369431e396c81896e738712dcb6a80ae1781f29f842f4f4"
+    },
+    {
+      "file": "clients/stamp-steel.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 56880,
+      "what": "Pemberton Steel: round two-ink cream/brown client stamp with I-beam with flame",
+      "asset_id": "stamp-steel",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "5f5c8687dd0113626aeeafb5651a52b8d27a3c0febf96f062f492d2f67ad7846"
+    },
+    {
+      "file": "clients/stamp-dam.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 83367,
+      "what": "County Dam: round two-ink cream/brown client stamp with water drop over dam",
+      "asset_id": "stamp-dam",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "7c66b9ece1258aa9f15164cb2831a37d74093961c148752ad4e5983b9d807083"
+    },
+    {
+      "file": "clients/stamp-dam.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 55748,
+      "what": "County Dam: round two-ink cream/brown client stamp with water drop over dam",
+      "asset_id": "stamp-dam",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "a9daaad26284a9e44f89c718af701209876ade220e25c33c44c11937bb4a224d"
+    },
+    {
+      "file": "clients/stamp-diner.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 82656,
+      "what": "Mabel’s Diner: round two-ink cream/brown client stamp with coffee cup",
+      "asset_id": "stamp-diner",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "3e3fc432f57079dd4e4f75639e93b242ad31e35bc809d9c44d7a937f8df25048"
+    },
+    {
+      "file": "clients/stamp-diner.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 54562,
+      "what": "Mabel’s Diner: round two-ink cream/brown client stamp with coffee cup",
+      "asset_id": "stamp-diner",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "6357c333bf198ce0cb5a88cc9d0c5f2e5f154bfcaaf0bada0ec894268952c9aa"
+    },
+    {
+      "file": "clients/stamp-icecream.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 86746,
+      "what": "Frosty’s Ice Cream: round two-ink cream/brown client stamp with ice cream cone",
+      "asset_id": "stamp-icecream",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "d29dcb262120e34edbdf13bafb75ac627ffaaff9ce961d45373c52a641e990f3"
+    },
+    {
+      "file": "clients/stamp-icecream.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 56048,
+      "what": "Frosty’s Ice Cream: round two-ink cream/brown client stamp with ice cream cone",
+      "asset_id": "stamp-icecream",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "2a29edfe5e22144585ac61e8b491af54669252df9438cb377dd085e702876919"
+    },
+    {
+      "file": "clients/stamp-phone.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 85806,
+      "what": "Valley Telephone Co.: round two-ink cream/brown client stamp with candlestick telephone",
+      "asset_id": "stamp-phone",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "9d693adc25e68339f0098f99f927ca8ae7f8e7191370f1b63923fd5d6c1d02b1"
+    },
+    {
+      "file": "clients/stamp-phone.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 56380,
+      "what": "Valley Telephone Co.: round two-ink cream/brown client stamp with candlestick telephone",
+      "asset_id": "stamp-phone",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "4860a0184585973adcd35af25db8a3ae417423e1eb6004b781e82ecafc350100"
+    },
+    {
+      "file": "clients/stamp-lumber.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 88484,
+      "what": "Hartley Lumber: round two-ink cream/brown client stamp with crossed hand saws",
+      "asset_id": "stamp-lumber",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "1c37bdb9d06d06a422827517ed19919d438f8bf5f863c56271eadb6cba052c18"
+    },
+    {
+      "file": "clients/stamp-lumber.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 56362,
+      "what": "Hartley Lumber: round two-ink cream/brown client stamp with crossed hand saws",
+      "asset_id": "stamp-lumber",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "7160a485b7a48e6f3c248c6873a047dcb337945425fe3e792dbb158766f2bae8"
+    },
+    {
+      "file": "clients/stamp-brick.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 85876,
+      "what": "Riverside Brick Works: round two-ink cream/brown client stamp with brick stack",
+      "asset_id": "stamp-brick",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "f77e6dbfa7bcb0f2513521dd17d838fc754bfa1cf79679c99f5d67244a05333f"
+    },
+    {
+      "file": "clients/stamp-brick.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 55860,
+      "what": "Riverside Brick Works: round two-ink cream/brown client stamp with brick stack",
+      "asset_id": "stamp-brick",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "674969b41f409cbec38ea23544b5383e0a6ea1a5de3bd8cdc656b3d89435f7e5"
+    },
+    {
+      "file": "clients/stamp-farm.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 89544,
+      "what": "Granger Farm Co-op: round two-ink cream/brown client stamp with tractor",
+      "asset_id": "stamp-farm",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "3022cce5c9933886c28393448e86059fde7bd41a35af6120f091333dd4856841"
+    },
+    {
+      "file": "clients/stamp-farm.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 58112,
+      "what": "Granger Farm Co-op: round two-ink cream/brown client stamp with tractor",
+      "asset_id": "stamp-farm",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "46cdeeb8d4028e85f4c85161194aa7f166f8bf20e334467a4921a2effef85132"
+    },
+    {
+      "file": "clients/stamp-radio.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 89558,
+      "what": "WHSN Radio: round two-ink cream/brown client stamp with radio mast",
+      "asset_id": "stamp-radio",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "324aaa9cd67d28c169bf07cdb82af70034f02a999ac3df3241ebe231e4c98d46"
+    },
+    {
+      "file": "clients/stamp-radio.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 57802,
+      "what": "WHSN Radio: round two-ink cream/brown client stamp with radio mast",
+      "asset_id": "stamp-radio",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "dd866858543428f8232f079c1787fdca128b2d3a69b4d0219400285d58deec8c"
+    },
+    {
+      "file": "camp/rail-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 215444,
+      "what": "Millbrook Railroad: rail spur and locomotive, under construction with scaffolding and crates",
+      "asset_id": "camp-rail-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "5627ee2f90df34d8f387495306674efaf18257b22fc236d5a810ed99084ab13b"
+    },
+    {
+      "file": "camp/rail-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 155342,
+      "what": "Millbrook Railroad: rail spur and locomotive, under construction with scaffolding and crates",
+      "asset_id": "camp-rail-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "6bdebac1dc02fda67f1c626098b026cd50f1a2c3666aa4a1a3fb25e7b9b52473"
+    },
+    {
+      "file": "camp/rail-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 191506,
+      "what": "Millbrook Railroad: rail spur and locomotive, finished",
+      "asset_id": "camp-rail-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "e3779e08203e469b99453c3b95056997edae6c36224634aa621341fcf1e3c460"
+    },
+    {
+      "file": "camp/rail-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 138544,
+      "what": "Millbrook Railroad: rail spur and locomotive, finished",
+      "asset_id": "camp-rail-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "8e912c0ed81e06880d288d90c6fbcc497f189438ef5032832f352d234d0affad"
+    },
+    {
+      "file": "camp/steel-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 211856,
+      "what": "Pemberton Steel: steel smokestack and furnace shed, under construction with scaffolding and crates",
+      "asset_id": "camp-steel-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "61fbdfa000e18760fad0ee1f13bb2ea3fb327f52d658f4b0fdbb352362ba6e0a"
+    },
+    {
+      "file": "camp/steel-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 155164,
+      "what": "Pemberton Steel: steel smokestack and furnace shed, under construction with scaffolding and crates",
+      "asset_id": "camp-steel-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "17879597a2be1564ea3185831a81c2687e1d732a243da13dff3d25c642e6385f"
+    },
+    {
+      "file": "camp/steel-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 173881,
+      "what": "Pemberton Steel: steel smokestack and furnace shed, finished",
+      "asset_id": "camp-steel-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "400ff4392597cccc504e0ba76c1850d6d89d5f06bd8aae31a055620aece61595"
+    },
+    {
+      "file": "camp/steel-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 124870,
+      "what": "Pemberton Steel: steel smokestack and furnace shed, finished",
+      "asset_id": "camp-steel-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "81d25d19815981d31fd43cc5b795b60a5863de595d5db18d8684a1dc69de078a"
+    },
+    {
+      "file": "camp/dam-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 185305,
+      "what": "County Dam: water tower, under construction with scaffolding and crates",
+      "asset_id": "camp-dam-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "0b4dd9a2dca90b903cc64d44a077d8bd1792974fe9a085cd53a3a4c914c52eb6"
+    },
+    {
+      "file": "camp/dam-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 131342,
+      "what": "County Dam: water tower, under construction with scaffolding and crates",
+      "asset_id": "camp-dam-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "6f6462b8e8c5be189da1e7dad09c275fa6aab702d1f664eae9a711f957c05a15"
+    },
+    {
+      "file": "camp/dam-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 187405,
+      "what": "County Dam: water tower, finished",
+      "asset_id": "camp-dam-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "1ce30b4d9d5d179b818e54b54a06699d535d313e8576e7fb2421ddc993b95832"
+    },
+    {
+      "file": "camp/dam-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 132884,
+      "what": "County Dam: water tower, finished",
+      "asset_id": "camp-dam-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "641053a21c6125942f37b95416e293bcf7a6f7d74d5f4a2691aafd1f900f638a"
+    },
+    {
+      "file": "camp/diner-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 178685,
+      "what": "Mabel’s Diner: roadside diner trailer, under construction with scaffolding and crates",
+      "asset_id": "camp-diner-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "c3201af52678f76a6586b1a9acfd0c6a4eb8f855f424913878a798ed9cd45516"
+    },
+    {
+      "file": "camp/diner-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 131526,
+      "what": "Mabel’s Diner: roadside diner trailer, under construction with scaffolding and crates",
+      "asset_id": "camp-diner-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "6cc8eb2457e6980ba6e09d42d8a8b6f71744c1657ef17a68a863652fe05b2df7"
+    },
+    {
+      "file": "camp/diner-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 163524,
+      "what": "Mabel’s Diner: roadside diner trailer, finished",
+      "asset_id": "camp-diner-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "9432491297def40c10e1f6856669084676a8fbb88d457fac72fd25c74f1eb750"
+    },
+    {
+      "file": "camp/diner-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 119794,
+      "what": "Mabel’s Diner: roadside diner trailer, finished",
+      "asset_id": "camp-diner-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "cf4517a33ded9c4ef710be4e46cecc7a3662460c89cca50248759a7eeb95d05e"
+    },
+    {
+      "file": "camp/icecream-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 193653,
+      "what": "Frosty’s Ice Cream: ice cream truck, under construction with scaffolding and crates",
+      "asset_id": "camp-icecream-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "47472c114c43187c5614ab2f272db2bf3ad5749f9b58e16cd6e4a9f2c07e1718"
+    },
+    {
+      "file": "camp/icecream-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 137932,
+      "what": "Frosty’s Ice Cream: ice cream truck, under construction with scaffolding and crates",
+      "asset_id": "camp-icecream-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "fba3561e8d329e6e0e3f0b503a48d7e04daeedcc12843116e3a789287a922bb5"
+    },
+    {
+      "file": "camp/icecream-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 185658,
+      "what": "Frosty’s Ice Cream: ice cream truck, finished",
+      "asset_id": "camp-icecream-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "df7adebb5fd618a16fe304a10a72d483cd62f5171e547a4a113ee859b7aa6b35"
+    },
+    {
+      "file": "camp/icecream-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 129766,
+      "what": "Frosty’s Ice Cream: ice cream truck, finished",
+      "asset_id": "camp-icecream-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ae0bdd9fc37696bcf8ad2ff2972df39f1f52fdd7ac799592bd404660fb994e6b"
+    },
+    {
+      "file": "camp/phone-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 158473,
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, under construction with scaffolding and crates",
+      "asset_id": "camp-phone-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "cf36676daac4b0ce98825dc20c2f750626f8ae9f5e4f933c6d8931a3014a365c"
+    },
+    {
+      "file": "camp/phone-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 117334,
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, under construction with scaffolding and crates",
+      "asset_id": "camp-phone-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "96b08892c9082c013c3fef8a5654c5e9b5fc9199ba7314d43227b8015a5ed5f9"
+    },
+    {
+      "file": "camp/phone-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 122950,
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, finished",
+      "asset_id": "camp-phone-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "b0da833532e3e3e58e8c059cdc9ec0de79754ca6d6de4aab5c50b073727bef2f"
+    },
+    {
+      "file": "camp/phone-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 90326,
+      "what": "Valley Telephone Co.: telephone pole line and phone booth, finished",
+      "asset_id": "camp-phone-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "d3eb4316607e81a9848d8a8c44d4e56d54f877b21e5d1e0be2509cbf19dc96a2"
+    },
+    {
+      "file": "camp/lumber-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 232148,
+      "what": "Hartley Lumber: lumber stack and saw shed, under construction with scaffolding and crates",
+      "asset_id": "camp-lumber-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "1069b56bc2cbcdb3eb1bdca29cc33360fa6ea3a23970805b3632409550be1ed7"
+    },
+    {
+      "file": "camp/lumber-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 164038,
+      "what": "Hartley Lumber: lumber stack and saw shed, under construction with scaffolding and crates",
+      "asset_id": "camp-lumber-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ab2e6f89bef7e13926b31a9859fe93cad91a65b22f3b576100d80d63e7bb695e"
+    },
+    {
+      "file": "camp/lumber-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 199842,
+      "what": "Hartley Lumber: lumber stack and saw shed, finished",
+      "asset_id": "camp-lumber-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "11dc114b571f4087424056b9bfa777befde31791b8b971df752c19c8d6dd84df"
+    },
+    {
+      "file": "camp/lumber-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 139970,
+      "what": "Hartley Lumber: lumber stack and saw shed, finished",
+      "asset_id": "camp-lumber-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ad3ac1b9020b0ef25b06dbac18584e8c815b23ae21de724c6398c5bd098fabbd"
+    },
+    {
+      "file": "camp/brick-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 195261,
+      "what": "Riverside Brick Works: brick kiln, under construction with scaffolding and crates",
+      "asset_id": "camp-brick-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "bf9eb9f5c011aa19afdf87ded7d93dba9ebc3e96766c746df41e7eebf560ca4f"
+    },
+    {
+      "file": "camp/brick-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 146024,
+      "what": "Riverside Brick Works: brick kiln, under construction with scaffolding and crates",
+      "asset_id": "camp-brick-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ffaa0a505dd511b01cb7113877edccbc67a089cd57f4462058adae1a6daea6fd"
+    },
+    {
+      "file": "camp/brick-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 152604,
+      "what": "Riverside Brick Works: brick kiln, finished",
+      "asset_id": "camp-brick-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "83677f860787d244621791eae7fb27de3a7a2b3247031f2629fdd6f0e2ba6078"
+    },
+    {
+      "file": "camp/brick-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 112354,
+      "what": "Riverside Brick Works: brick kiln, finished",
+      "asset_id": "camp-brick-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "8e6321bb3690adc7ec8ae3b3e3ecdfbf9c037ea40064126a8a9a74fb192ea48a"
+    },
+    {
+      "file": "camp/farm-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 203013,
+      "what": "Granger Farm Co-op: silo and vintage tractor, under construction with scaffolding and crates",
+      "asset_id": "camp-farm-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "304faa0af2089f47af8bb5ce0961a091916e0bfa6cebf40c51c513bb2ac57479"
+    },
+    {
+      "file": "camp/farm-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 143342,
+      "what": "Granger Farm Co-op: silo and vintage tractor, under construction with scaffolding and crates",
+      "asset_id": "camp-farm-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "bce2cf79e386e4d09f7569240872f45e095377ac84cf5859208382d9cf9526c2"
+    },
+    {
+      "file": "camp/farm-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 155058,
+      "what": "Granger Farm Co-op: silo and vintage tractor, finished",
+      "asset_id": "camp-farm-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "5e407c59f6543b714bc867bcb7550f9297371ea9884ae25a517c691b254ea808"
+    },
+    {
+      "file": "camp/farm-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 108572,
+      "what": "Granger Farm Co-op: silo and vintage tractor, finished",
+      "asset_id": "camp-farm-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "66d013d564ac266962632169742abd2ca68df82d9764313a1f32a87789faa99b"
+    },
+    {
+      "file": "camp/radio-a.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 183589,
+      "what": "WHSN Radio: radio mast with red beacon, under construction with scaffolding and crates",
+      "asset_id": "camp-radio-a",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "bea699339e5ae29a4a70529fc9e32275ce61a6a34c4fe37ba1e71f8a4db0afbb"
+    },
+    {
+      "file": "camp/radio-a.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 134418,
+      "what": "WHSN Radio: radio mast with red beacon, under construction with scaffolding and crates",
+      "asset_id": "camp-radio-a",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "e10acc991ce1a14ca05d938f060b3fe93531d732abc2bae78d0313d0071a3f55"
+    },
+    {
+      "file": "camp/radio-b.png",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 121053,
+      "what": "WHSN Radio: radio mast with red beacon, finished",
+      "asset_id": "camp-radio-b",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "fcc09246b26dad04a9db3ee117384922e7b69ed23c07a8d9498841d385b4bfe4"
+    },
+    {
+      "file": "camp/radio-b.webp",
+      "size": {
+        "width": 440,
+        "height": 440
+      },
+      "bytes": 89700,
+      "what": "WHSN Radio: radio mast with red beacon, finished",
+      "asset_id": "camp-radio-b",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ae775c9803fd8ef0dfc2caade766b4e8f3cfffa4571294f0305fd3b5617beb6b"
+    },
+    {
+      "file": "crates/gold-crate-closed-128.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 27286,
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-closed-128",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "5b4a4ce199019cc7ac3dd805aa56ca57383f24f26683f2b2fb3bed5ba5f92fca"
+    },
+    {
+      "file": "crates/gold-crate-closed-128.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 19290,
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-closed-128",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "b672e32826b5f5a8f6a76d96a2131bb215c29baa32e2b8f3fa67b96092066c7a"
+    },
+    {
+      "file": "crates/gold-crate-closed-256.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 95324,
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-closed-256",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "c9bc3faf23406e76ca17fc22c5a8af9ab1cd9de1d0f56d959d8000096579ba6a"
+    },
+    {
+      "file": "crates/gold-crate-closed-256.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 64222,
+      "what": "Gold reward crate, closed; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-closed-256",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "c4c48be5e437a200fb1605886e1778047c2dc1117870ef6625b56633d2a81d86"
+    },
+    {
+      "file": "crates/gold-crate-open-128.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 28339,
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-open-128",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "e970fdee6654001592d590b0109b996641eeeb1f0d0d0d34433822dea86508e5"
+    },
+    {
+      "file": "crates/gold-crate-open-128.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 19850,
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-open-128",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "085343150588c97cac31f517f20e69fe93f1732f4c00f6353dccd1bb8eecf8e2"
+    },
+    {
+      "file": "crates/gold-crate-open-256.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 99240,
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-open-256",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "aba1deeb01bf34c53250ef2696169c33b8105348fcb17cce43fb52a2ad19f0b6"
+    },
+    {
+      "file": "crates/gold-crate-open-256.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 65522,
+      "what": "Gold reward crate, open; brass fittings, gold star and restrained warm light",
+      "asset_id": "gold-crate-open-256",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "5c65e074cf4af32911d1253cd63cc8695511020418620eea95de9c219041ac0b"
+    },
+    {
+      "file": "reputation/greenhorn.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 88638,
+      "what": "Reputation enamel shield: Greenhorn — tin, pickaxe",
+      "asset_id": "rep-greenhorn",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "8e75ccb39ef5ee8e3543ead06c082507d6994ccbf7956a4bdb6bcfc5cc5bf611"
+    },
+    {
+      "file": "reputation/greenhorn.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 57188,
+      "what": "Reputation enamel shield: Greenhorn — tin, pickaxe",
+      "asset_id": "rep-greenhorn",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "4290b81661b1a917c320dcc567c2076d0cbb0c90424f1aced88fe7ee8bce0332"
+    },
+    {
+      "file": "reputation/hand.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 90274,
+      "what": "Reputation enamel shield: Hand — copper, work glove",
+      "asset_id": "rep-hand",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "bef1e9e96355871f689da1ff757f2863f3c0730b4d0cfdcb25526ba5198bb64e"
+    },
+    {
+      "file": "reputation/hand.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 58862,
+      "what": "Reputation enamel shield: Hand — copper, work glove",
+      "asset_id": "rep-hand",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "f27467a79867db56d8e6e2b910ce3e31b315a35091cac31e51ce53febd7c1030"
+    },
+    {
+      "file": "reputation/regular.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 90056,
+      "what": "Reputation enamel shield: Regular — bronze, crossed picks",
+      "asset_id": "rep-regular",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "323e5c70113644043662c2f8aff87eb17a60675a3b04b2d53c12d5acfd9c7827"
+    },
+    {
+      "file": "reputation/regular.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 57080,
+      "what": "Reputation enamel shield: Regular — bronze, crossed picks",
+      "asset_id": "rep-regular",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "4fcc459d40a32c10c352ecddf0f9af51b66e8592796d16252d817dcd56289127"
+    },
+    {
+      "file": "reputation/trusted.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 79013,
+      "what": "Reputation enamel shield: Trusted — brass, star",
+      "asset_id": "rep-trusted",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "e10546a82afb44306dd6d9b3a853fa4be1669f749e321d0d5f067c89b8d6cde9"
+    },
+    {
+      "file": "reputation/trusted.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 53188,
+      "what": "Reputation enamel shield: Trusted — brass, star",
+      "asset_id": "rep-trusted",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "e744c990e21588490356b7f66678d2b587f58db5f292c44c4e01cd8958a26060"
+    },
+    {
+      "file": "reputation/foremans-pick.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 96008,
+      "what": "Reputation enamel shield: Foreman’s Pick — silver, teal pick and laurels",
+      "asset_id": "rep-foremans-pick",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "7dda923a38994204a3af3437552ffcf05c647ab707731eb50b242b9ff1db897f"
+    },
+    {
+      "file": "reputation/foremans-pick.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 61196,
+      "what": "Reputation enamel shield: Foreman’s Pick — silver, teal pick and laurels",
+      "asset_id": "rep-foremans-pick",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "f73e3c4dcff6b9527c6f343084c66e540e2102cd6efad307d5254b4767a83eed"
+    },
+    {
+      "file": "reputation/master.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 96137,
+      "what": "Reputation enamel shield: Master — gold, star and crown",
+      "asset_id": "rep-master",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "95872c3124dc4111dff74da8aa4aabe83e46134556d06e5d7be381d1aef32270"
+    },
+    {
+      "file": "reputation/master.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 67604,
+      "what": "Reputation enamel shield: Master — gold, star and crown",
+      "asset_id": "rep-master",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "a542bb7da0f44c9b37afcbc11bbd0b95e8e5b6bd09d3de5a7ee2fd5d3aad53a0"
+    },
+    {
+      "file": "reputation/legend.png",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 103464,
+      "what": "Reputation enamel shield: Legend — gold, red gem and laurels",
+      "asset_id": "rep-legend",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "ca755fb16b0fa41ba90e9f2c10f8a2974ec9679629cfedac807ab991c8798c24"
+    },
+    {
+      "file": "reputation/legend.webp",
+      "size": {
+        "width": 256,
+        "height": 256
+      },
+      "bytes": 72434,
+      "what": "Reputation enamel shield: Legend — gold, red gem and laurels",
+      "asset_id": "rep-legend",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "ff9eaf19b39e7af22df972eeb42d9dd3c63f133a12a5e3beeae90000c2b95e98"
+    },
+    {
+      "file": "icons/job-rush.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 21097,
+      "what": "Rush job: brass stopwatch with red urgency wedge",
+      "asset_id": "job-rush",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "37d469e53d2e17a4e4177cfb4262c9b6788d7ff8ab6f1b78006bb40ecd0e6708"
+    },
+    {
+      "file": "icons/job-rush.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 14710,
+      "what": "Rush job: brass stopwatch with red urgency wedge",
+      "asset_id": "job-rush",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "4b308d9c11f120eb6b4eee38215999ed640f9d3928157129d58362f5359ffe60"
+    },
+    {
+      "file": "icons/job-big.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 14295,
+      "what": "Big Job: oversized brass crane hook with compact steel suspension block",
+      "asset_id": "job-big",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "8330d79b9dda58afb123b75377d9e3c2f5545961814a9111c83d04fbf29f5d4c"
+    },
+    {
+      "file": "icons/job-big.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 10370,
+      "what": "Big Job: oversized brass crane hook with compact steel suspension block",
+      "asset_id": "job-big",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "bfb68b40a3c8a81d24ecc0675ddbb15818af63c84d7ec86dfeb2d92728bb99d8"
+    },
+    {
+      "file": "icons/job-idle.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 24180,
+      "what": "Idle job: teal wall clock",
+      "asset_id": "job-idle",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "7eea6a1f819bc0fb3761feeef67bbbf77e1a4c3cfabcf773ac523f05b16d7807"
+    },
+    {
+      "file": "icons/job-idle.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 16344,
+      "what": "Idle job: teal wall clock",
+      "asset_id": "job-idle",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "6460186309a0904211365e343d9a3fd8ab8dd7c64b5e518cee181f83d28eb557"
+    },
+    {
+      "file": "icons/job-board.png",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 24410,
+      "what": "Job Board menu tile: wooden corkboard with three pinned paper notes",
+      "asset_id": "job-board",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "10fe54816bc2a7b1d541b1c1d483f779f0c08772b4c82fec06dc78fe5ddc0924"
+    },
+    {
+      "file": "icons/job-board.webp",
+      "size": {
+        "width": 128,
+        "height": 128
+      },
+      "bytes": 16634,
+      "what": "Job Board menu tile: wooden corkboard with three pinned paper notes",
+      "asset_id": "job-board",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "c0211a175dc3b82d09d5abae0359814d59211d909b7ea16a7626119e91f407bf"
+    },
+    {
+      "file": "ui/paid.png",
+      "size": {
+        "width": 400,
+        "height": 200
+      },
+      "bytes": 71372,
+      "what": "Red PAID rubber-stamp impression with worn ink and tilted double border",
+      "asset_id": "paid",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "12094a4781f8edfd4375738670d11865f8162f0d9101bf81240b8657b7c82501"
+    },
+    {
+      "file": "ui/paid.webp",
+      "size": {
+        "width": 400,
+        "height": 200
+      },
+      "bytes": 52684,
+      "what": "Red PAID rubber-stamp impression with worn ink and tilted double border",
+      "asset_id": "paid",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "957da1bfd158d1bad6fc46dfa8ad35b3f0c02346146ae3416308e3086b194b7b"
+    },
+    {
+      "file": "camp/sign-empty.png",
+      "size": {
+        "width": 400,
+        "height": 160
+      },
+      "bytes": 50167,
+      "what": "Empty pale wooden company sign on two posts; title and rank are written by game",
+      "asset_id": "camp-sign",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "813a37908a27e8003d537fa937ad0f212ea710b7d86c02f4da4ee874b0d47b6c"
+    },
+    {
+      "file": "camp/sign-empty.webp",
+      "size": {
+        "width": 400,
+        "height": 160
+      },
+      "bytes": 36766,
+      "what": "Empty pale wooden company sign on two posts; title and rank are written by game",
+      "asset_id": "camp-sign",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "35600818bb75b3311b1e558fae15a5d07b4417f3ec89ee53ae1213480c00d577"
+    },
+    {
+      "file": "weekly/county-dam-1.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 77849,
+      "what": "Distant County Dam, stage 1: foundation",
+      "asset_id": "county-dam-1",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "06be296e00877c837f0f6d52af1c708a0365fd3d258b95a3385d5eb7346ab3e5"
+    },
+    {
+      "file": "weekly/county-dam-1.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 57674,
+      "what": "Distant County Dam, stage 1: foundation",
+      "asset_id": "county-dam-1",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "c4926360f67d0419e4d418e6758f0bb75ae28db12ff21e959c5480bbd4137523"
+    },
+    {
+      "file": "weekly/county-dam-2.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 165492,
+      "what": "Distant County Dam, stage 2: half wall",
+      "asset_id": "county-dam-2",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "94f77a6188a02705092932b507a6dd6b13c8845d23b55084bf19ead0e6f5d35c"
+    },
+    {
+      "file": "weekly/county-dam-2.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 123598,
+      "what": "Distant County Dam, stage 2: half wall",
+      "asset_id": "county-dam-2",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "cfe6a0f93b187df8ae8ec8b9a719fbfae74cece3cde2bd0e8977100bd1a64aac"
+    },
+    {
+      "file": "weekly/county-dam-3.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 191089,
+      "what": "Distant County Dam, stage 3: full wall",
+      "asset_id": "county-dam-3",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "bab29c22a0faa53ae54d50a773e1ad7d3cb83b1f6c93f9dda4c94a4f5b9f4d8f"
+    },
+    {
+      "file": "weekly/county-dam-3.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 143550,
+      "what": "Distant County Dam, stage 3: full wall",
+      "asset_id": "county-dam-3",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "fd24d44de20e7abbf35d0ddc0edc0565cb9517f5e248ee5ddee82ffb8571546d"
+    },
+    {
+      "file": "weekly/county-dam-4.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 221493,
+      "what": "Distant County Dam, stage 4: finished with water",
+      "asset_id": "county-dam-4",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "b20e880a17e86fd477dae1ca4055c330d01bc0710b64ce16b9a7efc89bb8d3d5"
+    },
+    {
+      "file": "weekly/county-dam-4.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 162088,
+      "what": "Distant County Dam, stage 4: finished with water",
+      "asset_id": "county-dam-4",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "287848a2c9f410cf787f1a1a226439a1fd3ea11db3bd23a35881eaa10970f07b"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-1.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 86919,
+      "what": "Distant Millbrook Rail Bridge, stage 1: pilings",
+      "asset_id": "millbrook-rail-bridge-1",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "ae3d862b88c612835094bac9ec4b28ca98179aac3f09839f311cb3a68a965cb7"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-1.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 61576,
+      "what": "Distant Millbrook Rail Bridge, stage 1: pilings",
+      "asset_id": "millbrook-rail-bridge-1",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "9cdc7007797b5f2d84841a0d71913e815dced6935d115d0cb5b8f2032504c5bf"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-2.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 160784,
+      "what": "Distant Millbrook Rail Bridge, stage 2: frame",
+      "asset_id": "millbrook-rail-bridge-2",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "66bf92991c849be743afd1bcf2af03b31ea7bbdc758f5feb882bbdcfad53020e"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-2.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 116694,
+      "what": "Distant Millbrook Rail Bridge, stage 2: frame",
+      "asset_id": "millbrook-rail-bridge-2",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "5ba89e604696ab786f6573f8aaed7441178f73dfb2ab3934c9e61478dcbe1289"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-3.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 170992,
+      "what": "Distant Millbrook Rail Bridge, stage 3: deck",
+      "asset_id": "millbrook-rail-bridge-3",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "14579ea11e745de58db9da470dd4ecc2a204036a8741e1aaf1faccea86126f2f"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-3.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 121948,
+      "what": "Distant Millbrook Rail Bridge, stage 3: deck",
+      "asset_id": "millbrook-rail-bridge-3",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "bcdffd208eb70ca02ea453a4b0aad723c23b5b73cfe48669aae5ef437ad18564"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-4.png",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 176136,
+      "what": "Distant Millbrook Rail Bridge, stage 4: finished with train crossing",
+      "asset_id": "millbrook-rail-bridge-4",
+      "format": "PNG",
+      "transparent": true,
+      "sha256": "6a8b53cb2a6f2d5bb3d504370845683ceec251d380a2f79d44f0245e1448f764"
+    },
+    {
+      "file": "weekly/millbrook-rail-bridge-4.webp",
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "bytes": 126310,
+      "what": "Distant Millbrook Rail Bridge, stage 4: finished with train crossing",
+      "asset_id": "millbrook-rail-bridge-4",
+      "format": "WEBP",
+      "transparent": true,
+      "sha256": "e4eccc6964f4e686d82c9de09aac83791b6a97f5c8f5b2d4f9edfe936ecdbc00"
+    },
+    {
+      "file": "herald/dam-opening.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 389651,
+      "what": "County Dam opening ceremony with Old Hollis and county official; sepia halftone newspaper panel",
+      "asset_id": "herald-dam-opening",
+      "format": "JPEG",
+      "transparent": false,
+      "sha256": "d8b1ce2cae6a99c972f2238f3709c9d7652cac147fd8b1f599f01ddacccd8668"
+    },
+    {
+      "file": "herald/dam-opening.webp",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 768012,
+      "what": "County Dam opening ceremony with Old Hollis and county official; sepia halftone newspaper panel",
+      "asset_id": "herald-dam-opening",
+      "format": "WEBP",
+      "transparent": false,
+      "sha256": "5fe510128c87dda8e4122abde1edf1c8762fe64a7a9589835e9ec107c7bf1230"
+    },
+    {
+      "file": "herald/bridge-ribbon-cutting.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 395705,
+      "what": "Millbrook rail bridge ribbon cutting with Old Hollis; sepia halftone newspaper panel",
+      "asset_id": "herald-bridge-ribbon-cutting",
+      "format": "JPEG",
+      "transparent": false,
+      "sha256": "cdeedf00ea59490636345b2e431c09f423932613097918e70a1f74ee3588b20f"
+    },
+    {
+      "file": "herald/bridge-ribbon-cutting.webp",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 776932,
+      "what": "Millbrook rail bridge ribbon cutting with Old Hollis; sepia halftone newspaper panel",
+      "asset_id": "herald-bridge-ribbon-cutting",
+      "format": "WEBP",
+      "transparent": false,
+      "sha256": "0656a120eb522820373a510e59cae727bbb60e8cd31922950e9c76d8e86dd735"
+    },
+    {
+      "file": "herald/crew-group.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 398412,
+      "what": "Hollis & Sons crew group photograph with Old Hollis; sepia halftone newspaper panel",
+      "asset_id": "herald-crew-group",
+      "format": "JPEG",
+      "transparent": false,
+      "sha256": "5275e2e3597845afda92de732269341fa8183413d947058f95f8ebbab1c3039f"
+    },
+    {
+      "file": "herald/crew-group.webp",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 772628,
+      "what": "Hollis & Sons crew group photograph with Old Hollis; sepia halftone newspaper panel",
+      "asset_id": "herald-crew-group",
+      "format": "WEBP",
+      "transparent": false,
+      "sha256": "058273abdd0fa3b51588eeb78666e572cdb0553af393c0fe496e9a4ec825c0aa"
+    },
+    {
+      "file": "herald/hollis-handshake.jpg",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 358506,
+      "what": "Old Hollis shaking hands with a businessman; sepia halftone newspaper panel",
+      "asset_id": "herald-hollis-handshake",
+      "format": "JPEG",
+      "transparent": false,
+      "sha256": "3f933ed4a3982d8a2866295caf1ed9a084f5743c141b5d4ce06f41b6a9f874a9"
+    },
+    {
+      "file": "herald/hollis-handshake.webp",
+      "size": {
+        "width": 768,
+        "height": 512
+      },
+      "bytes": 741790,
+      "what": "Old Hollis shaking hands with a businessman; sepia halftone newspaper panel",
+      "asset_id": "herald-hollis-handshake",
+      "format": "WEBP",
+      "transparent": false,
+      "sha256": "7bcb8b6910168f90a286cde9fc8e5da48da9a9afdae79ce850f2da61f772f8f2"
+    },
+    {
+      "file": "contact-sheet.png",
+      "size": {
+        "width": 1800,
+        "height": 2720
+      },
+      "bytes": 2929948,
+      "what": "All 59 deliverables labeled in one contact sheet",
+      "format": "PNG",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "526517598bb7f3eb013a7154b4a93c90979cbea2fdd89615d6c623e7507a5361"
+    },
+    {
+      "file": "contact-sheet.webp",
+      "size": {
+        "width": 1800,
+        "height": 2720
+      },
+      "bytes": 2160816,
+      "what": "All 59 deliverables labeled in one contact sheet",
+      "format": "WEBP",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "bf55b29b0918ff354c8c28d1d7d42cfe5a89d2211c89648c813a86c43deb09eb"
+    },
+    {
+      "file": "review/ui-small.png",
+      "size": {
+        "width": 1040,
+        "height": 1020
+      },
+      "bytes": 266846,
+      "what": "Actual small-size visual review: ui-small",
+      "format": "PNG",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "ba6d1af7725393fd2d99c712761363b58584fb0040b340424678749dbd6291ec"
+    },
+    {
+      "file": "review/ui-small.webp",
+      "size": {
+        "width": 1040,
+        "height": 1020
+      },
+      "bytes": 185478,
+      "what": "Actual small-size visual review: ui-small",
+      "format": "WEBP",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "f4db190e923f278a7d57ae14a21a5edb9925b6483f43f8deeb41881392319f28"
+    },
+    {
+      "file": "review/camp-small.png",
+      "size": {
+        "width": 1100,
+        "height": 1570
+      },
+      "bytes": 808513,
+      "what": "Actual small-size visual review: camp-small",
+      "format": "PNG",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "80df6756288fc4a2791b4bdbbb2754106e4614a42c17df8694bef3ce0dbca2e0"
+    },
+    {
+      "file": "review/camp-small.webp",
+      "size": {
+        "width": 1100,
+        "height": 1570
+      },
+      "bytes": 598686,
+      "what": "Actual small-size visual review: camp-small",
+      "format": "WEBP",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "675161b4c2a3fd4a74c3e619be1460be4616359cb13edada8c238b7cc7d1e013"
+    },
+    {
+      "file": "review/weekly-small.png",
+      "size": {
+        "width": 824,
+        "height": 1240
+      },
+      "bytes": 604497,
+      "what": "Actual small-size visual review: weekly-small",
+      "format": "PNG",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "cc79d86d8c95aaa876fbbd9be23e0251f803592f3d25392f7a8fc02ba2066a0b"
+    },
+    {
+      "file": "review/weekly-small.webp",
+      "size": {
+        "width": 824,
+        "height": 1240
+      },
+      "bytes": 421718,
+      "what": "Actual small-size visual review: weekly-small",
+      "format": "WEBP",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "40650d5c42cec47b3879c107bed3e5e2dd324c278447902c75e9d4005a4dfe47"
+    },
+    {
+      "file": "review/herald-small.png",
+      "size": {
+        "width": 524,
+        "height": 455
+      },
+      "bytes": 384677,
+      "what": "Actual small-size visual review: herald-small",
+      "format": "PNG",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "6e46f8727b460eb705c21f53e4611143f34cdd5cdff6ea4c1286c4f5c52ec93a"
+    },
+    {
+      "file": "review/herald-small.webp",
+      "size": {
+        "width": 524,
+        "height": 455
+      },
+      "bytes": 254564,
+      "what": "Actual small-size visual review: herald-small",
+      "format": "WEBP",
+      "transparent": false,
+      "role": "documentation-composite",
+      "sha256": "972a97e5ac8111fdb63426aaff73d72233ff0ae4f8987e2ae2c0de45fcafa423"
+    }
+  ],
+  "production_image_file_count": 118,
+  "contact_sheet": {
+    "png": "contact-sheet.png",
+    "webp": "contact-sheet.webp"
+  },
+  "review_sheets": [
+    {
+      "png": "review/ui-small.png",
+      "webp": "review/ui-small.webp"
+    },
+    {
+      "png": "review/camp-small.png",
+      "webp": "review/camp-small.webp"
+    },
+    {
+      "png": "review/weekly-small.png",
+      "webp": "review/weekly-small.webp"
+    },
+    {
+      "png": "review/herald-small.png",
+      "webp": "review/herald-small.webp"
+    }
+  ],
+  "review_notes": "README.md#review-and-remaining-reservations",
+  "generation_log": "generation-log.json",
+  "validation": "qa.json",
+  "integration_notes": [
+    "Camp construction and finished states share the same 440x440 canvas, uniform scale per pair, and bottom-edge anchor (220,424). Preserve transparent margins.",
+    "Weekly stages share 780x240 canvases, uniform scale per sequence, and bottom-edge anchor (390,226). Preserve transparent headroom on early stages.",
+    "The 400x160 empty sign is separate from camp building canvas conventions. Game supplies all company, client, rank and newspaper copy; only PAID has baked-in lettering.",
+    "All production artwork generated with imagegen. Postprocessing only extracts sheet sprites, excludes adjacent cell fragments, uniformly downsamples, places on transparent canvases and encodes formats.",
+    "Herald WebPs are lossless encodings of the delivered JPG decoded pixels. Other WebPs are pixel-identical to their transparent PNGs.",
+    "Contact sheet and review sheets are intentionally opaque diagnostic composites, not production sprites."
+  ]
+}

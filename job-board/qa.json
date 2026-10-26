@@ -1,0 +1,1285 @@
+{
+  "result": "pass",
+  "date_utc": "2026-10-26",
+  "production_assets": 59,
+  "production_images": 118,
+  "documentation_composites": 10,
+  "total_images": 128,
+  "transparent_primary_pngs": 55,
+  "opaque_herald_jpgs": 4,
+  "lossless_production_webps": 59,
+  "checks": [
+    "Every production primary and WebP has requested exact dimensions",
+    "All 55 sprite PNGs have real RGBA transparency and entirely clear outer canvas edges",
+    "All 4 Herald JPGs are opaque 768x512",
+    "Each production WebP has exactly the same decoded RGBA pixels as its PNG/JPG",
+    "Contact sheet and review WebPs also match their PNGs",
+    "Manifest lists every delivered image with dimensions, bytes, description and SHA-256",
+    "Game checkout remains clean",
+    "Final PAID ink contains no opaque pale distress pixels; reduced-size red-ink compositing reviewed"
+  ],
+  "visual_review": {
+    "status": "Completed by assistant after viewing final exported contact sheet and actual-size review images",
+    "client_stamps_px": 36,
+    "reputation_badges_px": 32,
+    "job_menu_crate_icons_px": 32,
+    "camp_stages_px": 110,
+    "weekly_width_px": 390,
+    "herald_width_px": 240,
+    "paid_width_px": 100,
+    "sign_width_px": 160,
+    "backgrounds": [
+      "cream #EFE4C8",
+      "dark teal #293C3B",
+      "earth #A9784D"
+    ],
+    "scope": "Standalone composites, no game integration"
+  },
+  "remaining_reservations": [
+    "Construction and finished states are not pixel-registered animation frames; farm tractor changes side.",
+    "Fine saw teeth, wires, scaffolding and train wheel detail soften at phone sizes while main silhouettes remain clear.",
+    "Herald dam/bridge depictions are editorial illustrations, not exact renders of the construction sprites."
+  ],
+  "assets": [
+    {
+      "id": "stamp-rail",
+      "file": "clients/stamp-rail.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.292908,
+      "visible_bounds": [
+        6,
+        7,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-steel",
+      "file": "clients/stamp-steel.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.29039,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-dam",
+      "file": "clients/stamp-dam.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.289673,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-diner",
+      "file": "clients/stamp-diner.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.29332,
+      "visible_bounds": [
+        6,
+        7,
+        250,
+        248
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-icecream",
+      "file": "clients/stamp-icecream.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.289902,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-phone",
+      "file": "clients/stamp-phone.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.289246,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-lumber",
+      "file": "clients/stamp-lumber.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.29155,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        249
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-brick",
+      "file": "clients/stamp-brick.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.294495,
+      "visible_bounds": [
+        6,
+        7,
+        250,
+        248
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-farm",
+      "file": "clients/stamp-farm.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.296402,
+      "visible_bounds": [
+        6,
+        7,
+        250,
+        248
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "stamp-radio",
+      "file": "clients/stamp-radio.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.287094,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 36
+    },
+    {
+      "id": "camp-rail-a",
+      "file": "camp/rail-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.511818,
+      "visible_bounds": [
+        14,
+        99,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-rail-b",
+      "file": "camp/rail-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.551632,
+      "visible_bounds": [
+        32,
+        86,
+        407,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-steel-a",
+      "file": "camp/steel-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.492965,
+      "visible_bounds": [
+        14,
+        42,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-steel-b",
+      "file": "camp/steel-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.584096,
+      "visible_bounds": [
+        30,
+        33,
+        409,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-dam-a",
+      "file": "camp/dam-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.566472,
+      "visible_bounds": [
+        50,
+        73,
+        389,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-dam-b",
+      "file": "camp/dam-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.53485,
+      "visible_bounds": [
+        61,
+        24,
+        378,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-diner-a",
+      "file": "camp/diner-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.499256,
+      "visible_bounds": [
+        14,
+        154,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-diner-b",
+      "file": "camp/diner-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.512381,
+      "visible_bounds": [
+        20,
+        157,
+        419,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-icecream-a",
+      "file": "camp/icecream-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.540713,
+      "visible_bounds": [
+        20,
+        155,
+        420,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-icecream-b",
+      "file": "camp/icecream-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.554354,
+      "visible_bounds": [
+        14,
+        156,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-phone-a",
+      "file": "camp/phone-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.629003,
+      "visible_bounds": [
+        35,
+        24,
+        404,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-phone-b",
+      "file": "camp/phone-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.700155,
+      "visible_bounds": [
+        37,
+        30,
+        403,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-lumber-a",
+      "file": "camp/lumber-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.450785,
+      "visible_bounds": [
+        14,
+        85,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-lumber-b",
+      "file": "camp/lumber-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.468084,
+      "visible_bounds": [
+        25,
+        84,
+        415,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-brick-a",
+      "file": "camp/brick-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.500088,
+      "visible_bounds": [
+        14,
+        96,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-brick-b",
+      "file": "camp/brick-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.612412,
+      "visible_bounds": [
+        35,
+        92,
+        405,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-farm-a",
+      "file": "camp/farm-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.531544,
+      "visible_bounds": [
+        17,
+        102,
+        423,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-farm-b",
+      "file": "camp/farm-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.576736,
+      "visible_bounds": [
+        66,
+        24,
+        374,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-radio-a",
+      "file": "camp/radio-a.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.628946,
+      "visible_bounds": [
+        14,
+        92,
+        426,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "camp-radio-b",
+      "file": "camp/radio-b.png",
+      "size": [
+        440,
+        440
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.750537,
+      "visible_bounds": [
+        63,
+        41,
+        377,
+        424
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 110
+    },
+    {
+      "id": "gold-crate-closed-128",
+      "file": "crates/gold-crate-closed-128.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.375732,
+      "visible_bounds": [
+        8,
+        7,
+        119,
+        122
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "gold-crate-closed-256",
+      "file": "crates/gold-crate-closed-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.323959,
+      "visible_bounds": [
+        11,
+        8,
+        245,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "gold-crate-open-128",
+      "file": "crates/gold-crate-open-128.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.371704,
+      "visible_bounds": [
+        8,
+        6,
+        120,
+        122
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "gold-crate-open-256",
+      "file": "crates/gold-crate-open-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.320663,
+      "visible_bounds": [
+        10,
+        6,
+        246,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-greenhorn",
+      "file": "reputation/greenhorn.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.388779,
+      "visible_bounds": [
+        14,
+        6,
+        241,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-hand",
+      "file": "reputation/hand.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.386169,
+      "visible_bounds": [
+        17,
+        6,
+        238,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-regular",
+      "file": "reputation/regular.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.363235,
+      "visible_bounds": [
+        14,
+        6,
+        242,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-trusted",
+      "file": "reputation/trusted.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.423965,
+      "visible_bounds": [
+        12,
+        6,
+        244,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-foremans-pick",
+      "file": "reputation/foremans-pick.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.365417,
+      "visible_bounds": [
+        6,
+        13,
+        250,
+        242
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-master",
+      "file": "reputation/master.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.367523,
+      "visible_bounds": [
+        11,
+        6,
+        245,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "rep-legend",
+      "file": "reputation/legend.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.356384,
+      "visible_bounds": [
+        6,
+        6,
+        250,
+        250
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "job-rush",
+      "file": "icons/job-rush.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.499268,
+      "visible_bounds": [
+        17,
+        6,
+        111,
+        122
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "job-big",
+      "file": "icons/job-big.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.678833,
+      "visible_bounds": [
+        25,
+        6,
+        103,
+        122
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "job-idle",
+      "file": "icons/job-idle.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.213379,
+      "visible_bounds": [
+        6,
+        7,
+        122,
+        120
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "job-board",
+      "file": "icons/job-board.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.271973,
+      "visible_bounds": [
+        6,
+        12,
+        122,
+        115
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 32
+    },
+    {
+      "id": "paid",
+      "file": "ui/paid.png",
+      "size": [
+        400,
+        200
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.508838,
+      "visible_bounds": [
+        6,
+        12,
+        394,
+        187
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 100
+    },
+    {
+      "id": "camp-sign",
+      "file": "camp/sign-empty.png",
+      "size": [
+        400,
+        160
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.320234,
+      "visible_bounds": [
+        6,
+        8,
+        394,
+        152
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 160
+    },
+    {
+      "id": "county-dam-1",
+      "file": "weekly/county-dam-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.796736,
+      "visible_bounds": [
+        18,
+        132,
+        760,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "county-dam-2",
+      "file": "weekly/county-dam-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.528996,
+      "visible_bounds": [
+        18,
+        43,
+        761,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "county-dam-3",
+      "file": "weekly/county-dam-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.410486,
+      "visible_bounds": [
+        18,
+        16,
+        762,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "county-dam-4",
+      "file": "weekly/county-dam-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.358333,
+      "visible_bounds": [
+        18,
+        12,
+        761,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "millbrook-rail-bridge-1",
+      "file": "weekly/millbrook-rail-bridge-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.80344,
+      "visible_bounds": [
+        14,
+        113,
+        765,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "millbrook-rail-bridge-2",
+      "file": "weekly/millbrook-rail-bridge-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.624209,
+      "visible_bounds": [
+        14,
+        69,
+        766,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "millbrook-rail-bridge-3",
+      "file": "weekly/millbrook-rail-bridge-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.603387,
+      "visible_bounds": [
+        14,
+        69,
+        766,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "millbrook-rail-bridge-4",
+      "file": "weekly/millbrook-rail-bridge-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.595198,
+      "visible_bounds": [
+        14,
+        68,
+        766,
+        226
+      ],
+      "empty_canvas_edges": true,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 390
+    },
+    {
+      "id": "herald-dam-opening",
+      "file": "herald/dam-opening.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.0,
+      "visible_bounds": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "empty_canvas_edges": false,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 240
+    },
+    {
+      "id": "herald-bridge-ribbon-cutting",
+      "file": "herald/bridge-ribbon-cutting.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.0,
+      "visible_bounds": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "empty_canvas_edges": false,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 240
+    },
+    {
+      "id": "herald-crew-group",
+      "file": "herald/crew-group.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.0,
+      "visible_bounds": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "empty_canvas_edges": false,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 240
+    },
+    {
+      "id": "herald-hollis-handshake",
+      "file": "herald/hollis-handshake.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "RGB",
+      "alpha_min": 255,
+      "alpha_max": 255,
+      "transparent_pixel_fraction": 0.0,
+      "visible_bounds": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "empty_canvas_edges": false,
+      "webp_decoded_pixels_equal": true,
+      "manual_review_width_px": 240
+    }
+  ],
+  "paid_opaque_pale_distress_pixels": 0
+}
