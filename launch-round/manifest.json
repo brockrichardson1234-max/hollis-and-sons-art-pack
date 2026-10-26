@@ -1,0 +1,1112 @@
+{
+  "pack": "Hollis & Sons — Launch round",
+  "source_repository": "brockrichardson1234-max/dirt-inc-rebuild",
+  "source_branch": "claude/save-and-tap-feel",
+  "source_commit": "797bfe7fc0a240330781feae90b4fa552b61e537",
+  "generator": "OpenAI imagegen",
+  "asset_count": 16,
+  "image_file_count": 32,
+  "transparent_pngs": 12,
+  "black_and_white_jpgs": 4,
+  "lossless_webps": 16,
+  "references": [
+    {
+      "file": "art/hollis-kit/assets/gear/crate-closed.png",
+      "sha256": "8d50a39b3b656824a3263f845521ebe447557de6903e45bfd8c4d55b6f547e3f"
+    },
+    {
+      "file": "art/hollis-kit/assets/gear/crate-open.png",
+      "sha256": "57824377002754ac32e8e9fcf9d2900a5d905ead4db5747d8f3dfd5ba4a3af91"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/gold-crate-closed.png",
+      "sha256": "5b4a4ce199019cc7ac3dd805aa56ca57383f24f26683f2b2fb3bed5ba5f92fca"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/gold-crate-open.png",
+      "sha256": "e970fdee6654001592d590b0109b996641eeeb1f0d0d0d34433822dea86508e5"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/herald-crew-group.jpg",
+      "sha256": "67fff5f82445bb5c22f4e4bc31055ff45c57b9abbcd87b2d681c0e56aabee526"
+    },
+    {
+      "file": "art/hollis-kit/assets/story/news-caves.jpg",
+      "sha256": "5c9e53205410fe670b9646fb361f5f69d382e4ec5538e4553c1a3d0ea6524df2"
+    },
+    {
+      "file": "art/hollis-kit/assets/story/hollis-talk.png",
+      "sha256": "206f7c56483d2701ffb02c4afd1754054136d318299da44794bce2c087e888fe"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/weekly-county-dam-1.png",
+      "sha256": "06be296e00877c837f0f6d52af1c708a0365fd3d258b95a3385d5eb7346ab3e5"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/weekly-county-dam-2.png",
+      "sha256": "94f77a6188a02705092932b507a6dd6b13c8845d23b55084bf19ead0e6f5d35c"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/weekly-county-dam-3.png",
+      "sha256": "bab29c22a0faa53ae54d50a773e1ad7d3cb83b1f6c93f9dda4c94a4f5b9f4d8f"
+    },
+    {
+      "file": "art/hollis-kit/assets/jobs/weekly-county-dam-4.png",
+      "sha256": "b20e880a17e86fd477dae1ca4055c330d01bc0710b64ce16b9a7efc89bb8d3d5"
+    }
+  ],
+  "assets": [
+    {
+      "id": "normal-closed",
+      "file": "gear/crate-closed-lg.png",
+      "webp": "gear/crate-closed-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "what": "Normal supply crate, closed; honey wood and steel riveted corners",
+      "transparent": true,
+      "generation": "crates",
+      "source_crop": [
+        56,
+        46,
+        599,
+        617
+      ],
+      "review_px": 64,
+      "placement": {
+        "x": 30,
+        "y": 19,
+        "width": 451,
+        "height": 474
+      }
+    },
+    {
+      "id": "normal-open",
+      "file": "gear/crate-open-lg.png",
+      "webp": "gear/crate-open-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "what": "Normal supply crate, open, lid absent and empty inside",
+      "transparent": true,
+      "generation": "crates",
+      "source_crop": [
+        657,
+        47,
+        1207,
+        621
+      ],
+      "review_px": 64,
+      "placement": {
+        "x": 27,
+        "y": 17,
+        "width": 457,
+        "height": 477
+      }
+    },
+    {
+      "id": "gold-closed",
+      "file": "jobs/gold-crate-closed-lg.png",
+      "webp": "jobs/gold-crate-closed-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "what": "Gold reward crate, closed; brass corners and front gold star",
+      "transparent": true,
+      "generation": "crates",
+      "source_crop": [
+        54,
+        640,
+        598,
+        1210
+      ],
+      "review_px": 64,
+      "placement": {
+        "x": 30,
+        "y": 19,
+        "width": 452,
+        "height": 473
+      }
+    },
+    {
+      "id": "gold-open",
+      "file": "jobs/gold-crate-open-lg.png",
+      "webp": "jobs/gold-crate-open-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "what": "Gold reward crate, open and empty; contained warm inner light",
+      "transparent": true,
+      "generation": "crates",
+      "source_crop": [
+        658,
+        644,
+        1209,
+        1222
+      ],
+      "review_px": 64,
+      "placement": {
+        "x": 27,
+        "y": 16,
+        "width": 458,
+        "height": 480
+      }
+    },
+    {
+      "id": "grain-1",
+      "file": "jobs/weekly-grain-elevator-1.png",
+      "webp": "jobs/weekly-grain-elevator-1.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Grain Elevator, stage 1: foundations and low scaffold",
+      "transparent": true,
+      "generation": "grain-stage-1",
+      "source_crop": [
+        73,
+        615,
+        1800,
+        782
+      ],
+      "source_registration_box": [
+        75,
+        617,
+        1798,
+        780
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 136,
+        "y": 178,
+        "width": 506,
+        "height": 49,
+        "uniform_scale": 0.2930934416715032
+      },
+      "registration_span": [
+        137,
+        642
+      ],
+      "solid_site_span": [
+        137,
+        641
+      ]
+    },
+    {
+      "id": "grain-2",
+      "file": "jobs/weekly-grain-elevator-2.png",
+      "webp": "jobs/weekly-grain-elevator-2.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Grain Elevator, stage 2: half built",
+      "transparent": true,
+      "generation": "grain-stage-2",
+      "source_crop": [
+        71,
+        298,
+        1801,
+        782
+      ],
+      "source_registration_box": [
+        73,
+        300,
+        1799,
+        780
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 136,
+        "y": 85,
+        "width": 506,
+        "height": 142,
+        "uniform_scale": 0.2925840092699884
+      },
+      "registration_span": [
+        137,
+        642
+      ],
+      "solid_site_span": [
+        137,
+        641
+      ]
+    },
+    {
+      "id": "grain-3",
+      "file": "jobs/weekly-grain-elevator-3.png",
+      "webp": "jobs/weekly-grain-elevator-3.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Grain Elevator, stage 3: nearly done with scaffolding",
+      "transparent": true,
+      "generation": "grain-stage-3",
+      "source_crop": [
+        74,
+        56,
+        1801,
+        782
+      ],
+      "source_registration_box": [
+        76,
+        58,
+        1799,
+        780
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 136,
+        "y": 14,
+        "width": 506,
+        "height": 213,
+        "uniform_scale": 0.2930934416715032
+      },
+      "registration_span": [
+        137,
+        642
+      ],
+      "solid_site_span": [
+        137,
+        641
+      ]
+    },
+    {
+      "id": "grain-4",
+      "file": "jobs/weekly-grain-elevator-4.png",
+      "webp": "jobs/weekly-grain-elevator-4.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Grain Elevator, stage 4: finished and in use",
+      "transparent": true,
+      "generation": "grain-finished",
+      "source_crop": [
+        73,
+        62,
+        1800,
+        781
+      ],
+      "source_registration_box": [
+        75,
+        64,
+        1798,
+        779
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 136,
+        "y": 16,
+        "width": 506,
+        "height": 211,
+        "uniform_scale": 0.2930934416715032
+      },
+      "registration_span": [
+        137,
+        642
+      ],
+      "solid_site_span": [
+        137,
+        641
+      ]
+    },
+    {
+      "id": "radio-1",
+      "file": "jobs/weekly-radio-tower-1.png",
+      "webp": "jobs/weekly-radio-tower-1.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Radio Tower, stage 1: foundations and low scaffold",
+      "transparent": true,
+      "generation": "radio-stage-1",
+      "source_crop": [
+        97,
+        596,
+        1867,
+        785
+      ],
+      "source_registration_box": [
+        99,
+        598,
+        1865,
+        783
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 144,
+        "y": 175,
+        "width": 490,
+        "height": 52,
+        "uniform_scale": 0.2768969422423556
+      },
+      "registration_span": [
+        145,
+        634
+      ],
+      "solid_site_span": [
+        145,
+        633
+      ]
+    },
+    {
+      "id": "radio-2",
+      "file": "jobs/weekly-radio-tower-2.png",
+      "webp": "jobs/weekly-radio-tower-2.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Radio Tower, stage 2: half built",
+      "transparent": true,
+      "generation": "radio-stage-2",
+      "source_crop": [
+        102,
+        250,
+        1867,
+        786
+      ],
+      "source_registration_box": [
+        104,
+        252,
+        1865,
+        784
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 144,
+        "y": 78,
+        "width": 490,
+        "height": 149,
+        "uniform_scale": 0.2776831345826235
+      },
+      "registration_span": [
+        145,
+        634
+      ],
+      "solid_site_span": [
+        145,
+        633
+      ]
+    },
+    {
+      "id": "radio-3",
+      "file": "jobs/weekly-radio-tower-3.png",
+      "webp": "jobs/weekly-radio-tower-3.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Radio Tower, stage 3: nearly done with scaffolding",
+      "transparent": true,
+      "generation": "radio-stage-3",
+      "source_crop": [
+        104,
+        26,
+        1847,
+        783
+      ],
+      "source_registration_box": [
+        106,
+        28,
+        1845,
+        781
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 144,
+        "y": 14,
+        "width": 490,
+        "height": 213,
+        "uniform_scale": 0.281196089706728
+      },
+      "registration_span": [
+        145,
+        634
+      ],
+      "solid_site_span": [
+        145,
+        633
+      ]
+    },
+    {
+      "id": "radio-4",
+      "file": "jobs/weekly-radio-tower-4.png",
+      "webp": "jobs/weekly-radio-tower-4.webp",
+      "size": [
+        780,
+        240
+      ],
+      "what": "Radio Tower, stage 4: finished and in use",
+      "transparent": true,
+      "generation": "radio-finished",
+      "source_crop": [
+        104,
+        28,
+        1845,
+        784
+      ],
+      "source_registration_box": [
+        106,
+        30,
+        1843,
+        782
+      ],
+      "ground_line_y": 226,
+      "review_px": 390,
+      "placement": {
+        "x": 144,
+        "y": 14,
+        "width": 490,
+        "height": 213,
+        "uniform_scale": 0.2815198618307427
+      },
+      "registration_span": [
+        145,
+        634
+      ],
+      "solid_site_span": [
+        145,
+        633
+      ]
+    },
+    {
+      "id": "herald-sold-sign",
+      "file": "jobs/herald-sold-sign.jpg",
+      "webp": "jobs/herald-sold-sign.webp",
+      "size": [
+        768,
+        512
+      ],
+      "what": "Mine gate with SOLD sign, crew waving to Old Hollis; black-and-white 1950s newspaper halftone",
+      "transparent": false,
+      "generation": "prestige-photos",
+      "source_crop": [
+        0,
+        0,
+        1086,
+        724
+      ],
+      "review_px": 240
+    },
+    {
+      "id": "herald-new-shaft",
+      "file": "jobs/herald-new-shaft.jpg",
+      "webp": "jobs/herald-new-shaft.webp",
+      "size": [
+        768,
+        512
+      ],
+      "what": "Old Hollis breaking ground on a fresh shaft with a shovel; crew watching; black-and-white 1950s newspaper halftone",
+      "transparent": false,
+      "generation": "prestige-photos",
+      "source_crop": [
+        1086,
+        0,
+        2172,
+        724
+      ],
+      "review_px": 240
+    },
+    {
+      "id": "herald-grain-elevator",
+      "file": "jobs/herald-grain-elevator.jpg",
+      "webp": "jobs/herald-grain-elevator.webp",
+      "size": [
+        768,
+        512
+      ],
+      "what": "Granger Grain Elevator opening: farmers and Old Hollis at the ribbon cutting; black-and-white 1950s newspaper halftone",
+      "transparent": false,
+      "generation": "opening-clean",
+      "source_crop": [
+        0,
+        0,
+        1086,
+        724
+      ],
+      "review_px": 240
+    },
+    {
+      "id": "herald-radio-tower",
+      "file": "jobs/herald-radio-tower.jpg",
+      "webp": "jobs/herald-radio-tower.webp",
+      "size": [
+        768,
+        512
+      ],
+      "what": "WHSN Radio Tower opening: station crew and Old Hollis beneath finished mast; black-and-white 1950s newspaper halftone",
+      "transparent": false,
+      "generation": "opening-clean",
+      "source_crop": [
+        1086,
+        0,
+        2172,
+        724
+      ],
+      "review_px": 240
+    }
+  ],
+  "files": [
+    {
+      "file": "gear/crate-closed-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 315011,
+      "what": "Normal supply crate, closed; honey wood and steel riveted corners",
+      "sha256": "7a9d275c6ae2303d12a4bd18d47ba22b58f3a0295cbe22b3daabcd2d7918e041"
+    },
+    {
+      "file": "gear/crate-closed-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 206696,
+      "what": "Normal supply crate, closed; honey wood and steel riveted corners",
+      "sha256": "8b4c8e59949f7c8b255243aa09591e77d611bc3350065282c374cf93405dd74c"
+    },
+    {
+      "file": "gear/crate-open-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 322874,
+      "what": "Normal supply crate, open, lid absent and empty inside",
+      "sha256": "66f2d56afef5983808b5abc82c58e6e88b4828216605e1f7603ef0ca0659ca78"
+    },
+    {
+      "file": "gear/crate-open-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 209880,
+      "what": "Normal supply crate, open, lid absent and empty inside",
+      "sha256": "3ba4efd62809e0ab98bedd353f8ca527237ccc123837e041bb55e38a4ea15854"
+    },
+    {
+      "file": "jobs/gold-crate-closed-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 315791,
+      "what": "Gold reward crate, closed; brass corners and front gold star",
+      "sha256": "5e82c6cc50934ac110296e5a6355c6f8953f35a3e5d0ced1e840b5d5fc4aa1d1"
+    },
+    {
+      "file": "jobs/gold-crate-closed-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 214284,
+      "what": "Gold reward crate, closed; brass corners and front gold star",
+      "sha256": "0ed588e458ea2ca228b53b779c1d6b64e5611be3fc2be3559c8c4c785f382ad2"
+    },
+    {
+      "file": "jobs/gold-crate-open-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 325758,
+      "what": "Gold reward crate, open and empty; contained warm inner light",
+      "sha256": "3856384165cb4e01b233a2e7bd6b786380dbfe4af98e9d72849874070e8b784c"
+    },
+    {
+      "file": "jobs/gold-crate-open-lg.webp",
+      "size": [
+        512,
+        512
+      ],
+      "bytes": 221082,
+      "what": "Gold reward crate, open and empty; contained warm inner light",
+      "sha256": "9eab504ef01fb38cf587ba3d6fcf33df79e15baec71066f0047a9641a3367df4"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 36034,
+      "what": "Grain Elevator, stage 1: foundations and low scaffold",
+      "sha256": "8294b6c171a6dd7823f5e5a20938a264590fcd8c559e2daa3f78e51aea6b021e"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-1.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 26244,
+      "what": "Grain Elevator, stage 1: foundations and low scaffold",
+      "sha256": "177e9da680e93532c0d8f9e6b23445e324b40094d8280cb67683cf3ab73f78f5"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 91749,
+      "what": "Grain Elevator, stage 2: half built",
+      "sha256": "4ab1ef37aea90636290db5396731b47235ad7e169379b2c6a65f68fe23b4c3d8"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-2.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 65286,
+      "what": "Grain Elevator, stage 2: half built",
+      "sha256": "5e89ac731787fe4e84232ff9c2d9e05a30175769b1a8c62ce95646dd40f522ad"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 136136,
+      "what": "Grain Elevator, stage 3: nearly done with scaffolding",
+      "sha256": "74ae54e08108028503856b73e9b02decd31924b953a37a5eea7e9921393d0f2d"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-3.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 93392,
+      "what": "Grain Elevator, stage 3: nearly done with scaffolding",
+      "sha256": "1839511c13dc067162623d9fe8ba65ad7c2bc622964f5e28cd179dffd8195bf3"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 124015,
+      "what": "Grain Elevator, stage 4: finished and in use",
+      "sha256": "907302f01eb68e22bfbf6a0b616ef1bb4735f3e0e38a1be5e7cc85c2d8ed83f4"
+    },
+    {
+      "file": "jobs/weekly-grain-elevator-4.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 86438,
+      "what": "Grain Elevator, stage 4: finished and in use",
+      "sha256": "3744955064442008e8edf070fb5e6c02c0c792405fbe88148d0f661bfadbe622"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 36855,
+      "what": "Radio Tower, stage 1: foundations and low scaffold",
+      "sha256": "d86752921c6ec13f50c4eaa152dec6bb0ae2ce96f861d22d9f58d55e72bc1eee"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-1.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 27672,
+      "what": "Radio Tower, stage 1: foundations and low scaffold",
+      "sha256": "8ff084833508d0e09123047260295caeeb1e9ad8119052b1b023f6ac91bc87eb"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 63375,
+      "what": "Radio Tower, stage 2: half built",
+      "sha256": "dc00732d6c6fce8bf90efe7ad756b99a5457f26ca5846eb6f01e47f891a30606"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-2.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 48138,
+      "what": "Radio Tower, stage 2: half built",
+      "sha256": "509ac84f63e904400cc8db507ada4b7b9dfbe2a3fac712a5c5faba33974f34ae"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 82640,
+      "what": "Radio Tower, stage 3: nearly done with scaffolding",
+      "sha256": "2c6a2119847957511c01bfa00fe059d20ea3b6f68a4f4f4cb93b4a0f00265040"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-3.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 61244,
+      "what": "Radio Tower, stage 3: nearly done with scaffolding",
+      "sha256": "92529ef59605a9432a43fbbcda425edab02b7f21ab8e24cd663a90bf41cfa35c"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 69746,
+      "what": "Radio Tower, stage 4: finished and in use",
+      "sha256": "c7f8fe103241012409a8bc2abf3296c80a7bef6aee8e904d09c8f4a16a4a2de9"
+    },
+    {
+      "file": "jobs/weekly-radio-tower-4.webp",
+      "size": [
+        780,
+        240
+      ],
+      "bytes": 51364,
+      "what": "Radio Tower, stage 4: finished and in use",
+      "sha256": "26990b975b96dd6e83c9098b54562563b05cd16a201c054a766fb9ec3bcf4580"
+    },
+    {
+      "file": "jobs/herald-sold-sign.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 279491,
+      "what": "Mine gate with SOLD sign, crew waving to Old Hollis; black-and-white 1950s newspaper halftone",
+      "sha256": "543a8e09e7139d991e4ca95cef8f3075d8b0951b7fc978b9536929af4a2ad38e"
+    },
+    {
+      "file": "jobs/herald-sold-sign.webp",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 347814,
+      "what": "Mine gate with SOLD sign, crew waving to Old Hollis; black-and-white 1950s newspaper halftone",
+      "sha256": "958df2acde7212d812c61a86ed977d294a8475ee517f84d1f6a85e202d2fd643"
+    },
+    {
+      "file": "jobs/herald-new-shaft.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 281080,
+      "what": "Old Hollis breaking ground on a fresh shaft with a shovel; crew watching; black-and-white 1950s newspaper halftone",
+      "sha256": "fcb6fcc3ecff65bf3622a5618b22b23e5dfee2e9feae1a417a9ac00e1b7b9ee6"
+    },
+    {
+      "file": "jobs/herald-new-shaft.webp",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 345086,
+      "what": "Old Hollis breaking ground on a fresh shaft with a shovel; crew watching; black-and-white 1950s newspaper halftone",
+      "sha256": "b289c6e42251b625bab07730b2a81066bbc831357718eca9c8af5078b585d46b"
+    },
+    {
+      "file": "jobs/herald-grain-elevator.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 230249,
+      "what": "Granger Grain Elevator opening: farmers and Old Hollis at the ribbon cutting; black-and-white 1950s newspaper halftone",
+      "sha256": "c709485f84f926c2b53b2551c10de558d46c765e7c8600b0602f3ec53da66828"
+    },
+    {
+      "file": "jobs/herald-grain-elevator.webp",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 294518,
+      "what": "Granger Grain Elevator opening: farmers and Old Hollis at the ribbon cutting; black-and-white 1950s newspaper halftone",
+      "sha256": "04de792980a3d0e48534f2fddc43b6639c23a93e533941e1fbf1ae48fd390f0d"
+    },
+    {
+      "file": "jobs/herald-radio-tower.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 235415,
+      "what": "WHSN Radio Tower opening: station crew and Old Hollis beneath finished mast; black-and-white 1950s newspaper halftone",
+      "sha256": "41f30b40a157bcd8477b7687cdfba16b77b31228a17c8f10ace5f53ccc0914d3"
+    },
+    {
+      "file": "jobs/herald-radio-tower.webp",
+      "size": [
+        768,
+        512
+      ],
+      "bytes": 299568,
+      "what": "WHSN Radio Tower opening: station crew and Old Hollis beneath finished mast; black-and-white 1950s newspaper halftone",
+      "sha256": "695a6dff3ac864d2d61a43d2d2594b9b2cd8bf72cd3a7ebe3787c70d5517cd8d"
+    }
+  ],
+  "generation_log": [
+    {
+      "id": "crates",
+      "prompt": "Production art for Hollis & Sons Excavation. A transparent 2x2 sheet of FOUR supply crates, equal square cells, ideally 2048x2048. TOP LEFT normal CLOSED, TOP RIGHT normal OPEN, BOTTOM LEFT gold CLOSED, BOTTOM RIGHT gold OPEN. The attached four references in that exact order are LOCKED DESIGNS: keep their cube proportions, camera/perspective, number and direction of broad honey-orange wooden planks, dark-brown outline weight, steel or brass corners and rivet positions, and simple upper-left painted lighting. Enlarge them faithfully with more visible restrained wood grain and painted material detail; do not redesign. Each crate centered inside its own cell with generous clear transparent gutters, occupying 88% cell width/height, complete silhouette never cropped. Same crate body dimensions, perspective and ground line across all four. Final each is 512x512 but must remain legible at 64px. NOT treasure chests, no rounded lid, no latch or keyhole, no contents.\nMatch exactly the existing painted 1950s American industrial poster style: broad flat ochre/teal/cream/copper/brass color planes, two decisive shade planes, sturdy rounded forms, consistent warm dark chocolate #3D2A21 outlines, upper-left warm light, fine restrained grain inside artwork only. No realistic 3D render, no gradient backdrop, no exterior glow or drop shadow. Real transparent alpha outside crates and through open spaces. No checkerboard.\nTOP LEFT normal closed: standard honey wood, grey STEEL riveted corner fittings, flat wooden lid on. NO star or symbol on normal crates. TOP RIGHT same normal crate with lid completely OFF and absent, EMPTY inside, warm wood color but no magical glow, interior floor clearly visible and defined. BOTTOM LEFT gold closed: same gold-trimmed crate as reference3, warm BRASS corner bands/rivets, prominent stamped GOLD five-point STAR with dark-brown inset outline on FRONT, flat closed lid. BOTTOM RIGHT same gold crate OPEN with lid completely absent, same star and brass placement, EMPTY inside with soft warm golden light contained ONLY inside cavity and along inner rim; NO beams, stars, particles, exterior aura or coins. All four must clearly read as matched normal/gold and closed/open at 64px.\nAbsolutely NO text, letters, labels, numbers, logos, marks on wood or decorative runes. Don't add text even as wood-grain suggestions. No grid lines or panel labels.",
+      "native_size": [
+        1254,
+        1254
+      ],
+      "native_sha256": "f314c673e21c8b18c82963004d48ea3cc881914101bbab95d1173808df49499f",
+      "selected": true
+    },
+    {
+      "id": "grain-finished",
+      "prompt": "Create ONE finished WEEKLY BIG ORDER landmark sprite for Hollis & Sons, transparent wide canvas exactly 780x240 framing (or a high-resolution canvas in precisely 3.25:1 proportion). The attached county dam stage4 establishes CAMERA, distance/scale, horizon-free isolated cutout, bottom-edge ground line y=226, brown painted outlines and palette. Match its painted 1950s American industrial poster style EXACTLY: pale warm concrete/cream #EFE4C8, desaturated teal #2F6B66, muted signal red #C8442F, ochre wood, light warm-brown outlines rather than heavy black, two broad painted shade planes, restrained internal grain, warm light from UPPER LEFT. Distant background view, slightly hazy low contrast expressed by muted paint INSIDE the objects, not exterior fog. No modern photorealism, 3D render or isometric overhead diorama. Mostly front-facing with very narrow visible right sides just as the dam. Everything sits on one shallow concrete site footing/slab whose bottom edge is horizontal and at y=226. Fixed footprint slab spans x=60..720. Leave actual transparent padding below it and at both sides. No landscape, grass, sky, separate ground shadow or rectangular backdrop. Real clean alpha outside silhouettes and through lattice gaps. No signs, lettering, text, logos, numbers, brands or decorative glyphs ANYWHERE. All parts fit inside the wide canvas, no crop. This finished image will be used as the locked registration reference for construction states: make positions clear and coherent.\nGRANGER GRAIN ELEVATOR, finished and in use. Mid-century small concrete grain facility: a TALL narrow rectangular elevator headhouse with a small dark teal cap reaches top y=16, center at x=355, base at y=220. A connected bank of THREE pale concrete cylindrical grain silos is immediately to the left, centers x=230,275,320, top near y=74, bottom220. Dark teal short loading spouts/pipe; loading shed on RIGHT from x=420 to580, cream concrete with teal sloping roof top y=150, ground220, open front loading bay. A 1950s farm TRUCK parked under the loading spout at x=575..670, wheels rest on ground220: small ochre/teal cab and open wooden grain bed, clearly a working vehicle, no logo. Very tiny farmer seen in side profile beside truck, cap and overalls. Fixed shallow concrete site slab x60..720, bottom226. No vegetation or grain heaps on ground. Facility should fit within y=16..226 and not grow bigger than the reference scale. The tall headhouse, silos, shed and truck form one clear engineered silhouette. All construction scaffolding removed.",
+      "native_size": [
+        1871,
+        841
+      ],
+      "native_sha256": "0449dbbb882a0becadbc74e484974ad87ee9e76f3fc010e3b40f99c5a6d1cb6f",
+      "selected": true
+    },
+    {
+      "id": "radio-finished",
+      "prompt": "Create ONE finished WEEKLY BIG ORDER landmark sprite for Hollis & Sons, transparent wide canvas exactly 780x240 framing (or a high-resolution canvas in precisely 3.25:1 proportion). The attached county dam stage4 establishes CAMERA, distance/scale, horizon-free isolated cutout, bottom-edge ground line y=226, brown painted outlines and palette. Match its painted 1950s American industrial poster style EXACTLY: pale warm concrete/cream #EFE4C8, desaturated teal #2F6B66, muted signal red #C8442F, ochre wood, light warm-brown outlines rather than heavy black, two broad painted shade planes, restrained internal grain, warm light from UPPER LEFT. Distant background view, slightly hazy low contrast expressed by muted paint INSIDE the objects, not exterior fog. No modern photorealism, 3D render or isometric overhead diorama. Mostly front-facing with very narrow visible right sides just as the dam. Everything sits on one shallow concrete site footing/slab whose bottom edge is horizontal and at y=226. Fixed footprint slab spans x=60..720. Leave actual transparent padding below it and at both sides. No landscape, grass, sky, separate ground shadow or rectangular backdrop. Real clean alpha outside silhouettes and through lattice gaps. No signs, lettering, text, logos, numbers, brands or decorative glyphs ANYWHERE. All parts fit inside the wide canvas, no crop. This finished image will be used as the locked registration reference for construction states: make positions clear and coherent.\nWHSN RADIO BROADCAST TOWER, finished and in use. A TALL tapered RED and CREAM-WHITE steel lattice broadcast tower centered at x=345, top y=14, foot y=220, base from x=298..392 narrowing to tip. Strong simple lattice diagonal cross braces visible at 390px width. Red obstruction beacon contained in a small lamp at tip, no exterior glow or radio waves. Subtle slender guy cables fixed from upper mast to small concrete anchor pads at x=130 and x=630, ground y220; use just TWO cables, no tangles. A small cream station house with muted teal pitched roof sits on RIGHT from x=455..590, roofpeak y=151, floor220. Blank unobstructed wall, unlettered front door and two windows. 1950s small cream/teal utility VAN parked at x=590..680, wheels220, no lettering. Two tiny radio technicians beside station in side profile, caps and work overalls, actively arriving for a broadcast. Fixed shallow concrete site slab x60..720, bottom226. No billboard, call letters, signs or radio symbols. Tall mast should fill y14..220 within the wide frame, similar total vertical scale to the existing dam. Complete full mast and cables, no crop. All construction scaffolding removed.",
+      "native_size": [
+        1958,
+        803
+      ],
+      "native_sha256": "96750097091f9e622e092984a3d27c7c31195d75775f06719f6d8c9fdafd86e4",
+      "selected": true
+    },
+    {
+      "id": "prestige-photos",
+      "prompt": "Create TWO Hollis Herald illustrated 1950s press photographs, side by side on one full-bleed sheet, exact 3:1 canvas (ideally 2304x768). Each half is a separate 3:2 landscape photo intended 768x512. No gutter, panel border, caption or masthead. Image1 (existing Herald crew) and Image2 (news-caves) are the EXACT print/drawing style reference: mid-century industrial illustration reproduced as a gritty archival newspaper photo, bold decisive ink contours, warm upper-left light translated into strong BLACK/WHITE tonal masses, dense fine halftone dots, engraving-like hatching and paper grain, same contrast. For these NEW images use NEUTRAL BLACK, GREY AND WHITE only, truly black-and-white; no sepia/yellow tint or color. This is the SAME Hollis painted illustrative world reproduced in newspaper ink, not contemporary realistic photography and not a clean modern vector.\nImage3 is Old Hollis's locked identity: elderly broad friendly face, swept back white hair, bushy eyebrows, broad nose, big curled white moustache, suit, vest, tie, pocket square, watch chain. Preserve his recognizability in monochrome.\nCRITICAL for EVERY person in BOTH photos: NO face looks straight at the camera. Every visible face is a clear side profile or three-quarter profile looking toward another person or the activity. Background workers may show backs of heads. All clothing 1950s work clothes, caps, brimmed hats or hard hats, no modern safety vests. Anatomically simple correct hands and limbs, natural candid poses. Large clear composition readable at 240px width. Absolutely NO lettering, logos, numbers or text except the single word SOLD exactly once on the LEFT photo's sign. All other signboards blank.\nLEFT HALF: mine sale scene. A wooden mine gate in middle ground with a large rectangular hanging board that reads exactly SOLD in bold dark uppercase letters, only this one word. Four cheerful adult crew members (men and women in period work clothes and caps) just behind the gate, waving TO OLD HOLLIS as he stands prominently in foreground at left, body turned toward the gate and face looking back toward crew in RIGHT-FACING PROFILE; his hands relaxed, no hand aimed at lens. Crew faces look toward Hollis/off-left, none toward viewer. Gate and mine workshop in background, no other lettering. The hanging SOLD sign is prominent near center and fully visible, not covered by people.\nRIGHT HALF: breaking ground on fresh mine shaft. Old Hollis prominent at front-left in RIGHT-FACING SIDE PROFILE, white hair/moustache recognizable, jacket off but period waistcoat/vest, white shirt with rolled sleeves, tie tucked neatly, both hands naturally gripping a long shovel whose steel blade presses into fresh earth at the shaft location near front-center. A low new square shaft collar/timber layout behind the shovel. Three crew members behind him in profile watching THE SHOVEL and Hollis, caps/hard hats, period overalls. Small blank wooden site board at right if any, no lettering. No huge existing pit or dangerous deep drop, just fresh ground and timbers. Natural upper-left daylight, print grain and ink contrast exactly like existing Herald references.\nNo portrait gaze at viewer anywhere in either half. Keep heads/hands and SOLD board safely inside each half's framing. Opaque full-frame neutral grey-white newsprint throughout.",
+      "native_size": [
+        2172,
+        724
+      ],
+      "native_sha256": "238e8b4abcf89e7dd1b51b938c6fa8dc808e2110c45452a8caa3f644478c641a",
+      "selected": true
+    },
+    {
+      "id": "grain-stage-1",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 1: ONLY low site foundations and minimal scaffold. On the EXACT same site slab, retain the low concrete base pads at the same positions. REMOVE the silos, tall headhouse, conveyor, complete shed, truck and people. In place of silos leave three LOW concrete silo-ring footings, in place of headhouse a short rectangular footing with a few rebar ends, at the shed location low footings and four very short unfinished posts. A small stack of timber/formwork and ONE low timber scaffold only, all under 18% of completed height. Mostly transparent empty headroom and a low horizontal site, so it reads instantly as foundation only. Don't add new buildings or machines.\nFINAL CHECK: stage1 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1870,
+        841
+      ],
+      "native_sha256": "dd96900a51b3a49ba97c3019a09c52b8bd8ae87b0b20f5527a2af30160c44551",
+      "selected": true
+    },
+    {
+      "id": "grain-stage-2",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 2: HALF BUILT at the EXACT same footprint. Same three silo cylinders grown to only HALF their final height, flat unfinished tops, pale concrete lower walls, short rebar ends. The elevator headhouse only HALF its final height and no teal headhouse cap yet; same width and x position. Shed only timber/steel upright frame at its exact location, incomplete partial roof, no closed facade. Modest timber scaffolding wrapped around half-height headhouse, a couple of crates. NO truck, people, conveyor or complete roofs. Every still-absent upper part is transparent headroom; do not shrink full-height completed building to simulate construction.\nFINAL CHECK: stage2 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1870,
+        841
+      ],
+      "native_sha256": "6c80bec7dc394a62f5e2bdd111998a32d00f133fc9f5ae1a5ea640e0b84a4d4e",
+      "selected": true
+    },
+    {
+      "id": "grain-stage-3",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 3: NEARLY DONE WITH PROMINENT SCAFFOLDING. Keep the exact completed heights and x positions of ALL three silos, tall headhouse, conveyor and loading shed from reference; DO NOT move or resize them. Buildings complete in silhouette, one shed roof section missing and opening unglazed if relevant. Add clear timber scaffolding and cross bracing along the headhouse's right side and in front of shed, boards/crates waiting below. No truck, no operating people, loading bay empty. Site reads as nearly finished but still under construction, visibly distinct from final state by scaffold and absent vehicle. Preserve the concrete lower walls and static facade/window positions.\nFINAL CHECK: stage3 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1870,
+        841
+      ],
+      "native_sha256": "1ce47e5f67ff9d598511aac56dc836e0e58ff3efa69db40cafb70a5476346537",
+      "selected": true
+    },
+    {
+      "id": "radio-stage-1",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 1: ONLY low site footings and minimal scaffold. Preserve EXACT site slab and three mast foot pads, left/right guy anchor blocks, and station-house foundation footprint. REMOVE almost all tower above its lowest short red leg stubs: mast under 15% final height, no upper tower, beacon or guy wires. Station house absent except very low rectangular concrete foundation and a few short exposed upright stubs. A SMALL low timber scaffold and two stacked tower sections lying on ground at same tower location, crates near station foundation. NO van, people, station roof, windows or complete house. Most of image above footings is transparent, foundation stage overwhelmingly low and bare.\nFINAL CHECK: stage1 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1958,
+        803
+      ],
+      "native_sha256": "f1fee45a3de68d42e03a83aaa0d3eb13834e486bbe6f14824aeaee5cba298426",
+      "selected": true
+    },
+    {
+      "id": "radio-stage-2",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 2: HALF BUILT at EXACT same footprint. Preserve slab/anchor blocks and tower's exact three-foot position and lower-lattice width. Mast grows vertically to HALF final height, same lower cross braces as reference but no narrow upper half, no beacon and NO guy wires rising to absent top. Timber construction scaffolding beside the half-height tower. Station house only HALF HEIGHT cream walls at same x/span as reference, open upper framing and roof absent, window/door openings unfinished. A couple stacked steel sections/crates but NO van or operating people. Clearly half the final tower height, large transparent headroom.\nFINAL CHECK: stage2 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1958,
+        803
+      ],
+      "native_sha256": "d4fb0a21c83ae9b5318742bc4b4e4537a245042be7d9d8c1c4a6d0c975ffc176",
+      "selected": true
+    },
+    {
+      "id": "radio-stage-3",
+      "prompt": "REGISTERED CONSTRUCTION-STATE EDIT of the attached finished Hollis & Sons landmark. Treat it as a LOCKED CAMERA AND BLUEPRINT, not loose inspiration. Output ONE transparent sprite on the EXACT SAME full canvas and in the SAME original pixel coordinate system as this reference. Preserve its site slab, footprint, slab endpoints, slab bottom ground line, base pad x positions, structure centerlines, camera angle, perspective and lighting. Nothing may be zoomed, recentered, stretched, rotated, shifted horizontally, or moved down as it is built. The full building reference occupies its FINAL size/location; remove upper pieces to make construction states and leave empty alpha there rather than resizing the whole structure. Preserve all still-existing portions and their paint colors, outlines and material detail. No stage labels or diagrams. Same painted 1950s industrial poster, muted cream/teal/red/ochre, warm brown outlines, upper-left warm light, two broad shade planes, restrained grain, distant background scale. No background, sky, grassy island, scenery, exterior cast shadow or fog. Genuinely transparent alpha outside art and through openings. Entire foundation and all structural parts stay inside canvas with clear margins. NO text, letters, numbers, call signs, logos or markings anywhere.\nSTAGE 3: NEARLY DONE WITH PROMINENT SCAFFOLDING. Same FULL tower silhouette, identical tip position, same taper, red/cream band boundaries, cross-brace positions, feet and guy-wire anchor points as finished reference. Keep same FULL station house roof/façade position and size, with one unglazed window. Add obvious timber scaffold up beside LOWER tower (not replacing lattice) and across front side of station house, a ladder and construction crates. Beacon fitted but unlit. NO van and no operating people; station steps empty. Must read nearly finished but still being worked on. Do not enlarge tower, widen site or move house.\nFINAL CHECK: stage3 must be obviously different at 390px width, but its concrete slab, structural foundation pads, structure footprint and ground line MUST overlay the reference without a camera jump. Main structure cannot migrate to a different spot.",
+      "native_size": [
+        1958,
+        803
+      ],
+      "native_sha256": "a0376d0e7be58e1b8201049d2ded8fb0b76afe81a274bb851a43ce3d8f708528",
+      "selected": true
+    },
+    {
+      "id": "opening-photos",
+      "prompt": "Create TWO Hollis Herald illustrated 1950s OPENING DAY press photos side-by-side on one full-bleed sheet, exact 3:1 total canvas (ideally 2304x768); each half a separate 3:2 landscape composition, intended final 768x512. No gutter, borders, masthead, caption or panel labels. Match the existing Herald crew and news-caves references EXACTLY in period drawing, strong tonal contrast, halftone dots, hatched ink shadows, old paper grain and upper-left lighting. Render these NEW photos in NEUTRAL BLACK/WHITE/GREY only, no sepia color tint. Same friendly painted 1950s illustrative world printed as a gritty newspaper press photo; not modern realistic photographic humans, not glossy/vector art.\nReference images: 1 existing Herald crew is print/style reference; 2 Old Hollis is locked facial identity (white swept-back hair, bushy eyebrows, big curled white moustache, broad nose, broad kindly face, waistcoat/suit/tie/pocket square/watch chain). 3 finished GRAIN ELEVATOR is the actual building design for left photo. 4 finished RADIO TOWER is actual building design for right photo. Keep those facilities recognizable in each photo, translated to monochrome, no architecture redesign.\nCRITICAL: EVERY face in BOTH photos looks AWAY from camera, in clear side or three-quarter profile toward the activity or another person, or back of head. No person, including background people, looks straight toward viewer. Period 1950s shirts, work overalls, caps/brimmed hats, trousers and work boots. No modern safety vests, modern microphones or contemporary clothes. Natural candid group poses, simple correct hands/limbs. No branding, words, numbers, call letters, signs with text, logos or lettering ANYWHERE. All plaques and boards entirely blank. No SOLD sign in these images. Scenes readable at 240px width.\nLEFT PHOTO: GRANGER GRAIN ELEVATOR ribbon cutting. Old Hollis and three farmers (two men and one woman in 1950s farm work clothes and caps or brimmed hats) at a ribbon stretched across the foreground at the new grain loading shed. Old Hollis on left in RIGHT-FACING PROFILE, cutting the ribbon with large simple ceremonial scissors, one farmer on right in LEFT-FACING PROFILE holds ribbon end, remaining two at side profile watching scissors, never viewer. Behind them the exact reference facility: three pale cylindrical concrete silos on left, tall rectangular concrete elevator headhouse near center with small cap, diagonal conveyor toward right low teal-roofed loading shed, 1950s farm grain truck beside/under shed on right. Lower heads in foreground large enough to recognize Old Hollis, building provides unmistakable grain-elevator context. No banners with writing.\nRIGHT PHOTO: RADIO TOWER opening day. Old Hollis at front-left in RIGHT-FACING PROFILE talking with three station technicians/announcer crew, everyone looking at each other or UP the mast, no forward gaze. Old Hollis in suit/vest, station crew in period work shirts/caps and one 1950s suit, no handheld signs. Stand under the exact finished reference broadcast tower: tapered red-white lattice translated into grey/white bands, strong recognizable diagonal braces behind and above the group, guy wires toward side anchor blocks, small pitched-roof cream station house on right, parked rounded period utility van beside it. Mast rises convincingly above them; don't invent a giant modern antenna dish. Opening day activity is the gathering/pointing at tower, one technician can hold a small old-fashioned clipboard whose paper is blank. No text or call letters on house, van, clipboard or tower.\nOpaque grey-white newsprint edge to edge. Every person remains in candid averted profile.",
+      "native_size": [
+        2172,
+        724
+      ],
+      "native_sha256": "499689f7ca3902136082b22158c14e1471d9864ac22102883da183ff6a4e563c",
+      "selected": false,
+      "selection_note": "Superseded: tiny background bystanders faced forward. Selected cleanup removes all background people."
+    },
+    {
+      "id": "opening-clean",
+      "prompt": "Make a very narrow cleanup of this existing TWO-PHOTO Hollis Herald sheet. Preserve the exact 3:1 canvas, the center split, both foreground groups, their faces and averted gazes, the grain facility and tower architecture, vehicles, ribbon and scissors, composition, contrast, paper grain and halftone printing. Do not change lettering (there is none), add new people, or redesign anything.\nONLY REMOVE every tiny BACKGROUND PERSON from the LEFT grain-elevator photo: the small bystanders at the extreme left edge beside the silos, and the small worker near the loading bay/truck. Replace them with the natural continuation of existing empty yard, wall or loading-bay surface. Leave exactly FOUR people in that LEFT photo, all in the large FOREGROUND group: Old Hollis and the three farmers. They remain looking at one another or the scissors in side/three-quarter profile, never the camera. The RIGHT radio opening photograph already has the correct foreground group; preserve it and add nobody in its background.\nEvery single visible face across both photos MUST be an averted profile looking toward the group/activity, never straight toward viewer. Preserve neutral black-and-white newspaper tonality, same 1950s industrial illustrated press photo character. No words, lettering, logos or numbers anywhere. Full opaque paper, no new border or gutter. This is only background-bystander removal.",
+      "native_size": [
+        2172,
+        724
+      ],
+      "native_sha256": "bf6ce4f1139ba9a9bead5f8ece80dfc5f5416627e30388c63e84cc8b1bb669cd",
+      "selected": true,
+      "selection_note": "Selected: exactly four foreground people in each opening scene, averted faces, no background bystanders."
+    }
+  ],
+  "export_notes": [
+    "All original art generated with imagegen; export extracts sprites, performs uniform size/ground-line registration, and encodes requested formats.",
+    "Herald JPGs are neutral grayscale as requested; their WebPs losslessly encode the delivered JPG pixels.",
+    "Only SOLD is lettered. All other signs, clothing, vehicles and buildings are unlettered.",
+    "Weekly canvases retain empty headroom in early stages; preserve full 780x240 frames. Their bottom-edge anchor is (390,226)."
+  ],
+  "stage_registration": [
+    {
+      "family": "grain",
+      "solid_site_span": [
+        137,
+        641
+      ],
+      "ground_line_y": 226,
+      "stage_heights_px": [
+        47,
+        140,
+        211,
+        209
+      ],
+      "unchanged_foundation_template_box": [
+        343,
+        213,
+        385,
+        224
+      ],
+      "foundation_patch_matches": [
+        {
+          "stage": 1,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 12.679
+        },
+        {
+          "stage": 2,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 13.056
+        },
+        {
+          "stage": 3,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 11.512
+        }
+      ],
+      "stage_3_vs_4_full_height_difference_px": 2
+    },
+    {
+      "family": "radio",
+      "solid_site_span": [
+        145,
+        633
+      ],
+      "ground_line_y": 226,
+      "stage_heights_px": [
+        50,
+        147,
+        211,
+        211
+      ],
+      "unchanged_foundation_template_box": [
+        333,
+        216,
+        377,
+        224
+      ],
+      "foundation_patch_matches": [
+        {
+          "stage": 1,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 8.488
+        },
+        {
+          "stage": 2,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 9.58
+        },
+        {
+          "stage": 3,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 17.143
+        }
+      ],
+      "stage_3_vs_4_full_height_difference_px": 0
+    }
+  ]
+}

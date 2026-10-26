@@ -1,0 +1,377 @@
+{
+  "result": "PASS",
+  "production_assets": 16,
+  "production_art_files": 32,
+  "transparent_pngs": 12,
+  "black_and_white_jpgs": 4,
+  "lossless_webps": 16,
+  "checks": [
+    "Exact filenames and required dimensions",
+    "Real RGBA transparency with completely clear outside canvas edges",
+    "Crates centered within 1.5 pixels and reviewed at 64px",
+    "All four Herald JPGs are literal neutral grayscale with pixel-matched lossless WebPs",
+    "All 16 WebPs decode to the same RGBA pixels as the PNG/JPG counterpart",
+    "All stages share an identical solid site span and ground line at y=226",
+    "Static lower foundation patch best matches stage 4 at zero x/y offset in all six earlier frames",
+    "Stage 1 less than 30% of finished height; stage 2 less than 80%; stage 3 nearly final height",
+    "Manifest sizes, bytes and SHA-256 values match all 32 delivered art files",
+    "Game checkout unchanged"
+  ],
+  "manual_review": {
+    "status": "Complete",
+    "crates": "All four at actual 64px, compared against existing small reference designs, on cream / dark teal / earth backgrounds",
+    "weekly_stages": "All eight at actual 390px width, sequential shared-canvas filmstrip and registered edge overlays; swap preview frames retain fixed foundation and ground line",
+    "herald": "All four full-size and reduced; faces averted, period clothing, architecture matches the new finished facilities; SOLD appears only in sold-sign scene, other signs and surfaces unlettered",
+    "cleanup": "Opening-day grain photo regenerated to remove tiny front-facing background bystanders"
+  },
+  "alignment": [
+    {
+      "family": "grain",
+      "solid_site_span": [
+        137,
+        641
+      ],
+      "ground_line_y": 226,
+      "stage_heights_px": [
+        47,
+        140,
+        211,
+        209
+      ],
+      "unchanged_foundation_template_box": [
+        343,
+        213,
+        385,
+        224
+      ],
+      "foundation_patch_matches": [
+        {
+          "stage": 1,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 12.679
+        },
+        {
+          "stage": 2,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 13.056
+        },
+        {
+          "stage": 3,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 11.512
+        }
+      ],
+      "stage_3_vs_4_full_height_difference_px": 2
+    },
+    {
+      "family": "radio",
+      "solid_site_span": [
+        145,
+        633
+      ],
+      "ground_line_y": 226,
+      "stage_heights_px": [
+        50,
+        147,
+        211,
+        211
+      ],
+      "unchanged_foundation_template_box": [
+        333,
+        216,
+        377,
+        224
+      ],
+      "foundation_patch_matches": [
+        {
+          "stage": 1,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 8.488
+        },
+        {
+          "stage": 2,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 9.58
+        },
+        {
+          "stage": 3,
+          "best_static_foundation_offset_px": [
+            0,
+            0
+          ],
+          "mean_absolute_RGB_difference": 17.143
+        }
+      ],
+      "stage_3_vs_4_full_height_difference_px": 0
+    }
+  ],
+  "assets": [
+    {
+      "id": "normal-closed",
+      "file": "gear/crate-closed-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        32,
+        21,
+        478,
+        491
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "normal-open",
+      "file": "gear/crate-open-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        29,
+        19,
+        482,
+        492
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "gold-closed",
+      "file": "jobs/gold-crate-closed-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        32,
+        21,
+        480,
+        490
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "gold-open",
+      "file": "jobs/gold-crate-open-lg.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        29,
+        18,
+        483,
+        494
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "grain-1",
+      "file": "jobs/weekly-grain-elevator-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        137,
+        179,
+        641,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "grain-2",
+      "file": "jobs/weekly-grain-elevator-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        137,
+        86,
+        641,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "grain-3",
+      "file": "jobs/weekly-grain-elevator-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        137,
+        15,
+        641,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "grain-4",
+      "file": "jobs/weekly-grain-elevator-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        137,
+        17,
+        641,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "radio-1",
+      "file": "jobs/weekly-radio-tower-1.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        145,
+        176,
+        633,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "radio-2",
+      "file": "jobs/weekly-radio-tower-2.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        145,
+        79,
+        633,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "radio-3",
+      "file": "jobs/weekly-radio-tower-3.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        145,
+        15,
+        633,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "radio-4",
+      "file": "jobs/weekly-radio-tower-4.png",
+      "size": [
+        780,
+        240
+      ],
+      "mode": "RGBA",
+      "solid_bounds_alpha_gt_128": [
+        145,
+        15,
+        633,
+        226
+      ],
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": true
+    },
+    {
+      "id": "herald-sold-sign",
+      "file": "jobs/herald-sold-sign.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "L",
+      "solid_bounds_alpha_gt_128": null,
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": null
+    },
+    {
+      "id": "herald-new-shaft",
+      "file": "jobs/herald-new-shaft.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "L",
+      "solid_bounds_alpha_gt_128": null,
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": null
+    },
+    {
+      "id": "herald-grain-elevator",
+      "file": "jobs/herald-grain-elevator.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "L",
+      "solid_bounds_alpha_gt_128": null,
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": null
+    },
+    {
+      "id": "herald-radio-tower",
+      "file": "jobs/herald-radio-tower.jpg",
+      "size": [
+        768,
+        512
+      ],
+      "mode": "L",
+      "solid_bounds_alpha_gt_128": null,
+      "webp_decoded_pixels_identical": true,
+      "clear_canvas_edges": null
+    }
+  ]
+}
