@@ -1,0 +1,69 @@
+{
+  "file": "mole-courier-sheet-1200x1200.png",
+  "width": 1200,
+  "height": 1200,
+  "bytes": 1437377,
+  "sha256": "0df3a68ede3e95ea6742f306df7430f0fe93f53b7a10850e85ef332646730859",
+  "background": "opaque flat white",
+  "style_reference": "../../painted-camp/painted-camp-original-1600x600.png",
+  "lighting": "upper-left",
+  "frames": [
+    {
+      "row": 0,
+      "column": 0,
+      "rectangle": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "facing": "left",
+      "load": "dirt sack",
+      "phase": "left foot forward",
+      "local_ground_baseline": 531
+    },
+    {
+      "row": 0,
+      "column": 1,
+      "rectangle": [
+        600,
+        0,
+        600,
+        600
+      ],
+      "facing": "left",
+      "load": "dirt sack",
+      "phase": "right foot forward",
+      "local_ground_baseline": 531
+    },
+    {
+      "row": 1,
+      "column": 0,
+      "rectangle": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "facing": "left",
+      "load": "empty-handed",
+      "phase": "left foot forward",
+      "local_ground_baseline": 531
+    },
+    {
+      "row": 1,
+      "column": 1,
+      "rectangle": [
+        600,
+        600,
+        600,
+        600
+      ],
+      "facing": "left",
+      "load": "empty-handed",
+      "phase": "right foot forward",
+      "local_ground_baseline": 531
+    }
+  ],
+  "review": "Distinct opposite walking phases; four left-facing full-body characters; consistent helmet/body scale; no text, grid, scenery or ground shadows."
+}
