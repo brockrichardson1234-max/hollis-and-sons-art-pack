@@ -1,0 +1,64 @@
+{
+  "size": {
+    "width": 1600,
+    "height": 533
+  },
+  "source": "backdrop-clean-1600x533.png",
+  "notes": "Four imagegen mood edits derived independently from the same clean backdrop. Same framing; minor generated contour and texture differences remain.",
+  "images": [
+    {
+      "file": "backdrop-clean-1600x533.png",
+      "width": 1600,
+      "height": 533,
+      "description": "Clean backdrop",
+      "bytes": 1052878,
+      "sha256": "dc9afb1f9f7356717ceab689320c54fe60216350c3e1a8c80e1b88ec69c3e9a2"
+    },
+    {
+      "file": "backdrop-caves-1600x533.png",
+      "width": 1600,
+      "height": 533,
+      "description": "Caves",
+      "bytes": 1470954,
+      "sha256": "27feb2732e8bf820cffbcaf6c5870bfbcbe65d34ba0ea7b7bbe04bcdf6d64a83"
+    },
+    {
+      "file": "backdrop-crystal-caverns-1600x533.png",
+      "width": 1600,
+      "height": 533,
+      "description": "Crystal Caverns",
+      "bytes": 1395431,
+      "sha256": "07618073bbf90986e94481a60af7c012a967048f1c256d583cc29117dedb16bf"
+    },
+    {
+      "file": "backdrop-magma-1600x533.png",
+      "width": 1600,
+      "height": 533,
+      "description": "Magma",
+      "bytes": 1656059,
+      "sha256": "c6228ec2178abbe92b192771bb94b0d56b7656f558a5dee7b832c9db943b096a"
+    },
+    {
+      "file": "backdrop-the-core-1600x533.png",
+      "width": 1600,
+      "height": 533,
+      "description": "The Core",
+      "bytes": 1647790,
+      "sha256": "1644f4875ba0802b05ff369aa018fd83916c5271d5f1b3f9b498dbf24b82b222"
+    }
+  ],
+  "extras": [
+    {
+      "file": "layer-backdrops-preview.jpg",
+      "bytes": 365526,
+      "sha256": "92f69826116c5d58316ae69f7b9df2ec006f82597c5efaaef6dd5df158dedaf7",
+      "description": "All five backgrounds in order, with labels outside the artwork"
+    },
+    {
+      "file": "layer-backdrops.zip",
+      "bytes": 7226354,
+      "sha256": "3063ee8a7836c72e75c10a1ba7287247909412b8c4340ea06b81ff00fe202e06",
+      "description": "All five PNGs and the original delivery manifest"
+    }
+  ]
+}
