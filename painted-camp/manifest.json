@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "file": "painted-camp-original-1600x600.png",
+      "width": 1600,
+      "height": 600,
+      "bytes": 1429317,
+      "sha256": "3c62e464fff66b08f303a0d48cd7014527069b664bd54acee5c62a242c818d18"
+    },
+    {
+      "file": "painted-camp-empty-1600x600.png",
+      "width": 1600,
+      "height": 600,
+      "bytes": 1210782,
+      "sha256": "8c88752c86d61de866ea0d29d7724dbec4df81c6e0aa4f5e078c7a52b6942994"
+    },
+    {
+      "file": "edit-mask.png",
+      "width": 1600,
+      "height": 600,
+      "bytes": 102641,
+      "sha256": "8503874128610dc19592be534cbef328570e252aee3f565d8546c95d49b5ce5e"
+    }
+  ]
+}

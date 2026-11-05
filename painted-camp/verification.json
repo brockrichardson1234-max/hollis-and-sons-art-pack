@@ -1,0 +1,12 @@
+{
+  "size": {
+    "width": 1600,
+    "height": 600
+  },
+  "protected_pixels": 609509,
+  "outside_mask_changed_pixels": 0,
+  "changed_pixels": 344190,
+  "top_228_rows_changed_pixels": 0,
+  "method": "Existing imagegen removal fill composited over source using refined object-removal masks. Original pixels retained outside the masks.",
+  "limits": "Mask includes objects, shadows and local blend margins; it is not a transparency matte. Some visible terrain within those margins is reconstructed. Subtraction does not prove clean foreground extraction."
+}
